@@ -8,3 +8,23 @@
 \contentsline {section}{\numberline {1.2}La macchina cellulare}{3}{section.1.2}% 
 \contentsline {subsection}{\numberline {1.2.1}Impatto dei microbi sulle attivit\`a umane}{4}{subsection.1.2.1}% 
 \contentsline {subsection}{\numberline {1.2.2}Ricombinazione del DNA}{4}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.3}Microrganismi come modello}{4}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Il conflitto sulla generazione spontanea}{5}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Postulati di Koch}{5}{subsection.1.3.2}% 
+\contentsline {subsubsection}{I postulati di Koch molecolari}{5}{section*.4}% 
+\contentsline {section}{\numberline {1.4}Differenze tra batteri, archei ed eucarioti}{6}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}I batteri}{7}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Composizione elementare}{7}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Strutture e loro funzioni}{8}{subsection.1.5.2}% 
+\contentsline {subsubsection}{Membrana plasmatica}{8}{section*.9}% 
+\contentsline {subsubsection}{Vacuolo gassoso}{8}{section*.10}% 
+\contentsline {subsubsection}{Ribosomi}{8}{section*.11}% 
+\contentsline {subsubsection}{Corpi d'inclusione}{8}{section*.12}% 
+\contentsline {subsubsection}{Nucleoide}{8}{section*.13}% 
+\contentsline {subsubsection}{Spazio periplasmatico}{8}{section*.14}% 
+\contentsline {subsubsection}{Parete cellulare}{8}{section*.15}% 
+\contentsline {subsubsection}{Capsule e strati mucosi}{9}{section*.16}% 
+\contentsline {subsubsection}{Fimbrie e pili}{9}{section*.17}% 
+\contentsline {subsubsection}{Flagelli}{9}{section*.18}% 
+\contentsline {subsubsection}{Endospora}{9}{section*.19}% 
+\contentsline {chapter}{\numberline {2}La parete cellulare}{10}{chapter.2}% 

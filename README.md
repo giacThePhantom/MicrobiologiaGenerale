@@ -16,4 +16,3 @@ pregati per lo meno di rendere noti, fareste un grande favore)
 
 ## Known issues
 
-Questo test secondo test figa.

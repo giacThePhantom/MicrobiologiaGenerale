@@ -43,3 +43,9 @@
 \contentsline {subsubsection}{Il movimento flagellare nelle diverse categorie}{19}{section*.39}% 
 \contentsline {subsection}{\numberline {2.4.3}La sintesi flagellare}{19}{subsection.2.4.3}% 
 \contentsline {subsection}{\numberline {2.4.4}I flagelli negli spirocheti}{20}{subsection.2.4.4}% 
+\contentsline {chapter}{\numberline {3}Popolazione batterica}{21}{chapter.3}% 
+\contentsline {subsection}{\numberline {3.0.1}Conta vitale}{21}{subsection.3.0.1}% 
+\contentsline {subsection}{\numberline {3.0.2}Misura della torbidit\`a}{21}{subsection.3.0.2}% 
+\contentsline {subsection}{\numberline {3.0.3}Most Probable Number}{22}{subsection.3.0.3}% 
+\contentsline {section}{\numberline {3.1}Sistemi di coltivazione microbica}{22}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Chemostato}{22}{subsection.3.1.1}% 

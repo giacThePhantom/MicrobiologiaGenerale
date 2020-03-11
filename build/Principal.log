@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  10 MAR 2020 19:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  11 MAR 2020 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1570,7 +1570,7 @@ l.1 \chapter
 
 ]
 Capitolo 1.
-<Pictures/AlberoVita.png, id=163, 1238.6275pt x 641.39626pt>
+<Pictures/AlberoVita.png, id=194, 1238.6275pt x 641.39626pt>
 File: Pictures/AlberoVita.png Graphic file (type png)
 <use Pictures/AlberoVita.png>
 Package pdftex.def Info: Pictures/AlberoVita.png  used on input line 15.
@@ -1586,7 +1586,7 @@ Overfull \hbox (16.03362pt too wide) in paragraph at lines 26--41
 [2
 
 ]
-<Pictures/MacchinaCellulare.png, id=173, 185.2521pt x 192.2382pt>
+<Pictures/MacchinaCellulare.png, id=203, 185.2521pt x 192.2382pt>
 File: Pictures/MacchinaCellulare.png Graphic file (type png)
 <use Pictures/MacchinaCellulare.png>
 Package pdftex.def Info: Pictures/MacchinaCellulare.png  used on input line 46.
@@ -1597,19 +1597,19 @@ Package pdftex.def Info: Pictures/MacchinaCellulare.png  used on input line 46.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./Pictures/AlberoVita.png>] [4 <./Pictures/MacchinaCellulare.png>]
-<Pictures/DiffBatArcEu.png, id=189, 1300.86pt x 869.2475pt>
+<Pictures/DiffBatArcEu.png, id=219, 1300.86pt x 869.2475pt>
 File: Pictures/DiffBatArcEu.png Graphic file (type png)
 <use Pictures/DiffBatArcEu.png>
 Package pdftex.def Info: Pictures/DiffBatArcEu.png  used on input line 87.
 (pdftex.def)             Requested size: 390.26102pt x 260.77626pt.
  [5]
 [6 <./Pictures/DiffBatArcEu.png>]
-<Pictures/CelluleEuPro.png, id=209, 707.64375pt x 728.7225pt>
+<Pictures/CelluleEuPro.png, id=239, 707.64375pt x 728.7225pt>
 File: Pictures/CelluleEuPro.png Graphic file (type png)
 <use Pictures/CelluleEuPro.png>
 Package pdftex.def Info: Pictures/CelluleEuPro.png  used on input line 93.
 (pdftex.def)             Requested size: 212.29475pt x 218.61844pt.
-<Pictures/AggBatterici.png, id=210, 718.685pt x 959.585pt>
+<Pictures/AggBatterici.png, id=240, 718.685pt x 959.585pt>
 File: Pictures/AggBatterici.png Graphic file (type png)
 <use Pictures/AggBatterici.png>
 Package pdftex.def Info: Pictures/AggBatterici.png  used on input line 99.
@@ -1619,7 +1619,7 @@ Overfull \hbox (3.79716pt too wide) in paragraph at lines 99--100
 [][] 
  []
 
-<Pictures/CosCellulaBat.png, id=211, 1279.78125pt x 429.605pt>
+<Pictures/CosCellulaBat.png, id=241, 1279.78125pt x 429.605pt>
 File: Pictures/CosCellulaBat.png Graphic file (type png)
 <use Pictures/CosCellulaBat.png>
 Package pdftex.def Info: Pictures/CosCellulaBat.png  used on input line 117.
@@ -1627,7 +1627,7 @@ Package pdftex.def Info: Pictures/CosCellulaBat.png  used on input line 117.
 [7 <./Pictures/CelluleEuPro.png> <./Pictures/AggBatterici.png>] [8 <./Pictures/
 CosCellulaBat.png>]) (./Chapters/02_StrutturaBatterica.tex [9]
 Capitolo 2.
-<Pictures/Peptidoglicano.png, id=241, 217.467pt x 243.09pt>
+<Pictures/Peptidoglicano.png, id=271, 217.467pt x 243.09pt>
 File: Pictures/Peptidoglicano.png Graphic file (type png)
 <use Pictures/Peptidoglicano.png>
 Package pdftex.def Info: Pictures/Peptidoglicano.png  used on input line 11.
@@ -1637,7 +1637,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 11--12
 [][] 
  []
 
-<Pictures/Peptidoglicano2.png, id=242, 192.8295pt x 236.8485pt>
+<Pictures/Peptidoglicano2.png, id=272, 192.8295pt x 236.8485pt>
 File: Pictures/Peptidoglicano2.png Graphic file (type png)
 <use Pictures/Peptidoglicano2.png>
 Package pdftex.def Info: Pictures/Peptidoglicano2.png  used on input line 15.
@@ -1662,7 +1662,7 @@ Overfull \hbox (0.53714pt too wide) in paragraph at lines 18--25
 e da due de-ri-va-ti del-lo zuc-che-ro, N-acetilglucosamina
  []
 
-<Pictures/3.png, id=249, 483.7272pt x 199.947pt>
+<Pictures/3.png, id=279, 483.7272pt x 199.947pt>
 File: Pictures/3.png Graphic file (type png)
 <use Pictures/3.png>
 Package pdftex.def Info: Pictures/3.png  used on input line 28.
@@ -1672,24 +1672,24 @@ Underfull \hbox (badness 1603) in paragraph at lines 31--37
 []\OT1/cmr/m/n/10 Le pa-re-ti cel-lu-la-ri nel mon-do dei
  []
 
-<Pictures/4.png, id=250, 271.2534pt x 205.2468pt>
+<Pictures/4.png, id=280, 271.2534pt x 205.2468pt>
 File: Pictures/4.png Graphic file (type png)
 <use Pictures/4.png>
 Package pdftex.def Info: Pictures/4.png  used on input line 40.
 (pdftex.def)             Requested size: 208.13574pt x 157.4893pt.
 [11 <./Pictures/3.png> <./Pictures/4.png>]
-<Pictures/5.png, id=260, 483.7272pt x 114.6684pt>
+<Pictures/5.png, id=290, 483.7272pt x 114.6684pt>
 File: Pictures/5.png Graphic file (type png)
 <use Pictures/5.png>
 Package pdftex.def Info: Pictures/5.png  used on input line 61.
 (pdftex.def)             Requested size: 433.62pt x 102.79115pt.
  [12 <./Pictures/5.png>]
-<Pictures/6.png, id=269, 356.532pt x 265.9536pt>
+<Pictures/6.png, id=299, 356.532pt x 265.9536pt>
 File: Pictures/6.png Graphic file (type png)
 <use Pictures/6.png>
 Package pdftex.def Info: Pictures/6.png  used on input line 66.
 (pdftex.def)             Requested size: 208.13574pt x 155.26366pt.
-<Pictures/7.png, id=270, 291.0072pt x 238.491pt>
+<Pictures/7.png, id=300, 291.0072pt x 238.491pt>
 File: Pictures/7.png Graphic file (type png)
 <use Pictures/7.png>
 Package pdftex.def Info: Pictures/7.png  used on input line 91.
@@ -1707,13 +1707,13 @@ Overfull \vbox (79.51811pt too high) has occurred while \output is active []
 
 
 [13 <./Pictures/6.png> <./Pictures/7.png>]
-<Pictures/8.png, id=279, 483.7272pt x 119.0046pt>
+<Pictures/8.png, id=310, 483.7272pt x 119.0046pt>
 File: Pictures/8.png Graphic file (type png)
 <use Pictures/8.png>
 Package pdftex.def Info: Pictures/8.png  used on input line 102.
 (pdftex.def)             Requested size: 433.62pt x 106.6782pt.
  [14 <./Pictures/8.png>]
-<Pictures/9.png, id=286, 330.9966pt x 170.5572pt>
+<Pictures/9.png, id=317, 330.9966pt x 170.5572pt>
 File: Pictures/9.png Graphic file (type png)
 <use Pictures/9.png>
 Package pdftex.def Info: Pictures/9.png  used on input line 125.
@@ -1723,7 +1723,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 125--126
 [][] 
  []
 
-<Pictures/10.png, id=287, 233.673pt x 277.035pt>
+<Pictures/10.png, id=318, 233.673pt x 277.035pt>
 File: Pictures/10.png Graphic file (type png)
 <use Pictures/10.png>
 Package pdftex.def Info: Pictures/10.png  used on input line 128.
@@ -1733,24 +1733,24 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 128--129
 [][] 
  []
 
-<Pictures/11.png, id=288, 483.7272pt x 185.9748pt>
+<Pictures/11.png, id=319, 483.7272pt x 185.9748pt>
 File: Pictures/11.png Graphic file (type png)
 <use Pictures/11.png>
 Package pdftex.def Info: Pictures/11.png  used on input line 136.
 (pdftex.def)             Requested size: 433.62pt x 166.71173pt.
-<Pictures/12.png, id=289, 483.7272pt x 264.99pt>
+<Pictures/12.png, id=320, 483.7272pt x 264.99pt>
 File: Pictures/12.png Graphic file (type png)
 <use Pictures/12.png>
 Package pdftex.def Info: Pictures/12.png  used on input line 139.
 (pdftex.def)             Requested size: 433.62pt x 237.54263pt.
-<Pictures/13.png, id=290, 253.9086pt x 226.9278pt>
+<Pictures/13.png, id=321, 253.9086pt x 226.9278pt>
 File: Pictures/13.png Graphic file (type png)
 <use Pictures/13.png>
 Package pdftex.def Info: Pictures/13.png  used on input line 143.
 (pdftex.def)             Requested size: 208.13574pt x 186.01965pt.
 [15 <./Pictures/9.png> <./Pictures/10.png> <./Pictures/11.png>] [16 <./Pictures
 /12.png> <./Pictures/13.png>]
-<Pictures/14.png, id=310, 350.7504pt x 198.9834pt>
+<Pictures/14.png, id=340, 350.7504pt x 198.9834pt>
 File: Pictures/14.png Graphic file (type png)
 <use Pictures/14.png>
 Package pdftex.def Info: Pictures/14.png  used on input line 161.
@@ -1761,23 +1761,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--170
  []
 
 [17 <./Pictures/14.png>]
-<Pictures/15.png, id=317, 264.99pt x 378.6948pt>
+<Pictures/15.png, id=347, 264.99pt x 378.6948pt>
 File: Pictures/15.png Graphic file (type png)
 <use Pictures/15.png>
 Package pdftex.def Info: Pictures/15.png  used on input line 173.
 (pdftex.def)             Requested size: 208.13574pt x 297.44942pt.
-<Pictures/16.png, id=318, 187.4202pt x 268.8444pt>
+<Pictures/16.png, id=348, 187.4202pt x 268.8444pt>
 File: Pictures/16.png Graphic file (type png)
 <use Pictures/16.png>
 Package pdftex.def Info: Pictures/16.png  used on input line 177.
 (pdftex.def)             Requested size: 208.13574pt x 298.58081pt.
-<Pictures/17.png, id=319, 214.8828pt x 149.358pt>
+<Pictures/17.png, id=349, 214.8828pt x 149.358pt>
 File: Pictures/17.png Graphic file (type png)
 <use Pictures/17.png>
 Package pdftex.def Info: Pictures/17.png  used on input line 200.
 (pdftex.def)             Requested size: 208.13574pt x 144.67195pt.
  [18 <./Pictures/15.png> <./Pictures/16.png>]
-<Pictures/18.png, id=329, 222.5916pt x 241.8636pt>
+<Pictures/18.png, id=359, 222.5916pt x 241.8636pt>
 File: Pictures/18.png Graphic file (type png)
 <use Pictures/18.png>
 Package pdftex.def Info: Pictures/18.png  used on input line 213.
@@ -1787,31 +1787,41 @@ Underfull \hbox (badness 2111) in paragraph at lines 216--217
 []\OT1/cmr/m/n/10 Viene de-scrit-to il mo-vi-men-to in pro-ca-rio-ti
  []
 
-<Pictures/19.png, id=330, 483.7272pt x 163.3302pt>
+<Pictures/19.png, id=360, 483.7272pt x 163.3302pt>
 File: Pictures/19.png Graphic file (type png)
 <use Pictures/19.png>
 Package pdftex.def Info: Pictures/19.png  used on input line 231.
 (pdftex.def)             Requested size: 433.62pt x 146.41263pt.
 [19 <./Pictures/17.png> <./Pictures/18.png>]
-<Pictures/20.png, id=340, 483.7272pt x 194.6472pt>
+<Pictures/20.png, id=370, 483.7272pt x 194.6472pt>
 File: Pictures/20.png Graphic file (type png)
 <use Pictures/20.png>
 Package pdftex.def Info: Pictures/20.png  used on input line 238.
 (pdftex.def)             Requested size: 433.62pt x 174.48586pt.
-) [20 <./Pictures/19.png> <./Pictures/20.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
+)
+(./Chapters/03_PopolazioneBatterica.tex [20 <./Pictures/19.png> <./Pictures/20.
+png>]
+Capitolo 3.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 14.
+
+[21
+
+]) [22]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
  (./build/Principal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 46781 strings out of 492615
- 1029460 string characters out of 6131391
- 1201059 words of memory out of 5000000
- 49917 multiletter control sequences out of 15000+600000
+ 46798 strings out of 492615
+ 1029751 string characters out of 6131391
+ 1200068 words of memory out of 5000000
+ 49923 multiletter control sequences out of 15000+600000
  545529 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,14n,111p,816b,893s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1820,16 +1830,19 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on ./build/Principal.pdf (21 pages, 7780560 bytes).
+/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfrm1000.pfb>
+Output written on ./build/Principal.pdf (23 pages, 7809650 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 322 compressed objects within 4 object streams
- 98 named destinations out of 1000 (max. 500000)
- 367 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 106 named destinations out of 1000 (max. 500000)
+ 415 words of extra memory for PDF output out of 10000 (max. 10000000)
 

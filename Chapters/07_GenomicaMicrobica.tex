@@ -1,1 +1,194 @@
-
+\chapter{Genomica microbica}
+Il termine genomica fa riferimento alla mappatura, al sequenziamento e all'analisi dei genomi. La conoscenza della sequenza di un genoma non rivela solamente i geni dell'organismo ma fornisce anche informazioni sulle sue funzionalit\`a e sulla sua storia evolutiva. Esistono differenti tipi di genomicca:
+\begin{itemize}
+    \item Strutturale: esamina la struttura fisica dei genomi con l'obiettivo di determinare e analizzare la sequenza di DNA del genoma (annotazione dei geni).
+    \item Funzionale: indaga i meccanismi di funzionamento del genoma, in particolare i trascritti (mRNA) e le proteine codificate da essi.
+    \item Comparate: pone a confronto diveri genomi per risalire alle affinit\`a e alle differenze tra di essi, identificare le porzioni genomiche conservate che codificano per proteine essenziali e determinare modelli di funzione e di regolazione. I dati servono anche per lo studio dell'evoluzione microbica e del trasferimento orizzontale di geni.
+\end{itemize}
+Quindi le differenze di genoma portano a delle differenze fenotipiche. 
+\\I procarioti presentano un genoma compatto fatto quasi solamente di geni. In questi genomi microbici si misura un elevato grado di poliformismo, anche nella stessa specie. Questo significa che sono molto variabili e che due ceppi di una stessa specie possono presentare notevoli differenze.
+\\Il genoma \`e composto da due parti distinte:
+\begin{itemize}
+    \item Core genome $\xrightarrow{}$ \`e la parte in comune tra le componenti della stessa specie;
+    \item Genoma acessorio $\xrightarrow{}$ \`e composto dai geni che distinguomo un individuo da un altro. Sono delle sequenze specifiche che arrivano a essere fino al 26$\%$ di tutto il genoma. Questo \`e un valore estremamente elevato ed \`e dovuto ai vari casi di ricombinazione del DNA a cui i batteri vanno incontro. Spesso in queste regioni si trovano i fattori che rendono patogeno un batterio.
+\end{itemize}
+\\Il genoma minimo \`e il numero di geni essenziali alla vita di uno specifico organismo. \`E formato:
+\begin{itemize}
+    \item Core genome $\xrightarrow{}$ anche detto COGs, cio\`e Cluster of Orthologous Genes;
+    \item NOGD $\xrightarrow{}$ sta per "Non Orthologous Gene Displacement". Sono dei geni che hanno la stessa funziona e la stessa sequenza ma non derivano da un antenato comune. Sono geni analoghi, ma non omologhi).
+\end{itemize}
+\section{Sequenziamento genomico di prima generazione (1995)}
+Per poter sequenziare un genoma bisogna per prima cosa clonare l'insieme dei suoi frammenti:
+\begin{itemize}
+    \item clonaggio con vettori plasmidici (tipo puC19), che presentano dei frammenti di circa 2kb;
+    \item clonaggio ccon batteriofagi lambda, che presentano frammenti di circa 20 kb; 
+    \item clonaggio con vettori BAC (Bacterial Artificial Chromosome), che presentano frammenti di circa 300 kb; 
+    \item clonaggio con vettori YAC (Yeast Artificial Chromosome), che presentano frammenti di circa 800 kb.
+\end{itemize}
+Il sequenziamento genomico di prima generazione avviene seguendo queste fasi: 
+\begin{itemize}
+    \item frammentando l'estratto di DNA (enzima di restrizione); 
+    \item mescolando i frammenti con il plasmide; 
+    \item introducendo i plasmidi nel batterio.
+\end{itemize}
+\subsection{Cromosomi artificiali batterici: i BAC}
+I BAC sono derivati dai plasmidi F. Sono composti: 
+\begin{itemize}
+    \item Closing region $\xrightarrow{}$ sequenze dove si inserisce il frammento che deve essere clonato; 
+    \item oriS e repE $\xrightarrow{}$ sono necessari per la replicazione;
+    \item sopA e sopB $\xrightarrow{}$ mantengono il numero di copie/cellula basso.
+\end{itemize}
+I ceppi di batteri utilizzati per il clonaggio con vettori BAC sono difettvi dei normali sitemi di restrizione, per prevenire la degradazione del BAC, e dei sistemi di ricombinazione, per prevenire il riarrangiamento del DNA clonato nei BAC al cromosoma dell'ospite.
+\subsection{YAC: i cromosomi artificiali di lievito}
+Questi vettori si replicano nel lievito come cromosomi normali ma presentano dei siti dove pu\`o essere inserito del DNA esogeno di grandi dimensioni (200-800 kb).
+I YAC possiedono: un origine di replicazione, dei telomeri, un centromero, un sito di clonaggio e un gene di selezione.
+\\Presentano problemi notevoli di ricombinazione e riarrangiamento del DNA clonato rispetto al DNA clonato nei batteri.
+\section{Sequenziamento del DNA}
+Il sequenziamento del DNA pu\`o avvenire per mezzo di due tecniche principali: metodo Sanger o shotgun.
+\subsection{Metodo Sanger}
+\`E il sequenziamento classico ed \`e stato inventato alla fine degli ann '70. Viene chiamato anche metodo dei "dideossinucleotidi terminali". Consente di generare frammenti di DNA che terminano in corrispondenza di ognuno delle 4 basi marcare con isotopi radioattivi o marcatori fluorescenti. Il principio \`e basato sulla sintesi di un filamento copia del DNA da studiae con la DNA polimerasi.
+\\Per fare questo si mettono nella miscela di incubazione degli analoghi dei deossiribonucleosidi trifosafati (dNTP). Ne vengono inseriti 4 nel caso del sequenziamento con istotopi radioattivi e 1 nel caso dei marcatori fluorescenti. I dideossinucleotidi presentono in posizione 3' solamente un H e quindi mancano del gruppo ossidrile. Questa particolarit\`a influisce sull'attivit\`a della DNA polimerasi che, incontrando questi nucleotidi anomai, non riesce a continuare la sintesi: si ha qundi l'interruzione della molecola di DNA e frammenti di lunghezza variabile che permettono la loro separazione.
+\\Sequenza di Sanger:
+\begin{enumerate}
+    \item Fase di clonaggio, che \`e seguita dal taglio e l'isolamento di una specifica sequenza;
+    \item Denaturazione a 95°C, quindi la doppia elica si apre;
+    \item Visto che si conosce il punto in cui \`e stato effettuato il taglio si pu\`o procedere all'attaco di un singolo primer;
+    \item La DNA polimerasi si attacca al filamento e comincia la sintesi di uno nuovo. Quando i dideossinucleotidi entrano nel meccanismo, la replicazione si ferma in corrispondenza della base modificata e opprtunamente marcata con isotopi radioattivi;
+    \item Si procede con la loro separazione su gel di poliacrilamide, isotopi radioattivi, o in tubo capillare, con i marcatori fluorescenti. 
+    \\Poi, si usa la tecnica dell'elettroforesi: i frammenti si spostano verso il polo positivo: i pi\`u piccoli in modo pi\`u veloce, mentre i pi\`u grandi pi\`u lentamente. Si ricava il sequenziamento andando in ordine e aggiungendo la base marcata con il fuoroforo o il radioattivo.
+\end{enumerate}
+Se viene utilizzato l'isotopo radioattivo \`e necessario avere una piasta per ciascun nucleotidice per capire quale dei quattro \`e stato aggiunto progressivamente. Se vengono utilizzati i marcatori fluorescenti, ogni base verr\`a marcata con un diverso colore e quindi sar\`a necessaria solamente una pista per frammento. In questo secondo caso il sequenziaento pu\`o essere fatto anche automaticamente. 
+\\\\Dal 2005 si sono iniziate ad adottare delle nuove tecnologie, come NGS (Next Generation Sequencing), che hanno portato ad un aumento di resa, cio\`e del numero di nucleotidi in un determinato intervallo di tempo, e ad un abbassamento dei costi.
+\subsection{Sequenziamento shotgun}
+La tecnica shotgun applicata al genoma prevede il clonaggio dell'intero genoma e il sequenziamento casuale dei cloni risultanti. Questa tecnina genera molti frammenti ridondanti o che si sovrappongono parzialmente. L'ordinamento dei frammenti \`e detto assemblaggio. Questo prevede di collocare tutti i frammenti nel corretto ordine, eliminare le sovrapposizioni e generare un genoma utilizzabile per l'annotazione.
+\\Poi avviene l'annotazione che riconosce ORFs (Open Reading Frame), sequenze di DNA con schema di lettura aperto, con l'identificazione di un gene di inizio (AUG) o terminazione (UAA, UGA o UAG). Queste sequenze appaiono anche casualmente ed \`e quindi necessario prendere in considerazione anche la dimensione degli ORFs:
+\begin{itemize}
+    \item la maggior parte delle proteine contiene 100 aminoacidi; 
+    \item tra start e stop devo avere multipli di tre;
+    \item ricercare anche informazioni aggiuntive in geni non codificanti (promotori e terminazione di trascrizione) oppure sequenze di legame al ribosoma.
+\end{itemize}
+Nel DNA che viene annotato:
+\begin{itemize}
+    \item faccio 6 quadri possibili di lettura: 1 per ogni aminoacido delle sequenze ATG e sui due filamenti; 
+    \item la versione che presenta meno sequenze di stop \`e da preferire. 
+\end{itemize}
+Si trovano poi delle regioni pi\`u o meno conservate nei vari individui. Un esempio sono le proteine di membrana che si trovano in tutti i batteri e che presentano particolari domini idrofobici per inserirsi nelle membrane. 
+\section{Mappe genomiche}
+Le informazioni che si possono ottenere sono su: 
+\begin{itemize}
+    \item Ordine $\xrightarrow{}$ i geni vengono espressi in pacchetti, solitamente 8-10 geni sono espressi insieme in proteine che lavorano nello stesso processo;
+    \item Categorie funzionali $\xrightarrow{}$ hanno lo stesso colore;
+    \item Lunghezza;
+    \item Orientamento $\xrightarrow{}$ il gene trascritto \`e espresso solo su un filamento rispetto all'altro.
+\end{itemize}
+Nella mappa del genoma di Haemophilus influenzae si ha:
+\begin{itemize}
+    \item cerchio esterno: regioni codificanti;
+    \item primo cerchio interno: regioni ad elevato contenuto di GC o di AT;
+    \item secondo cerchio interno: copertura dei cloni usati per il sequenziamento;
+    \item terzo cerchio interno: profagi, tRNA, rRNA;
+    \item quarto cerchio interno: sequenze ripetute (funzione regolatoria) e origine di replicazione.
+\end{itemize}
+Tuttavia la mappa genomica non dice quali e quanti geni sono espressi in un solo momento. L'analisi complessiva dell'insieme dei trascritti (RNA) viene chiamata trascrittomica; in alcuni casi questo porta ad avere genomi uguali ma trascrittomi diversi. 
+\\\\Il contenuto genico riflette lo stile di vita dell'organismo. Pe esempio:
+\begin{itemize}
+    \item un parassita obbligatorio come \textit{Treponema pallidum} non possiede geni per la sintesi degli aminoacidi perch\`e vengono tutti forniti dal suo ospite;
+    \item \textit{E. coli} possiede 131 geni coinvolti nella biosintesi degli aminoacidi;
+    \item \textbf{Bacillus subtilis}, un organismo che vive nel suolo, ha 200 geni coinvolti.
+\end{itemize}
+\\Il numero di geni identificati in un dato genoma, per confronto con altri genomi, corrisponde a circa il 50-60$\%$ delle ORFs individuate.
+\\Infatti, ci sonno delle ORFs che non vengono identificate come proteine ipotetiche e che probabilmente esistono ma di cui non \`e nota la funzione. Per esempio, in E. coli le funzioni assegnate sono relative a 2700 geni sun un totale di 4300 (63$\%$). Si prevede che la maggior parte delle funzioni codificate dalle ORFs non identificate non siano essenziali e coinvolte in attivit\`a di regolazione, catabolismo di substrati inusuali, proteine ridondanti utilizzate come sistemi di "riserva", etc.
+\\\\Dall'analisi del genoma si possono derivare molte capacit\`a metaboliche: trasportatori ABC per zuccheri, peptidi, fosfato, ferro, zinco; principali rami del metabolismo energetico; sintesi del flaggello; ATP sintasi, ecc. 
+\\\subsection{Categorie geniche}
+La percentuale dei geni dedicata a una data funzione cellulare \`e in rapporto alle dimensioni del genoma. La percentuale dei geni dedicati alla replicazione del DNA e alla sintesi proteica \`e alta nei genomi di piccola dimensione, come i parassiti. La percetuale dei geni dedicata al metabolismo e alla regolazione \`e alta nei genomi di grandi dimensioni.  
+\\Gli organismi con grandi genomi vivono per la maggior parte nel suolo (quelli con piccoli genomi sono normalmente dei parassiti). Il suolo \`e un habitat nel quale le fonri di carbonio e energia sono scarse, disponibili in una grande variet\`a di tipi differenti e spesso fruibili in maniera intermittente. 
+\section{Genomica comparativa}
+Concetto di differenzazione tra genomi:
+\begin{itemize}
+    \item Genoma core \`e esterno alla membrana ed \`e uguale per tutti i ceppi;
+    \item Buchi sono presenti nello strato del core e rappresentano il genoma accessorio, che varia in un ciascuno dei ceppi di un determinato batterio.
+\end{itemize}
+I vari ceppi hanno quindi un diverso apestto clinico, in cui le regioni intersecanti, dato che comuni a tutti, hanno delle funzioni importanti. 
+\\Si possono distinguere quindi: 
+\begin{itemize}
+    \item Genoma $\xrightarrow{}$ mappa a livello del singolo individuo;
+    \item Pangenoma $\xrightarrow{}$ mappa al livello della popolazione, quindi della specie;
+    \item Metganoma $\xrightarrow{}$ mappa a livello della comunit\`a.
+\end{itemize}
+Nei procarioti all'aumento delle dimensioni del genoma corrisponde un conseguente aumento del numero dei geni: dimensioni del genoma e il totale di ORF sono quindi direttamente proporzionali. Questo \`e quello che testimonia la compattezza del genoma procariote.
+\\Il pi\`u piccolo genoma procariotico noto \`e quello di specie del genere \textit{Mycoplasma}: 470 ORFs.
+\\Confrontando i genomi di due specie di \textit{Mycoplasma}, \textit{M. genitalium} e \textit{M. pneumoniae}, e portando avanti studi di mutagenesi con trasposoni, si \`e concluso che sono necessari circa 300 geni codificanti proteine per stabilire la minima funzionalit\`a cellulare. 
+\\I pi\`u grandi genomi procariotici sono di oltre 8 Mb, come ad esempio quello di \textit{Bradyrhizobium japonicum}, responsabile della fissazione dell'azoto nei noduli delle radici delle piante di soia, e contiene 8846 ORFs (2800 in pi\`u rispetto a quello del lievito \textit{S. cerevisiae}).
+\\\\\textit{Mycoplasma genitalium}:
+\begin{itemize}
+    \item patogeno umano (vie respiratorie, sistema immunitatio), 580 Kb, corredo genico minimo di 517 geni;
+    \item 90 coinvolti nella sintesi delle proteine;
+    \item 29 nella replicazione del DNA; 
+    \item 140 codificano per proteine di membrana; 
+    \item 5 geni implicati nei meccanismi di regolazione.
+\end{itemize}
+\\\textit{Haemophilus influenzae}:
+\begin{itemize}
+    \item patogeno umano (vie respiratorie superiori), 1.8 Mb, 1743 geni;
+    \item 40$\%$ con funzione sconosciuta;
+    \item 64 geni di regolazione; 
+    \item sprovvisto di 3 geni del ciclo di Krebs; 
+    \item il genoma contiene 1465 copie della sequenza di riconoscimento usata nell'uptake di DNA durante la trasformazione.
+\end{itemize}
+\\\textit{Methanococcus jannaschii}: 
+\begin{itemize}
+    \item Archaea, 1.66 Mb, 1738 geni; 
+    \item soltanto il 44$\%$ dei geni corrispondono a quelli degli altri organismi; 
+    \item geni per funzioni  essenziali (replicazione, trascrizione, traduzione);
+    \item simili a quelli degli eucarioti.
+\end{itemize}
+\\\textit{Escherichia coli}: 
+\begin{itemize}
+    \item 4.6 Mb, 4288 geni; molto simile a H. influenzae;
+    \item 5$\%$ dei geni per proteine di membrana, 13$\%$ trasporto, 10$\%$ metabolismo, 4$\%$ regolazione, 8$\%$ per replicazione, trascrizione, traduzione;
+    \item 2500 geni dissimili da geni noti.
+\end{itemize}
+\\\textit{Deinococcus radiodurans}:
+\begin{itemize}
+    \item batteri del suolo. Sono in grado di ricongiungere frammenti di DNA generati dall'esposizione a forti radiazioni. 2 cromosomi, 2.6 Mb e 0.4 Mb;
+    \item un megaplasmide 177 Kb, un plasmide 45 Kb;
+    \item il batterio dispone di maggior quantit\`a di geni impegnati in processi di riparazione del DNA. Esempio MmutT (eliminazione dei nucleotidi ossidati) \`e presente in 20 versioni (1 sola nella maggior parte dei microrganismi).
+\end{itemize}
+\\\textit{Rickettsia prowazekii}:
+\begin{itemize}
+    \item parassita endocellulare obbligato dei pidocchi e dell'uomo, agente del tifo epidemico; \item 1.1 Mb (25$\%$ non codificante), geni con affinit\`a a quelli mitocondriali. Processo di sintesi dell'ATP simile a quello osservato dal mitocondrio. Mancanza di geni dedicati alla sintesi di diversi aa (come nel mitocondrio).
+\end{itemize}
+\\\textit{}{Chamydia trachomatis}:
+\begin{itemize}
+    \item batteri privi di motilit\`a, parassiti intracellulari. Privo di peptidoglicano, ma possiede tutti i geni per costruirlo;
+    \item non ha il gene FtsZ (formazione del setto divisorio), meccanismo molecolare di dividione cellulare sconosciuto;
+    \item contiene pi\`u di 20 geni di origine eucariotica di cui alcuni provenienti da piante.
+\end{itemize}
+\\\textit{Treponema pallidum}:
+\begin{itemize}
+    \item agente della sifilide. \`E metabolicamente deficitario: manca del ciclo di Krebs e della fosforilazione ossidativa e di diverse vie di biosintesi; 
+    \item 5$\%$ dei geni codificano per proteine di trasporto; 
+    \item funzione do 40$\%$ dei geni sconosciuta. 
+\end{itemize}
+\\\textit{Mycobacterium tuberculosis}:
+\begin{itemize}
+    \item agente della tuberculosi, 4.4 Mb; 
+    \item 4000 geni, 60$\%$ sconosciuti. 250 geni per il metabolismo dei lipidi (50 in E. coli). Il batterio ottiene molta energia dalla degradazione dei lipidi dell'ospite; 
+    \item 10$\%$ del genoma formato da 2 famiglie di proteine che potrebbero conferire variabilit\`a antigenica e quindi un meccanismo di difesa contro il sistema immunitario dell'ospite.
+\end{itemize}
+\\\textit{Mycobacterium leprae}:
+\begin{itemize}
+    \item agente della lebbra, genoma molto diverso di quello di \textit{M. tubercolosis};
+    \item 50$\%$ del genoma da geni non funzionali. Privo di enzimi coinvolti nella produzione di energia e nella replicazione del DNA (tempo di replicazione nel topo, circa 2 settimane).
+\end{itemize}
+\\\textit{Staphylococcus aereus}:
+\begin{itemize}
+    \item agente di varie infezioni come le intossicazioni alimentari o infezioni nosocomiali; 
+    \item 2.6 Mb, 2600 geni. Possiede molti geni di resistenza; 
+    \item agli antibiotici, alcuni collocati su plasmidi o trasposoni.
+\end{itemize}
+\\\textit{Streptococcus pyogenes}:
+\begin{itemize}
+    \item tre principali ceppi in grado di causare diversi tipi di infezioni; 
+    \item i tre ceppi differiscono principalmente per il contenuto dei profagi, in cui sono ospitati i geni che codifcano per fattori di virulenza.
+\end{itemize}

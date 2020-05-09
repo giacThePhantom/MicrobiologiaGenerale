@@ -1,51 +1,115 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione}{2}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Albero della vita}{2}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Batteri e archei}{2}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}Virus}{2}{subsection.1.1.2}% 
-\contentsline {subsection}{\numberline {1.1.3}Caratterizzazione dei microbi}{3}{subsection.1.1.3}% 
-\contentsline {section}{\numberline {1.2}La macchina cellulare}{3}{section.1.2}% 
-\contentsline {subsection}{\numberline {1.2.1}Impatto dei microbi sulle attivit\`a umane}{4}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}Ricombinazione del DNA}{4}{subsection.1.2.2}% 
-\contentsline {section}{\numberline {1.3}Microrganismi come modello}{4}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Il conflitto sulla generazione spontanea}{5}{subsection.1.3.1}% 
-\contentsline {subsection}{\numberline {1.3.2}Postulati di Koch}{5}{subsection.1.3.2}% 
-\contentsline {subsubsection}{I postulati di Koch molecolari}{5}{section*.4}% 
-\contentsline {section}{\numberline {1.4}Differenze tra batteri, archei ed eucarioti}{6}{section.1.4}% 
-\contentsline {section}{\numberline {1.5}I batteri}{7}{section.1.5}% 
-\contentsline {subsection}{\numberline {1.5.1}Composizione elementare}{7}{subsection.1.5.1}% 
-\contentsline {subsection}{\numberline {1.5.2}Strutture e loro funzioni}{8}{subsection.1.5.2}% 
-\contentsline {subsubsection}{Membrana plasmatica}{8}{section*.9}% 
-\contentsline {subsubsection}{Vacuolo gassoso}{8}{section*.10}% 
-\contentsline {subsubsection}{Ribosomi}{8}{section*.11}% 
-\contentsline {subsubsection}{Corpi d'inclusione}{8}{section*.12}% 
-\contentsline {subsubsection}{Nucleoide}{8}{section*.13}% 
-\contentsline {subsubsection}{Spazio periplasmatico}{8}{section*.14}% 
-\contentsline {subsubsection}{Parete cellulare}{8}{section*.15}% 
-\contentsline {subsubsection}{Capsule e strati mucosi}{9}{section*.16}% 
-\contentsline {subsubsection}{Fimbrie e pili}{9}{section*.17}% 
-\contentsline {subsubsection}{Flagelli}{9}{section*.18}% 
-\contentsline {subsubsection}{Endospora}{9}{section*.19}% 
-\contentsline {chapter}{\numberline {2}La struttura della cellula}{10}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}La parete cellulare}{10}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Peptidoglicano}{10}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Parete cellulare nei gram-positivi e gram-negativi}{11}{subsection.2.1.2}% 
-\contentsline {subsubsection}{Parete cellullare nei gram+}{11}{section*.23}% 
-\contentsline {subsubsection}{Parete cellullare nei gram-}{12}{section*.25}% 
-\contentsline {subsection}{\numberline {2.1.3}Lisozima}{13}{subsection.2.1.3}% 
-\contentsline {section}{\numberline {2.2}La membrana citoplasmatica}{14}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}La struttura}{14}{subsection.2.2.1}% 
-\contentsline {section}{\numberline {2.3}Membrana e parete degli archaea}{15}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Locomozione microbica}{17}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Il flagello}{17}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Il movimento flagellare}{19}{subsection.2.4.2}% 
-\contentsline {subsubsection}{Il movimento flagellare nelle diverse categorie}{19}{section*.39}% 
-\contentsline {subsection}{\numberline {2.4.3}La sintesi flagellare}{19}{subsection.2.4.3}% 
-\contentsline {subsection}{\numberline {2.4.4}I flagelli negli spirocheti}{20}{subsection.2.4.4}% 
-\contentsline {chapter}{\numberline {3}Popolazione batterica}{21}{chapter.3}% 
-\contentsline {subsection}{\numberline {3.0.1}Conta vitale}{21}{subsection.3.0.1}% 
-\contentsline {subsection}{\numberline {3.0.2}Misura della torbidit\`a}{21}{subsection.3.0.2}% 
-\contentsline {subsection}{\numberline {3.0.3}Most Probable Number}{22}{subsection.3.0.3}% 
-\contentsline {section}{\numberline {3.1}Sistemi di coltivazione microbica}{22}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Chemostato}{22}{subsection.3.1.1}% 
+\contentsline {chapter}{\numberline {1}Introduzione}{4}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Albero della vita}{4}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Batteri e archei}{4}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Virus}{4}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Caratterizzazione dei microbi}{5}{subsection.1.1.3}% 
+\contentsline {section}{\numberline {1.2}La macchina cellulare}{5}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Impatto dei microbi sulle attivit\`a umane}{6}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Ricombinazione del DNA}{6}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.3}Microrganismi come modello}{6}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Il conflitto sulla generazione spontanea}{7}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Postulati di Koch}{7}{subsection.1.3.2}% 
+\contentsline {subsubsection}{I postulati di Koch molecolari}{7}{section*.4}% 
+\contentsline {section}{\numberline {1.4}Differenze tra batteri, archei ed eucarioti}{8}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}I batteri}{9}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Composizione elementare}{9}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Strutture e loro funzioni}{10}{subsection.1.5.2}% 
+\contentsline {subsubsection}{Membrana plasmatica}{10}{section*.9}% 
+\contentsline {subsubsection}{Vacuolo gassoso}{10}{section*.10}% 
+\contentsline {subsubsection}{Ribosomi}{10}{section*.11}% 
+\contentsline {subsubsection}{Corpi d'inclusione}{10}{section*.12}% 
+\contentsline {subsubsection}{Nucleoide}{10}{section*.13}% 
+\contentsline {subsubsection}{Spazio periplasmatico}{10}{section*.14}% 
+\contentsline {subsubsection}{Parete cellulare}{10}{section*.15}% 
+\contentsline {subsubsection}{Capsule e strati mucosi}{11}{section*.16}% 
+\contentsline {subsubsection}{Fimbrie e pili}{11}{section*.17}% 
+\contentsline {subsubsection}{Flagelli}{11}{section*.18}% 
+\contentsline {subsubsection}{Endospora}{11}{section*.19}% 
+\contentsline {chapter}{\numberline {2}La struttura della cellula}{12}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}La parete cellulare}{12}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Peptidoglicano}{12}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Parete cellulare nei gram-positivi e gram-negativi}{13}{subsection.2.1.2}% 
+\contentsline {subsubsection}{Parete cellullare nei gram+}{13}{section*.23}% 
+\contentsline {subsubsection}{Parete cellullare nei gram-}{14}{section*.25}% 
+\contentsline {subsection}{\numberline {2.1.3}Lisozima}{15}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.2}La membrana citoplasmatica}{16}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}La struttura}{16}{subsection.2.2.1}% 
+\contentsline {section}{\numberline {2.3}Membrana e parete degli archaea}{17}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Locomozione microbica}{19}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Il flagello}{19}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Il movimento flagellare}{21}{subsection.2.4.2}% 
+\contentsline {subsubsection}{Il movimento flagellare nelle diverse categorie}{21}{section*.39}% 
+\contentsline {subsection}{\numberline {2.4.3}La sintesi flagellare}{21}{subsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.4.4}I flagelli negli spirocheti}{22}{subsection.2.4.4}% 
+\contentsline {chapter}{\numberline {3}Popolazione batterica}{23}{chapter.3}% 
+\contentsline {subsection}{\numberline {3.0.1}Conta vitale}{23}{subsection.3.0.1}% 
+\contentsline {subsection}{\numberline {3.0.2}Misura della torbidit\`a}{23}{subsection.3.0.2}% 
+\contentsline {subsection}{\numberline {3.0.3}Most Probable Number}{24}{subsection.3.0.3}% 
+\contentsline {section}{\numberline {3.1}Sistemi di coltivazione microbica}{24}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Chemostato}{24}{subsection.3.1.1}% 
+\contentsline {chapter}{\numberline {4}Meccanismi di trasporto cellulare}{25}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Tipologie di trasporto}{25}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Diffusione passiva}{25}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Diffusione facilitata}{25}{subsection.4.1.2}% 
+\contentsline {subsubsection}{Osmosi}{26}{section*.43}% 
+\contentsline {subsection}{\numberline {4.1.3}Trasporto attivo}{26}{subsection.4.1.3}% 
+\contentsline {section}{\numberline {4.2}Sistemi di traslocazione nei procarioti}{27}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Via di secrezione dipendente da Sec}{28}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Sistema di secrezione di tipo II}{28}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Sistema di secrezione a 2 partner (TPS, Two Partner Secretion)}{29}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Sistema dell'autotrasporto, tipo V}{29}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}Secrezione attraverso la via "chaperon/usher"}{29}{subsection.4.2.5}% 
+\contentsline {section}{\numberline {4.3}Vie delle secrezioni indipendenti da Sec}{29}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Il sistema Tat: Twin-arginine translocation system}{29}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}I trasportatori ABC: ATP-Binding Cassette}{30}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Il sistema di secrezione di tipo III}{30}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Il sistema di secrezione di tipo IV}{30}{subsection.4.3.4}% 
+\contentsline {chapter}{\numberline {5}Metabolismo dei microrganismi}{31}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Catalisi ed enzimi}{31}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Enzimi}{32}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Parametri esterni che alterano l'azione degli enzimi}{32}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Inibitori}{33}{subsection.5.1.3}% 
+\contentsline {section}{\numberline {5.2}Redox}{33}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Trasportatori di elettroni e ciclo NAD/NADH}{33}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}ATP}{34}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Catabolismo dei carboidrati}{34}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Glicolisi}{34}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Respirazione cellulare}{35}{section.5.7}% 
+\contentsline {subsection}{\numberline {5.7.1}Sintesi acetilCoA}{35}{subsection.5.7.1}% 
+\contentsline {subsection}{\numberline {5.7.2}Ciclo di Krebs}{36}{subsection.5.7.2}% 
+\contentsline {subsection}{\numberline {5.7.3}Catena di trasporto degli elettroni}{36}{subsection.5.7.3}% 
+\contentsline {subsection}{\numberline {5.7.4}ATPsintasi}{37}{subsection.5.7.4}% 
+\contentsline {section}{\numberline {5.8}Bilancio globale}{37}{section.5.8}% 
+\contentsline {section}{\numberline {5.9}Le altarnative cataboliche}{38}{section.5.9}% 
+\contentsline {section}{\numberline {5.10}La fermentazione}{38}{section.5.10}% 
+\contentsline {subsection}{\numberline {5.10.1}Fermentazione lattica}{38}{subsection.5.10.1}% 
+\contentsline {subsection}{\numberline {5.10.2}Fermentazione alcolica}{38}{subsection.5.10.2}% 
+\contentsline {subsection}{\numberline {5.10.3}Prodotti alimentari o industriali derivati da processi di fermentazione}{39}{subsection.5.10.3}% 
+\contentsline {section}{\numberline {5.11}Altre vie cataboliche}{39}{section.5.11}% 
+\contentsline {section}{\numberline {5.12}La fotosintesi}{40}{section.5.12}% 
+\contentsline {subsection}{\numberline {5.12.1}Reazioni dipendenti dalla luce}{40}{subsection.5.12.1}% 
+\contentsline {subsection}{\numberline {5.12.2}Reazioni non dipendenti dalla luce}{41}{subsection.5.12.2}% 
+\contentsline {chapter}{\numberline {6}Genomica microbica}{42}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Sequenziamento genomico di prima generazione (1995)}{43}{section.6.1}% 
+\contentsline {subsection}{\numberline {6.1.1}Cromosomi artificiali batterici: i BAC}{43}{subsection.6.1.1}% 
+\contentsline {subsection}{\numberline {6.1.2}YAC: i cromosomi artificiali di lievito}{43}{subsection.6.1.2}% 
+\contentsline {section}{\numberline {6.2}Sequenziamento del DNA}{43}{section.6.2}% 
+\contentsline {subsection}{\numberline {6.2.1}Metodo Sanger}{44}{subsection.6.2.1}% 
+\contentsline {subsection}{\numberline {6.2.2}Sequenziamento shotgun}{44}{subsection.6.2.2}% 
+\contentsline {section}{\numberline {6.3}Mappe genomiche}{45}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}Categorie geniche}{46}{subsection.6.3.1}% 
+\contentsline {section}{\numberline {6.4}Genomica comparativa}{46}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Virologia}{49}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Struttura dei virus}{49}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}Capside e simmetria}{49}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}Virus con capsidi a simmetria complessa}{50}{subsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.1.3}Genomi virali}{51}{subsection.7.1.3}% 
+\contentsline {section}{\numberline {7.2}Tassonomia virale}{51}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Ciclo replicativo di un virus animale}{53}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}Herpes simplex, classe I}{53}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}Poxvirus (vaiolo), classe I}{54}{subsection.7.3.2}% 
+\contentsline {subsection}{\numberline {7.3.3}Picornavirus (poliovirus), classe IV}{54}{subsection.7.3.3}% 
+\contentsline {subsection}{\numberline {7.3.4}Virus dell'influenza umana di tipo A, classe V}{54}{subsection.7.3.4}% 
+\contentsline {subsection}{\numberline {7.3.5}Retrovirus animale, classe VI}{55}{subsection.7.3.5}% 

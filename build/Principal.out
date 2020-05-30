@@ -73,25 +73,94 @@
 \BOOKMARK [1][-]{section.5.12}{La fotosintesi}{chapter.5}% 73
 \BOOKMARK [2][-]{subsection.5.12.1}{Reazioni dipendenti dalla luce}{section.5.12}% 74
 \BOOKMARK [2][-]{subsection.5.12.2}{Reazioni non dipendenti dalla luce}{section.5.12}% 75
-\BOOKMARK [0][-]{chapter.6}{Genomica microbica}{}% 76
-\BOOKMARK [1][-]{section.6.1}{Sequenziamento genomico di prima generazione \(1995\)}{chapter.6}% 77
-\BOOKMARK [2][-]{subsection.6.1.1}{Cromosomi artificiali batterici: i BAC}{section.6.1}% 78
-\BOOKMARK [2][-]{subsection.6.1.2}{YAC: i cromosomi artificiali di lievito}{section.6.1}% 79
-\BOOKMARK [1][-]{section.6.2}{Sequenziamento del DNA}{chapter.6}% 80
-\BOOKMARK [2][-]{subsection.6.2.1}{Metodo Sanger}{section.6.2}% 81
-\BOOKMARK [2][-]{subsection.6.2.2}{Sequenziamento shotgun}{section.6.2}% 82
-\BOOKMARK [1][-]{section.6.3}{Mappe genomiche}{chapter.6}% 83
-\BOOKMARK [2][-]{subsection.6.3.1}{Categorie geniche}{section.6.3}% 84
-\BOOKMARK [1][-]{section.6.4}{Genomica comparativa}{chapter.6}% 85
-\BOOKMARK [0][-]{chapter.7}{Virologia}{}% 86
-\BOOKMARK [1][-]{section.7.1}{Struttura dei virus}{chapter.7}% 87
-\BOOKMARK [2][-]{subsection.7.1.1}{Capside e simmetria}{section.7.1}% 88
-\BOOKMARK [2][-]{subsection.7.1.2}{Virus con capsidi a simmetria complessa}{section.7.1}% 89
-\BOOKMARK [2][-]{subsection.7.1.3}{Genomi virali}{section.7.1}% 90
-\BOOKMARK [1][-]{section.7.2}{Tassonomia virale}{chapter.7}% 91
-\BOOKMARK [1][-]{section.7.3}{Ciclo replicativo di un virus animale}{chapter.7}% 92
-\BOOKMARK [2][-]{subsection.7.3.1}{Herpes simplex, classe I}{section.7.3}% 93
-\BOOKMARK [2][-]{subsection.7.3.2}{Poxvirus \(vaiolo\), classe I}{section.7.3}% 94
-\BOOKMARK [2][-]{subsection.7.3.3}{Picornavirus \(poliovirus\), classe IV}{section.7.3}% 95
-\BOOKMARK [2][-]{subsection.7.3.4}{Virus dell'influenza umana di tipo A, classe V}{section.7.3}% 96
-\BOOKMARK [2][-]{subsection.7.3.5}{Retrovirus animale, classe VI}{section.7.3}% 97
+\BOOKMARK [0][-]{chapter.6}{Genetica batterica}{}% 76
+\BOOKMARK [1][-]{section.6.1}{Mutazione}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.2}{Isolamento dei mutanti}{chapter.6}% 78
+\BOOKMARK [2][-]{subsection.6.2.1}{Mutazioni selezionabili}{section.6.2}% 79
+\BOOKMARK [2][-]{subsection.6.2.2}{Isolamento di mutanti nutrizionali per selezione indiretta}{section.6.2}% 80
+\BOOKMARK [2][-]{subsection.6.2.3}{Le basi molecolari delle mutazioni}{section.6.2}% 81
+\BOOKMARK [2][-]{subsection.6.2.4}{Retromutazioni o reversioni}{section.6.2}% 82
+\BOOKMARK [2][-]{subsection.6.2.5}{Frequenza di mutazione}{section.6.2}% 83
+\BOOKMARK [2][-]{subsection.6.2.6}{Mutagenesi}{section.6.2}% 84
+\BOOKMARK [2][-]{subsection.6.2.7}{Saggi di laboratorio per l'identificazione del mutante}{section.6.2}% 85
+\BOOKMARK [1][-]{section.6.3}{Ricombinazione genetica omologa}{chapter.6}% 86
+\BOOKMARK [2][-]{subsection.6.3.1}{Trasformazione}{section.6.3}% 87
+\BOOKMARK [2][-]{subsection.6.3.2}{Trasduzione}{section.6.3}% 88
+\BOOKMARK [2][-]{subsection.6.3.3}{Coniugazione}{section.6.3}% 89
+\BOOKMARK [1][-]{section.6.4}{I trasposoni e la trasposizione}{chapter.6}% 90
+\BOOKMARK [2][-]{subsection.6.4.1}{Esperimento di trasposizione}{section.6.4}% 91
+\BOOKMARK [2][-]{subsection.6.4.2}{Mutagenesi con elementi trasponibili}{section.6.4}% 92
+\BOOKMARK [1][-]{section.6.5}{Genetica batterica e clonaggio genico}{chapter.6}% 93
+\BOOKMARK [2][-]{subsection.6.5.1}{I plasmidi come vettori di clonaggio}{section.6.5}% 94
+\BOOKMARK [2][-]{subsection.6.5.2}{Il batteriofago lambda come vettore di clonaggio}{section.6.5}% 95
+\BOOKMARK [2][-]{subsection.6.5.3}{La mutagenesi sito-diretta cosente di causare mutazioni all'interno di uno specifico gene}{section.6.5}% 96
+\BOOKMARK [2][-]{subsection.6.5.4}{Mutagenesi a cassetta e inattivazione genica}{section.6.5}% 97
+\BOOKMARK [0][-]{chapter.7}{Genomica microbica}{}% 98
+\BOOKMARK [1][-]{section.7.1}{Sequenziamento genomico di prima generazione \(1995\)}{chapter.7}% 99
+\BOOKMARK [2][-]{subsection.7.1.1}{Cromosomi artificiali batterici: i BAC}{section.7.1}% 100
+\BOOKMARK [2][-]{subsection.7.1.2}{YAC: i cromosomi artificiali di lievito}{section.7.1}% 101
+\BOOKMARK [1][-]{section.7.2}{Sequenziamento del DNA}{chapter.7}% 102
+\BOOKMARK [2][-]{subsection.7.2.1}{Metodo Sanger}{section.7.2}% 103
+\BOOKMARK [2][-]{subsection.7.2.2}{Sequenziamento shotgun}{section.7.2}% 104
+\BOOKMARK [1][-]{section.7.3}{Mappe genomiche}{chapter.7}% 105
+\BOOKMARK [2][-]{subsection.7.3.1}{Categorie geniche}{section.7.3}% 106
+\BOOKMARK [1][-]{section.7.4}{Genomica comparativa}{chapter.7}% 107
+\BOOKMARK [0][-]{chapter.8}{Virologia}{}% 108
+\BOOKMARK [1][-]{section.8.1}{Struttura dei virus}{chapter.8}% 109
+\BOOKMARK [2][-]{subsection.8.1.1}{Capside e simmetria}{section.8.1}% 110
+\BOOKMARK [2][-]{subsection.8.1.2}{Virus con capsidi a simmetria complessa}{section.8.1}% 111
+\BOOKMARK [2][-]{subsection.8.1.3}{Genomi virali}{section.8.1}% 112
+\BOOKMARK [1][-]{section.8.2}{Tassonomia virale}{chapter.8}% 113
+\BOOKMARK [1][-]{section.8.3}{Ciclo replicativo di un virus animale}{chapter.8}% 114
+\BOOKMARK [2][-]{subsection.8.3.1}{Herpes simplex, classe I}{section.8.3}% 115
+\BOOKMARK [2][-]{subsection.8.3.2}{Poxvirus \(vaiolo\), classe I}{section.8.3}% 116
+\BOOKMARK [2][-]{subsection.8.3.3}{Picornavirus \(poliovirus\), classe IV}{section.8.3}% 117
+\BOOKMARK [2][-]{subsection.8.3.4}{Virus dell'influenza umana di tipo A, classe V}{section.8.3}% 118
+\BOOKMARK [2][-]{subsection.8.3.5}{Retrovirus animale, classe VI}{section.8.3}% 119
+\BOOKMARK [1][-]{section.8.4}{I Batteriofagi}{chapter.8}% 120
+\BOOKMARK [1][-]{section.8.5}{Replicazione dei batteriofagi}{chapter.8}% 121
+\BOOKMARK [2][-]{subsection.8.5.1}{Batteriofago T4}{section.8.5}% 122
+\BOOKMARK [2][-]{subsection.8.5.2}{Permutazione circolare}{section.8.5}% 123
+\BOOKMARK [2][-]{subsection.8.5.3}{Batteriofagi temperati}{section.8.5}% 124
+\BOOKMARK [2][-]{subsection.8.5.4}{Il batteriofago lambda}{section.8.5}% 125
+\BOOKMARK [2][-]{subsection.8.5.5}{Crescita litica di lambda}{section.8.5}% 126
+\BOOKMARK [1][-]{section.8.6}{Genomi dei batteriofagi}{chapter.8}% 127
+\BOOKMARK [1][-]{section.8.7}{Coltivazione dei virus animali}{chapter.8}% 128
+\BOOKMARK [1][-]{section.8.8}{Purificazione di virus}{chapter.8}% 129
+\BOOKMARK [2][-]{subsection.8.8.1}{Centrifugazione differenziale}{section.8.8}% 130
+\BOOKMARK [2][-]{subsection.8.8.2}{Centrifugazione in gradiente di densit\340}{section.8.8}% 131
+\BOOKMARK [2][-]{subsection.8.8.3}{Precipitazione differenziale dei virus}{section.8.8}% 132
+\BOOKMARK [2][-]{subsection.8.8.4}{Denaturazione dei contaminanti}{section.8.8}% 133
+\BOOKMARK [2][-]{subsection.8.8.5}{Digestione enzimatica dei costituenti delle cellule ospiti}{section.8.8}% 134
+\BOOKMARK [1][-]{section.8.9}{Particelle sub-virali}{chapter.8}% 135
+\BOOKMARK [2][-]{subsection.8.9.1}{Viroidi}{section.8.9}% 136
+\BOOKMARK [2][-]{subsection.8.9.2}{Prioni}{section.8.9}% 137
+\BOOKMARK [0][-]{chapter.9}{Regolazione metabolica}{}% 138
+\BOOKMARK [1][-]{section.9.1}{Regolazione dell'attivit\340 enzimatica}{chapter.9}% 139
+\BOOKMARK [2][-]{subsection.9.1.1}{Inibizione da feedback}{section.9.1}% 140
+\BOOKMARK [2][-]{subsection.9.1.2}{Modificazione covalente degli enzimi}{section.9.1}% 141
+\BOOKMARK [2][-]{subsection.9.1.3}{Processamento delle proteine}{section.9.1}% 142
+\BOOKMARK [1][-]{section.9.2}{Regolazione a livello trascrizionale}{chapter.9}% 143
+\BOOKMARK [2][-]{subsection.9.2.1}{DNA binding proteins \(DBP\)}{section.9.2}% 144
+\BOOKMARK [2][-]{subsection.9.2.2}{Il controllo negativo della trascrizione}{section.9.2}% 145
+\BOOKMARK [2][-]{subsection.9.2.3}{Controllo positivo della trascrizione}{section.9.2}% 146
+\BOOKMARK [2][-]{subsection.9.2.4}{Sistemi di controllo globale}{section.9.2}% 147
+\BOOKMARK [1][-]{section.9.3}{Altri sistemi di controllo globale}{chapter.9}% 148
+\BOOKMARK [2][-]{subsection.9.3.1}{Fattori sigma alternativi}{section.9.3}% 149
+\BOOKMARK [2][-]{subsection.9.3.2}{Risposta allo shock termico}{section.9.3}% 150
+\BOOKMARK [2][-]{subsection.9.3.3}{Quorum sensing}{section.9.3}% 151
+\BOOKMARK [2][-]{subsection.9.3.4}{Trasduzione di segnale e sistemi di regolazione a 2 componenti}{section.9.3}% 152
+\BOOKMARK [0][-]{chapter.10}{Controllo della crescita microbica}{}% 153
+\BOOKMARK [1][-]{section.10.1}{Metodi fisici}{chapter.10}% 154
+\BOOKMARK [2][-]{subsection.10.1.1}{Caldo umido}{section.10.1}% 155
+\BOOKMARK [2][-]{subsection.10.1.2}{Trattamenti fisici alternativi}{section.10.1}% 156
+\BOOKMARK [1][-]{section.10.2}{Metodi chimici}{chapter.10}% 157
+\BOOKMARK [2][-]{subsection.10.2.1}{Controllo della crescita in vivo}{section.10.2}% 158
+\BOOKMARK [1][-]{section.10.3}{Misurazione dell'attivit\340 antimicrobica}{chapter.10}% 159
+\BOOKMARK [2][-]{subsection.10.3.1}{Test di Kirby-Bauer}{section.10.3}% 160
+\BOOKMARK [2][-]{subsection.10.3.2}{Test di Minimum Inhibitory Concentration \(MIC\)}{section.10.3}% 161
+\BOOKMARK [2][-]{subsection.10.3.3}{Etest}{section.10.3}% 162
+\BOOKMARK [2][-]{subsection.10.3.4}{Minimum bactericidal concentration \(MBC\)}{section.10.3}% 163
+\BOOKMARK [1][-]{section.10.4}{Meccanismi di azione degli antibiotici}{chapter.10}% 164
+\BOOKMARK [2][-]{subsection.10.4.1}{Inibizione della sintesi della parete cellulare}{section.10.4}% 165
+\BOOKMARK [2][-]{subsection.10.4.2}{Inibizione della sintesi proteica}{section.10.4}% 166

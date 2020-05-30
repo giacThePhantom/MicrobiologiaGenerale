@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.4.24)  9 MAY 2020 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.4.24)  30 MAY 2020 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1561,17 +1561,17 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 ...smi di trasporto cellulare}{25}{chapter.4}
+l.52 ...smi di trasporto cellulare}{23}{chapter.4}
                                                   % [1
 
-] [2])
+] [2] [3])
 \tf@toc=\write5
 \openout5 = `Principal.toc'.
 
 
-(./Chapters/01_Introduzione.tex [3]
+(./Chapters/01_Introduzione.tex [4]
 Capitolo 1.
-<Pictures/AlberoVita.png, id=520, 1238.6275pt x 641.39626pt>
+<Pictures/AlberoVita.png, id=872, 1238.6275pt x 641.39626pt>
 File: Pictures/AlberoVita.png Graphic file (type png)
 <use Pictures/AlberoVita.png>
 Package pdftex.def Info: Pictures/AlberoVita.png  used on input line 15.
@@ -1584,10 +1584,10 @@ Overfull \hbox (16.03362pt too wide) in paragraph at lines 26--41
 [] 
  []
 
-[4
+[5
 
 ]
-<Pictures/MacchinaCellulare.png, id=529, 185.2521pt x 192.2382pt>
+<Pictures/MacchinaCellulare.png, id=881, 185.2521pt x 192.2382pt>
 File: Pictures/MacchinaCellulare.png Graphic file (type png)
 <use Pictures/MacchinaCellulare.png>
 Package pdftex.def Info: Pictures/MacchinaCellulare.png  used on input line 46.
@@ -1597,20 +1597,20 @@ Package pdftex.def Info: Pictures/MacchinaCellulare.png  used on input line 46.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./Pictures/AlberoVita.png>] [6 <./Pictures/MacchinaCellulare.png>]
-<Pictures/DiffBatArcEu.png, id=545, 1300.86pt x 869.2475pt>
+[6 <./Pictures/AlberoVita.png>] [7 <./Pictures/MacchinaCellulare.png>]
+<Pictures/DiffBatArcEu.png, id=897, 1300.86pt x 869.2475pt>
 File: Pictures/DiffBatArcEu.png Graphic file (type png)
 <use Pictures/DiffBatArcEu.png>
 Package pdftex.def Info: Pictures/DiffBatArcEu.png  used on input line 87.
 (pdftex.def)             Requested size: 390.26102pt x 260.77626pt.
- [7]
-[8 <./Pictures/DiffBatArcEu.png>]
-<Pictures/CelluleEuPro.png, id=564, 707.64375pt x 728.7225pt>
+ [8]
+[9 <./Pictures/DiffBatArcEu.png>]
+<Pictures/CelluleEuPro.png, id=916, 707.64375pt x 728.7225pt>
 File: Pictures/CelluleEuPro.png Graphic file (type png)
 <use Pictures/CelluleEuPro.png>
 Package pdftex.def Info: Pictures/CelluleEuPro.png  used on input line 93.
 (pdftex.def)             Requested size: 212.29475pt x 218.61844pt.
-<Pictures/AggBatterici.png, id=565, 718.685pt x 959.585pt>
+<Pictures/AggBatterici.png, id=917, 718.685pt x 959.585pt>
 File: Pictures/AggBatterici.png Graphic file (type png)
 <use Pictures/AggBatterici.png>
 Package pdftex.def Info: Pictures/AggBatterici.png  used on input line 99.
@@ -1620,15 +1620,15 @@ Overfull \hbox (3.79716pt too wide) in paragraph at lines 99--100
 [][] 
  []
 
-<Pictures/CosCellulaBat.png, id=566, 1279.78125pt x 429.605pt>
+<Pictures/CosCellulaBat.png, id=918, 1279.78125pt x 429.605pt>
 File: Pictures/CosCellulaBat.png Graphic file (type png)
 <use Pictures/CosCellulaBat.png>
 Package pdftex.def Info: Pictures/CosCellulaBat.png  used on input line 117.
 (pdftex.def)             Requested size: 383.93733pt x 128.88249pt.
-[9 <./Pictures/CelluleEuPro.png> <./Pictures/AggBatterici.png>] [10 <./Pictures
-/CosCellulaBat.png>]) (./Chapters/02_StrutturaBatterica.tex [11]
+[10 <./Pictures/CelluleEuPro.png> <./Pictures/AggBatterici.png>] [11 <./Picture
+s/CosCellulaBat.png>]) (./Chapters/02_StrutturaBatterica.tex [12]
 Capitolo 2.
-<Pictures/Peptidoglicano.png, id=596, 217.467pt x 243.09pt>
+<Pictures/Peptidoglicano.png, id=949, 217.467pt x 243.09pt>
 File: Pictures/Peptidoglicano.png Graphic file (type png)
 <use Pictures/Peptidoglicano.png>
 Package pdftex.def Info: Pictures/Peptidoglicano.png  used on input line 11.
@@ -1638,7 +1638,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 11--12
 [][] 
  []
 
-<Pictures/Peptidoglicano2.png, id=597, 192.8295pt x 236.8485pt>
+<Pictures/Peptidoglicano2.png, id=950, 192.8295pt x 236.8485pt>
 File: Pictures/Peptidoglicano2.png Graphic file (type png)
 <use Pictures/Peptidoglicano2.png>
 Package pdftex.def Info: Pictures/Peptidoglicano2.png  used on input line 15.
@@ -1655,7 +1655,7 @@ Overfull \vbox (17.03789pt too high) has occurred while \output is active []
 Overfull \vbox (17.03789pt too high) has occurred while \output is active []
 
 
-[12
+[13
 
  <./Pictures/Peptidoglicano.png> <./Pictures/Peptidoglicano2.png>]
 Overfull \hbox (0.53714pt too wide) in paragraph at lines 18--25
@@ -1663,7 +1663,7 @@ Overfull \hbox (0.53714pt too wide) in paragraph at lines 18--25
 e da due de-ri-va-ti del-lo zuc-che-ro, N-acetilglucosamina
  []
 
-<Pictures/3.png, id=605, 483.7272pt x 199.947pt>
+<Pictures/3.png, id=957, 483.7272pt x 199.947pt>
 File: Pictures/3.png Graphic file (type png)
 <use Pictures/3.png>
 Package pdftex.def Info: Pictures/3.png  used on input line 28.
@@ -1673,24 +1673,24 @@ Underfull \hbox (badness 1603) in paragraph at lines 31--37
 []\OT1/cmr/m/n/10 Le pa-re-ti cel-lu-la-ri nel mon-do dei
  []
 
-<Pictures/4.png, id=606, 271.2534pt x 205.2468pt>
+<Pictures/4.png, id=958, 271.2534pt x 205.2468pt>
 File: Pictures/4.png Graphic file (type png)
 <use Pictures/4.png>
 Package pdftex.def Info: Pictures/4.png  used on input line 40.
 (pdftex.def)             Requested size: 208.13574pt x 157.4893pt.
-[13 <./Pictures/3.png> <./Pictures/4.png>]
-<Pictures/5.png, id=616, 483.7272pt x 114.6684pt>
+[14 <./Pictures/3.png> <./Pictures/4.png>]
+<Pictures/5.png, id=968, 483.7272pt x 114.6684pt>
 File: Pictures/5.png Graphic file (type png)
 <use Pictures/5.png>
 Package pdftex.def Info: Pictures/5.png  used on input line 61.
 (pdftex.def)             Requested size: 433.62pt x 102.79115pt.
- [14 <./Pictures/5.png>]
-<Pictures/6.png, id=624, 356.532pt x 265.9536pt>
+ [15 <./Pictures/5.png>]
+<Pictures/6.png, id=977, 356.532pt x 265.9536pt>
 File: Pictures/6.png Graphic file (type png)
 <use Pictures/6.png>
 Package pdftex.def Info: Pictures/6.png  used on input line 66.
 (pdftex.def)             Requested size: 208.13574pt x 155.26366pt.
-<Pictures/7.png, id=625, 291.0072pt x 238.491pt>
+<Pictures/7.png, id=978, 291.0072pt x 238.491pt>
 File: Pictures/7.png Graphic file (type png)
 <use Pictures/7.png>
 Package pdftex.def Info: Pictures/7.png  used on input line 91.
@@ -1707,14 +1707,14 @@ Overfull \vbox (79.51811pt too high) has occurred while \output is active []
 Overfull \vbox (79.51811pt too high) has occurred while \output is active []
 
 
-[15 <./Pictures/6.png> <./Pictures/7.png>]
-<Pictures/8.png, id=634, 483.7272pt x 119.0046pt>
+[16 <./Pictures/6.png> <./Pictures/7.png>]
+<Pictures/8.png, id=987, 483.7272pt x 119.0046pt>
 File: Pictures/8.png Graphic file (type png)
 <use Pictures/8.png>
 Package pdftex.def Info: Pictures/8.png  used on input line 102.
 (pdftex.def)             Requested size: 433.62pt x 106.6782pt.
- [16 <./Pictures/8.png>]
-<Pictures/9.png, id=642, 330.9966pt x 170.5572pt>
+ [17 <./Pictures/8.png>]
+<Pictures/9.png, id=994, 330.9966pt x 170.5572pt>
 File: Pictures/9.png Graphic file (type png)
 <use Pictures/9.png>
 Package pdftex.def Info: Pictures/9.png  used on input line 125.
@@ -1724,7 +1724,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 125--126
 [][] 
  []
 
-<Pictures/10.png, id=643, 233.673pt x 277.035pt>
+<Pictures/10.png, id=995, 233.673pt x 277.035pt>
 File: Pictures/10.png Graphic file (type png)
 <use Pictures/10.png>
 Package pdftex.def Info: Pictures/10.png  used on input line 128.
@@ -1734,24 +1734,24 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 128--129
 [][] 
  []
 
-<Pictures/11.png, id=644, 483.7272pt x 185.9748pt>
+<Pictures/11.png, id=996, 483.7272pt x 185.9748pt>
 File: Pictures/11.png Graphic file (type png)
 <use Pictures/11.png>
 Package pdftex.def Info: Pictures/11.png  used on input line 136.
 (pdftex.def)             Requested size: 433.62pt x 166.71173pt.
-<Pictures/12.png, id=645, 483.7272pt x 264.99pt>
+<Pictures/12.png, id=997, 483.7272pt x 264.99pt>
 File: Pictures/12.png Graphic file (type png)
 <use Pictures/12.png>
 Package pdftex.def Info: Pictures/12.png  used on input line 139.
 (pdftex.def)             Requested size: 433.62pt x 237.54263pt.
-<Pictures/13.png, id=646, 253.9086pt x 226.9278pt>
+<Pictures/13.png, id=998, 253.9086pt x 226.9278pt>
 File: Pictures/13.png Graphic file (type png)
 <use Pictures/13.png>
 Package pdftex.def Info: Pictures/13.png  used on input line 143.
 (pdftex.def)             Requested size: 208.13574pt x 186.01965pt.
-[17 <./Pictures/9.png> <./Pictures/10.png> <./Pictures/11.png>] [18 <./Pictures
+[18 <./Pictures/9.png> <./Pictures/10.png> <./Pictures/11.png>] [19 <./Pictures
 /12.png> <./Pictures/13.png>]
-<Pictures/14.png, id=666, 350.7504pt x 198.9834pt>
+<Pictures/14.png, id=1018, 350.7504pt x 198.9834pt>
 File: Pictures/14.png Graphic file (type png)
 <use Pictures/14.png>
 Package pdftex.def Info: Pictures/14.png  used on input line 161.
@@ -1761,24 +1761,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--170
 
  []
 
-[19 <./Pictures/14.png>]
-<Pictures/15.png, id=673, 264.99pt x 378.6948pt>
+[20 <./Pictures/14.png>]
+<Pictures/15.png, id=1025, 264.99pt x 378.6948pt>
 File: Pictures/15.png Graphic file (type png)
 <use Pictures/15.png>
 Package pdftex.def Info: Pictures/15.png  used on input line 173.
 (pdftex.def)             Requested size: 208.13574pt x 297.44942pt.
-<Pictures/16.png, id=674, 187.4202pt x 268.8444pt>
+<Pictures/16.png, id=1026, 187.4202pt x 268.8444pt>
 File: Pictures/16.png Graphic file (type png)
 <use Pictures/16.png>
 Package pdftex.def Info: Pictures/16.png  used on input line 177.
 (pdftex.def)             Requested size: 208.13574pt x 298.58081pt.
-<Pictures/17.png, id=675, 214.8828pt x 149.358pt>
+<Pictures/17.png, id=1027, 214.8828pt x 149.358pt>
 File: Pictures/17.png Graphic file (type png)
 <use Pictures/17.png>
 Package pdftex.def Info: Pictures/17.png  used on input line 200.
 (pdftex.def)             Requested size: 208.13574pt x 144.67195pt.
- [20 <./Pictures/15.png> <./Pictures/16.png>]
-<Pictures/18.png, id=684, 222.5916pt x 241.8636pt>
+ [21 <./Pictures/15.png> <./Pictures/16.png>]
+<Pictures/18.png, id=1036, 222.5916pt x 241.8636pt>
 File: Pictures/18.png Graphic file (type png)
 <use Pictures/18.png>
 Package pdftex.def Info: Pictures/18.png  used on input line 213.
@@ -1788,61 +1788,65 @@ Underfull \hbox (badness 2111) in paragraph at lines 216--217
 []\OT1/cmr/m/n/10 Viene de-scrit-to il mo-vi-men-to in pro-ca-rio-ti
  []
 
-<Pictures/19.png, id=685, 483.7272pt x 163.3302pt>
+<Pictures/19.png, id=1037, 483.7272pt x 163.3302pt>
 File: Pictures/19.png Graphic file (type png)
 <use Pictures/19.png>
 Package pdftex.def Info: Pictures/19.png  used on input line 231.
 (pdftex.def)             Requested size: 433.62pt x 146.41263pt.
-[21 <./Pictures/17.png> <./Pictures/18.png>]
-<Pictures/20.png, id=695, 483.7272pt x 194.6472pt>
+[22 <./Pictures/17.png> <./Pictures/18.png>]
+<Pictures/20.png, id=1047, 483.7272pt x 194.6472pt>
 File: Pictures/20.png Graphic file (type png)
 <use Pictures/20.png>
 Package pdftex.def Info: Pictures/20.png  used on input line 238.
 (pdftex.def)             Requested size: 433.62pt x 174.48586pt.
 )
-(./Chapters/03_PopolazioneBatterica.tex [22 <./Pictures/19.png> <./Pictures/20.
+(./Chapters/03_PopolazioneBatterica.tex [23 <./Pictures/19.png> <./Pictures/20.
 png>]
 Capitolo 3.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 14.
 
-[23
+[24
 
-]) (./Chapters/04_MeccanismiDiTrasportoCellulare.tex [24]
+]) (./Chapters/04_MeccanismiDiTrasportoCellulare.tex [25]
 Capitolo 4.
-[25
+[26
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
-[26] [27] [28] [29]) (./Chapters/05_MetabolismoDeiMicrorganismi.tex [30]
+[27] [28] [29] [30]) (./Chapters/05_MetabolismoDeiMicrorganismi.tex [31]
 Capitolo 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-[31
+[32
 
-] [32] [33] [34] [35] [36] [37]
+] [33] [34] [35] [36] [37] [38]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-[38] [39] [40]) (./Chapters/06_GeneticaBatterica.tex)
-(./Chapters/07_GenomicaMicrobica.tex [41]
+[39] [40] [41]) (./Chapters/06_GeneticaBatterica.tex [42]
 Capitolo 6.
-[42
+[43
 
-] [43]
+] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]
+[58] [59]) (./Chapters/07_GenomicaMicrobica.tex [60]
+Capitolo 7.
+[61
+
+] [62]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
-[44]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 92--94
 
  []
@@ -1857,53 +1861,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
-[45]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 118--123
 
  []
 
-[46] [47]) (./Chapters/08_Virologia.tex [48]
-Capitolo 7.
-[49
+[65] [66]) (./Chapters/08_Virologia.tex [67]
+Capitolo 8.
+[68
 
-] [50] [51] [52] [53] [54]) (./Chapters/09_RegolazioneMetabolica.tex)
-[55]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
+] [69] [70] [71] [72] [73] [74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 207--213
+
+ []
+
+[76] [77] [78] [79] [80]) (./Chapters/09_RegolazioneMetabolica.tex [81]
+[82]
+Capitolo 9.
+[83
+
+] [84] [85] [86] [87]) (./Chapters/10_ControlloDellaCrescitaMicrobica.tex
+[88] [89]
+Capitolo 10.
+[90
+
+] [91] [92] [93] [94] [95]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.07225pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[96] [97]) [98]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
  (./build/Principal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47032 strings out of 492615
- 1032865 string characters out of 6131390
- 1200144 words of memory out of 5000000
- 49989 multiletter control sequences out of 15000+600000
- 545875 words of font info for 76 fonts, out of 8000000 for 9000
+ 47362 strings out of 492615
+ 1036725 string characters out of 6131390
+ 1200197 words of memory out of 5000000
+ 50061 multiletter control sequences out of 15000+600000
+ 546544 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,14n,111p,932b,908s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfrm1000.pfb>
-Output written on ./build/Principal.pdf (56 pages, 7938122 bytes).
+t/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
+000.pfb>
+Output written on ./build/Principal.pdf (99 pages, 8085548 bytes).
 PDF statistics:
- 1014 PDF objects out of 1200 (max. 8388607)
- 881 compressed objects within 9 object streams
- 255 named destinations out of 1000 (max. 500000)
- 919 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1746 PDF objects out of 2073 (max. 8388607)
+ 1561 compressed objects within 16 object streams
+ 508 named destinations out of 1000 (max. 500000)
+ 1471 words of extra memory for PDF output out of 10000 (max. 10000000)
 

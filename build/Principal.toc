@@ -82,7 +82,7 @@
 \contentsline {subsection}{\numberline {5.7.3}Catena di trasporto degli elettroni}{37}{subsection.5.7.3}% 
 \contentsline {subsection}{\numberline {5.7.4}ATPsintasi}{38}{subsection.5.7.4}% 
 \contentsline {section}{\numberline {5.8}Bilancio globale}{38}{section.5.8}% 
-\contentsline {section}{\numberline {5.9}Le altarnative cataboliche}{39}{section.5.9}% 
+\contentsline {section}{\numberline {5.9}Le alternative cataboliche}{39}{section.5.9}% 
 \contentsline {section}{\numberline {5.10}La fermentazione}{39}{section.5.10}% 
 \contentsline {subsection}{\numberline {5.10.1}Fermentazione lattica}{39}{subsection.5.10.1}% 
 \contentsline {subsection}{\numberline {5.10.2}Fermentazione alcolica}{39}{subsection.5.10.2}% 

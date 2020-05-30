@@ -31,7 +31,7 @@
 \contentsline {section}{\numberline {2.1}La parete cellulare}{13}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Peptidoglicano}{13}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Parete cellulare nei gram-positivi e gram-negativi}{14}{subsection.2.1.2}% 
-\contentsline {subsubsection}{Parete cellullare nei gram+}{14}{section*.23}% 
+\contentsline {subsubsection}{Parete cellulare nei gram+}{14}{section*.23}% 
 \contentsline {subsubsection}{Parete cellullare nei gram-}{15}{section*.25}% 
 \contentsline {subsection}{\numberline {2.1.3}Lisozima}{16}{subsection.2.1.3}% 
 \contentsline {section}{\numberline {2.2}La membrana citoplasmatica}{17}{section.2.2}% 

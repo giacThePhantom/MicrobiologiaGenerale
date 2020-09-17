@@ -1,4 +1,4 @@
-# MicrobiologiaGenerale
+# Microbiologia Generale
 Appunti del corso di microbiologia generale tenuto dal professor Jousson. Università di Trento, 2019/2020
 
 ## Struttura dei file

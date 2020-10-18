@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  18 OCT 2020 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  19 OCT 2020 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1561,7 +1561,7 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55 ...i coltivazione microbica}{22}{section.3.1}
+l.55 ...i coltivazione microbica}{23}{section.3.1}
                                                   % [1
 
 ] [2] [3] [4])
@@ -1779,7 +1779,7 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 Here is how much of TeX's memory you used:
  47287 strings out of 492615
  1035062 string characters out of 6131390
- 1199199 words of memory out of 5000000
+ 1199193 words of memory out of 5000000
  50010 multiletter control sequences out of 15000+600000
  546236 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1801,7 +1801,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on ./build/Principal.pdf (97 pages, 3255447 bytes).
+Output written on ./build/Principal.pdf (97 pages, 3255446 bytes).
 PDF statistics:
  1711 PDF objects out of 1728 (max. 8388607)
  1553 compressed objects within 16 object streams

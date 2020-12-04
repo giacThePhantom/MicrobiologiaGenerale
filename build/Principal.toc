@@ -257,50 +257,81 @@
 \contentsline {paragraph}{Determinazione in base allo stato fisico}{96}{section*.75}% 
 \contentsline {paragraph}{Determinazione in base alla quantit\`a di sostanze}{96}{section*.76}% 
 \contentsline {paragraph}{Determinazione in base alla qualit\`a delle sostanze}{96}{section*.77}% 
+\contentsline {subsection}{\numberline {11.1.2}Primo giorno}{97}{subsection.11.1.2}% 
+\contentsline {subsubsection}{Coltura liquida}{97}{section*.78}% 
+\contentsline {subsubsection}{Terreni preparati}{97}{section*.79}% 
 \contentsline {section}{\numberline {11.2}Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico (E. coli)}{97}{section.11.2}% 
 \contentsline {subsection}{\numberline {11.2.1}Introduzione}{97}{subsection.11.2.1}% 
-\contentsline {subsubsection}{Fattori che influenzano la crescita batterica}{97}{section*.78}% 
-\contentsline {subsubsection}{Quantificazione}{97}{section*.79}% 
-\contentsline {paragraph}{Fasi della crescita microbica}{97}{section*.80}% 
-\contentsline {section}{\numberline {11.3}Terza esperienza - Caratterizzazione dei batteri del cavo orale}{97}{section.11.3}% 
-\contentsline {subsection}{\numberline {11.3.1}Introduzione}{97}{subsection.11.3.1}% 
-\contentsline {subsubsection}{Piastra su agar-sangue}{98}{section*.81}% 
-\contentsline {paragraph}{Emolisi}{98}{section*.82}% 
-\contentsline {paragraph}{Semina sulla piastra}{98}{section*.83}% 
-\contentsline {subsubsection}{Morfologia dei batteri del cavo orale}{98}{section*.84}% 
-\contentsline {paragraph}{Aspetto}{98}{section*.85}% 
-\contentsline {paragraph}{Spessore}{98}{section*.86}% 
-\contentsline {paragraph}{Margini}{98}{section*.87}% 
-\contentsline {section}{\numberline {11.4}Quarta esperienza - Conta standard su piastra}{99}{section.11.4}% 
-\contentsline {subsection}{\numberline {11.4.1}Introduzione}{99}{subsection.11.4.1}% 
-\contentsline {subsubsection}{Conta microbica indiretta}{99}{section*.88}% 
-\contentsline {subsubsection}{Conta vitale}{99}{section*.89}% 
-\contentsline {paragraph}{Processo}{99}{section*.90}% 
-\contentsline {section}{\numberline {11.5}Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{99}{section.11.5}% 
-\contentsline {subsection}{\numberline {11.5.1}Introduzione}{99}{subsection.11.5.1}% 
-\contentsline {subsubsection}{Distinguere i batteri in base alla richiesta di ossigeno}{99}{section*.91}% 
-\contentsline {subsubsection}{Batteri modello}{99}{section*.92}% 
-\contentsline {subsubsection}{Processo}{100}{section*.93}% 
-\contentsline {section}{\numberline {11.6}Sesta esperienza - test Kirby-Bauer}{100}{section.11.6}% 
-\contentsline {subsection}{\numberline {11.6.1}Introduzione}{100}{subsection.11.6.1}% 
-\contentsline {subsubsection}{Test di Kirby-Bauer}{100}{section*.94}% 
-\contentsline {paragraph}{Procedimento}{100}{section*.95}% 
-\contentsline {paragraph}{lettura dei risultati}{100}{section*.96}% 
-\contentsline {section}{\numberline {11.7}Settima esperienza - test biochimico \emph {API 20E}}{100}{section.11.7}% 
-\contentsline {subsection}{\numberline {11.7.1}Introduzione}{100}{subsection.11.7.1}% 
-\contentsline {subsubsection}{Test \emph {API 20E}}{101}{section*.97}% 
-\contentsline {paragraph}{Processo}{101}{section*.98}% 
-\contentsline {paragraph}{Lettura dei risultati}{101}{section*.99}% 
-\contentsline {subparagraph}{Lettura dei moduli}{101}{section*.100}% 
-\contentsline {section}{\numberline {11.8}Ottava esperienza - Colorazione di Gram}{101}{section.11.8}% 
-\contentsline {subsection}{\numberline {11.8.1}Introduzione}{101}{subsection.11.8.1}% 
-\contentsline {subsubsection}{Procedimento}{101}{section*.101}% 
-\contentsline {section}{\numberline {11.9}Nona esperienza - Osservazione della motilit\`a batterica di tipo ``swimming'' al microscopio ottico}{101}{section.11.9}% 
-\contentsline {subsection}{\numberline {11.9.1}Introduzione}{101}{subsection.11.9.1}% 
-\contentsline {subsubsection}{Flagelli}{102}{section*.102}% 
-\contentsline {paragraph}{Tipi di movimento}{102}{section*.103}% 
-\contentsline {paragraph}{Distinzione in base a numero e posizione dei flagelli}{102}{section*.104}% 
-\contentsline {section}{\numberline {11.10}Decima esperienza - Trasformazione di batteri}{102}{section.11.10}% 
-\contentsline {subsection}{\numberline {11.10.1}Introduzione}{102}{subsection.11.10.1}% 
-\contentsline {subsubsection}{Plasmidi}{102}{section*.105}% 
-\contentsline {subsubsection}{Processo di trasformazione}{102}{section*.106}% 
+\contentsline {subsubsection}{Fattori che influenzano la crescita batterica}{97}{section*.80}% 
+\contentsline {subsubsection}{Quantificazione}{98}{section*.81}% 
+\contentsline {paragraph}{Fasi della crescita microbica}{98}{section*.82}% 
+\contentsline {subsection}{\numberline {11.2.2}Primo giorno}{98}{subsection.11.2.2}% 
+\contentsline {subsubsection}{Micropipetta}{98}{section*.83}% 
+\contentsline {paragraph}{Tipologie}{98}{section*.84}% 
+\contentsline {paragraph}{Utilizzo}{98}{section*.85}% 
+\contentsline {subsubsection}{Tempo di generazione}{98}{section*.86}% 
+\contentsline {subsubsection}{Procedimento}{99}{section*.87}% 
+\contentsline {subsubsection}{Analisi dei dati}{99}{section*.88}% 
+\contentsline {paragraph}{Dati raccolti}{100}{section*.89}% 
+\contentsline {section}{\numberline {11.3}Terza esperienza - Caratterizzazione dei batteri del cavo orale}{100}{section.11.3}% 
+\contentsline {subsection}{\numberline {11.3.1}Introduzione}{100}{subsection.11.3.1}% 
+\contentsline {subsubsection}{Piastra su agar-sangue}{100}{section*.90}% 
+\contentsline {paragraph}{Emolisi}{100}{section*.91}% 
+\contentsline {paragraph}{Semina sulla piastra}{100}{section*.92}% 
+\contentsline {subsubsection}{Morfologia dei batteri del cavo orale}{100}{section*.93}% 
+\contentsline {paragraph}{Aspetto}{100}{section*.94}% 
+\contentsline {paragraph}{Rilievo}{101}{section*.95}% 
+\contentsline {paragraph}{Superficie}{101}{section*.96}% 
+\contentsline {paragraph}{Margini}{101}{section*.97}% 
+\contentsline {paragraph}{Struttura}{101}{section*.98}% 
+\contentsline {paragraph}{Altri fattori}{101}{section*.99}% 
+\contentsline {subsection}{\numberline {11.3.2}Secondo giorno}{101}{subsection.11.3.2}% 
+\contentsline {subsubsection}{Equilibrio plastico}{102}{section*.100}% 
+\contentsline {subsubsection}{Ecosistema orale}{102}{section*.101}% 
+\contentsline {paragraph}{Esempi}{102}{section*.102}% 
+\contentsline {subsection}{\numberline {11.3.3}Procedimento}{102}{subsection.11.3.3}% 
+\contentsline {section}{\numberline {11.4}Quarta esperienza - Conta standard su piastra}{103}{section.11.4}% 
+\contentsline {subsection}{\numberline {11.4.1}Introduzione}{103}{subsection.11.4.1}% 
+\contentsline {subsubsection}{Conta microbica indiretta}{103}{section*.103}% 
+\contentsline {subsubsection}{Conta vitale}{103}{section*.104}% 
+\contentsline {paragraph}{Processo}{103}{section*.105}% 
+\contentsline {subsection}{\numberline {11.4.2}Secondo giorno}{103}{subsection.11.4.2}% 
+\contentsline {subsubsection}{Metodi della conta batterica}{103}{section*.106}% 
+\contentsline {paragraph}{Conta diretta}{103}{section*.107}% 
+\contentsline {paragraph}{Conta indiretta}{103}{section*.108}% 
+\contentsline {paragraph}{Conta vitale}{103}{section*.109}% 
+\contentsline {subsubsection}{Colonia}{103}{section*.110}% 
+\contentsline {subsubsection}{Procedimento}{104}{section*.111}% 
+\contentsline {subsubsection}{Analisi dei risultati}{104}{section*.112}% 
+\contentsline {section}{\numberline {11.5}Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{105}{section.11.5}% 
+\contentsline {subsection}{\numberline {11.5.1}Introduzione}{105}{subsection.11.5.1}% 
+\contentsline {subsubsection}{Distinguere i batteri in base alla richiesta di ossigeno}{105}{section*.113}% 
+\contentsline {subsubsection}{Batteri modello}{105}{section*.114}% 
+\contentsline {subsubsection}{Processo}{105}{section*.115}% 
+\contentsline {subsection}{\numberline {11.5.2}Seconda giornata}{105}{subsection.11.5.2}% 
+\contentsline {subsubsection}{Creazione di condizione di anaerobiosi}{106}{section*.116}% 
+\contentsline {paragraph}{Verificare l'assenza di ossigeno}{106}{section*.117}% 
+\contentsline {subsubsection}{Procedimento}{106}{section*.118}% 
+\contentsline {section}{\numberline {11.6}Sesta esperienza - test Kirby-Bauer}{106}{section.11.6}% 
+\contentsline {subsection}{\numberline {11.6.1}Introduzione}{106}{subsection.11.6.1}% 
+\contentsline {subsubsection}{Test di Kirby-Bauer}{106}{section*.119}% 
+\contentsline {paragraph}{Procedimento}{106}{section*.120}% 
+\contentsline {paragraph}{lettura dei risultati}{107}{section*.121}% 
+\contentsline {section}{\numberline {11.7}Settima esperienza - test biochimico \emph {API 20E}}{107}{section.11.7}% 
+\contentsline {subsection}{\numberline {11.7.1}Introduzione}{107}{subsection.11.7.1}% 
+\contentsline {subsubsection}{Test \emph {API 20E}}{107}{section*.122}% 
+\contentsline {paragraph}{Processo}{107}{section*.123}% 
+\contentsline {paragraph}{Lettura dei risultati}{107}{section*.124}% 
+\contentsline {subparagraph}{Lettura dei moduli}{107}{section*.125}% 
+\contentsline {section}{\numberline {11.8}Ottava esperienza - Colorazione di Gram}{107}{section.11.8}% 
+\contentsline {subsection}{\numberline {11.8.1}Introduzione}{107}{subsection.11.8.1}% 
+\contentsline {subsubsection}{Procedimento}{107}{section*.126}% 
+\contentsline {section}{\numberline {11.9}Nona esperienza - Osservazione della motilit\`a batterica di tipo ``swimming'' al microscopio ottico}{108}{section.11.9}% 
+\contentsline {subsection}{\numberline {11.9.1}Introduzione}{108}{subsection.11.9.1}% 
+\contentsline {subsubsection}{Flagelli}{108}{section*.127}% 
+\contentsline {paragraph}{Tipi di movimento}{108}{section*.128}% 
+\contentsline {paragraph}{Distinzione in base a numero e posizione dei flagelli}{108}{section*.129}% 
+\contentsline {section}{\numberline {11.10}Decima esperienza - Trasformazione di batteri}{108}{section.11.10}% 
+\contentsline {subsection}{\numberline {11.10.1}Introduzione}{108}{subsection.11.10.1}% 
+\contentsline {subsubsection}{Plasmidi}{108}{section*.130}% 
+\contentsline {subsubsection}{Processo di trasformazione}{108}{section*.131}% 

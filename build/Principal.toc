@@ -1,337 +1,361 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione}{6}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Albero della vita}{6}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Alcuni organismi}{6}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}Batteri e archea}{7}{subsection.1.1.2}% 
-\contentsline {subsection}{\numberline {1.1.3}Virus}{7}{subsection.1.1.3}% 
-\contentsline {subsection}{\numberline {1.1.4}Caratteristiche degli esseri viventi}{7}{subsection.1.1.4}% 
-\contentsline {subsection}{\numberline {1.1.5}Caratterizzazione dei microbi}{8}{subsection.1.1.5}% 
-\contentsline {section}{\numberline {1.2}La macchina cellulare}{8}{section.1.2}% 
-\contentsline {subsection}{\numberline {1.2.1}Impatto dei microbi sulle attivit\`a umane}{8}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}Ricombinazione del DNA}{8}{subsection.1.2.2}% 
-\contentsline {section}{\numberline {1.3}Microrganismi come modello}{9}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Il conflitto sulla generazione spontanea}{9}{subsection.1.3.1}% 
-\contentsline {subsection}{\numberline {1.3.2}Postulati di Koch}{9}{subsection.1.3.2}% 
-\contentsline {subsubsection}{I postulati di Koch molecolari}{9}{section*.2}% 
-\contentsline {section}{\numberline {1.4}I batteri}{9}{section.1.4}% 
-\contentsline {subsection}{\numberline {1.4.1}Composizione elementare}{9}{subsection.1.4.1}% 
-\contentsline {subsection}{\numberline {1.4.2}Strutture e loro funzioni}{10}{subsection.1.4.2}% 
-\contentsline {subsubsection}{Membrana plasmatica}{10}{section*.3}% 
-\contentsline {subsubsection}{Vacuolo gassoso}{10}{section*.4}% 
-\contentsline {subsubsection}{Ribosomi}{10}{section*.5}% 
-\contentsline {subsubsection}{Corpi d'inclusione}{10}{section*.6}% 
-\contentsline {subsubsection}{Nucleoide}{10}{section*.7}% 
-\contentsline {subsubsection}{Spazio periplasmatico}{10}{section*.8}% 
-\contentsline {subsubsection}{Parete cellulare}{10}{section*.9}% 
-\contentsline {subsubsection}{Capsule e strati mucosi}{10}{section*.10}% 
-\contentsline {subsubsection}{Fimbrie e pili}{10}{section*.11}% 
-\contentsline {subsubsection}{Flagelli}{11}{section*.12}% 
-\contentsline {subsubsection}{Endospora}{11}{section*.13}% 
-\contentsline {subsection}{\numberline {1.4.3}Classificazione}{11}{subsection.1.4.3}% 
-\contentsline {chapter}{\numberline {2}La struttura della cellula}{12}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}La parete cellulare}{12}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Peptidoglicano}{12}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Gram positivi}{12}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Gram negativi}{13}{subsection.2.1.3}% 
-\contentsline {subsubsection}{Spazio periplasmatico}{13}{section*.14}% 
-\contentsline {subsubsection}{Membrana esterna}{13}{section*.15}% 
-\contentsline {paragraph}{Porine}{13}{section*.16}% 
-\contentsline {paragraph}{Lipiproteine}{14}{section*.17}% 
-\contentsline {subsection}{\numberline {2.1.4}Lisozima}{14}{subsection.2.1.4}% 
-\contentsline {section}{\numberline {2.2}La membrana citoplasmatica}{14}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}La struttura}{14}{subsection.2.2.1}% 
-\contentsline {section}{\numberline {2.3}Membrana e parete degli archaea}{15}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Flagelli}{16}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Struttura}{16}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Movimento flagellare}{16}{subsection.2.4.2}% 
-\contentsline {subsection}{\numberline {2.4.3}Sintesi flagellare}{16}{subsection.2.4.3}% 
-\contentsline {subsection}{\numberline {2.4.4}Movimento flagellare}{16}{subsection.2.4.4}% 
-\contentsline {subsection}{\numberline {2.4.5}Spirocheti}{16}{subsection.2.4.5}% 
-\contentsline {section}{\numberline {2.5}Motilit\`a batterica}{16}{section.2.5}% 
-\contentsline {section}{\numberline {2.6}Strutture esterne}{16}{section.2.6}% 
-\contentsline {subsection}{\numberline {2.6.1}Glicocalice}{16}{subsection.2.6.1}% 
-\contentsline {subsection}{\numberline {2.6.2}Fimbrie}{16}{subsection.2.6.2}% 
-\contentsline {subsection}{\numberline {2.6.3}Pili}{16}{subsection.2.6.3}% 
-\contentsline {subsection}{\numberline {2.6.4}Biofilm}{16}{subsection.2.6.4}% 
-\contentsline {subsubsection}{Quorum sensing}{16}{section*.18}% 
-\contentsline {section}{\numberline {2.7}Inclusioni cellulari}{16}{section.2.7}% 
-\contentsline {section}{\numberline {2.8}Endospore}{16}{section.2.8}% 
-\contentsline {subsection}{\numberline {2.8.1}Struttura}{16}{subsection.2.8.1}% 
-\contentsline {subsection}{\numberline {2.8.2}Formazione}{16}{subsection.2.8.2}% 
-\contentsline {section}{\numberline {2.9}Locomozione microbica}{16}{section.2.9}% 
-\contentsline {subsection}{\numberline {2.9.1}Il flagello}{17}{subsection.2.9.1}% 
-\contentsline {subsection}{\numberline {2.9.2}Il movimento flagellare}{19}{subsection.2.9.2}% 
-\contentsline {subsubsection}{Il movimento flagellare nelle diverse categorie}{19}{section*.23}% 
-\contentsline {subsection}{\numberline {2.9.3}La sintesi flagellare}{19}{subsection.2.9.3}% 
-\contentsline {subsection}{\numberline {2.9.4}I flagelli negli spirocheti}{20}{subsection.2.9.4}% 
-\contentsline {chapter}{\numberline {3}Popolazione batterica}{21}{chapter.3}% 
-\contentsline {subsection}{\numberline {3.0.1}Conta vitale}{21}{subsection.3.0.1}% 
-\contentsline {subsection}{\numberline {3.0.2}Misura della torbidit\`a}{21}{subsection.3.0.2}% 
-\contentsline {subsection}{\numberline {3.0.3}Most Probable Number}{22}{subsection.3.0.3}% 
-\contentsline {section}{\numberline {3.1}Sistemi di coltivazione microbica}{22}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Chemostato}{22}{subsection.3.1.1}% 
-\contentsline {chapter}{\numberline {4}Meccanismi di trasporto cellulare}{23}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Tipologie di trasporto}{23}{section.4.1}% 
-\contentsline {subsection}{\numberline {4.1.1}Diffusione passiva}{23}{subsection.4.1.1}% 
-\contentsline {subsection}{\numberline {4.1.2}Diffusione facilitata}{23}{subsection.4.1.2}% 
-\contentsline {subsubsection}{Osmosi}{24}{section*.27}% 
-\contentsline {subsection}{\numberline {4.1.3}Trasporto attivo}{24}{subsection.4.1.3}% 
-\contentsline {section}{\numberline {4.2}Sistemi di traslocazione nei procarioti}{25}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Via di secrezione dipendente da Sec}{26}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Sistema di secrezione di tipo II}{26}{subsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.2.3}Sistema di secrezione a 2 partner (TPS, Two Partner Secretion)}{27}{subsection.4.2.3}% 
-\contentsline {subsection}{\numberline {4.2.4}Sistema dell'autotrasporto, tipo V}{27}{subsection.4.2.4}% 
-\contentsline {subsection}{\numberline {4.2.5}Secrezione attraverso la via "chaperon/usher"}{27}{subsection.4.2.5}% 
-\contentsline {section}{\numberline {4.3}Vie delle secrezioni indipendenti da Sec}{27}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Il sistema Tat: Twin-arginine translocation system}{27}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}I trasportatori ABC: ATP-Binding Cassette}{28}{subsection.4.3.2}% 
-\contentsline {subsection}{\numberline {4.3.3}Il sistema di secrezione di tipo III}{28}{subsection.4.3.3}% 
-\contentsline {subsection}{\numberline {4.3.4}Il sistema di secrezione di tipo IV}{28}{subsection.4.3.4}% 
-\contentsline {chapter}{\numberline {5}Metabolismo dei microrganismi}{29}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Catalisi ed enzimi}{29}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}Enzimi}{30}{subsection.5.1.1}% 
-\contentsline {subsection}{\numberline {5.1.2}Parametri esterni che alterano l'azione degli enzimi}{30}{subsection.5.1.2}% 
-\contentsline {subsection}{\numberline {5.1.3}Inibitori}{31}{subsection.5.1.3}% 
-\contentsline {section}{\numberline {5.2}Redox}{31}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Trasportatori di elettroni e ciclo NAD/NADH}{31}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}ATP}{32}{section.5.4}% 
-\contentsline {section}{\numberline {5.5}Catabolismo dei carboidrati}{32}{section.5.5}% 
-\contentsline {section}{\numberline {5.6}Glicolisi}{32}{section.5.6}% 
-\contentsline {section}{\numberline {5.7}Respirazione cellulare}{33}{section.5.7}% 
-\contentsline {subsection}{\numberline {5.7.1}Sintesi acetilCoA}{33}{subsection.5.7.1}% 
-\contentsline {subsection}{\numberline {5.7.2}Ciclo di Krebs}{34}{subsection.5.7.2}% 
-\contentsline {subsection}{\numberline {5.7.3}Catena di trasporto degli elettroni}{34}{subsection.5.7.3}% 
-\contentsline {subsection}{\numberline {5.7.4}ATPsintasi}{35}{subsection.5.7.4}% 
-\contentsline {section}{\numberline {5.8}Bilancio globale}{35}{section.5.8}% 
-\contentsline {section}{\numberline {5.9}Le alternative cataboliche}{36}{section.5.9}% 
-\contentsline {section}{\numberline {5.10}La fermentazione}{36}{section.5.10}% 
-\contentsline {subsection}{\numberline {5.10.1}Fermentazione lattica}{36}{subsection.5.10.1}% 
-\contentsline {subsection}{\numberline {5.10.2}Fermentazione alcolica}{36}{subsection.5.10.2}% 
-\contentsline {subsection}{\numberline {5.10.3}Prodotti alimentari o industriali derivati da processi di fermentazione}{37}{subsection.5.10.3}% 
-\contentsline {section}{\numberline {5.11}Altre vie cataboliche}{37}{section.5.11}% 
-\contentsline {section}{\numberline {5.12}La fotosintesi}{38}{section.5.12}% 
-\contentsline {subsection}{\numberline {5.12.1}Reazioni dipendenti dalla luce}{38}{subsection.5.12.1}% 
-\contentsline {subsection}{\numberline {5.12.2}Reazioni non dipendenti dalla luce}{39}{subsection.5.12.2}% 
-\contentsline {chapter}{\numberline {6}Genetica batterica}{40}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Mutazione}{40}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Isolamento dei mutanti}{41}{section.6.2}% 
-\contentsline {subsection}{\numberline {6.2.1}Mutazioni selezionabili}{41}{subsection.6.2.1}% 
-\contentsline {subsection}{\numberline {6.2.2}Isolamento di mutanti nutrizionali per selezione indiretta}{41}{subsection.6.2.2}% 
-\contentsline {subsection}{\numberline {6.2.3}Le basi molecolari delle mutazioni}{41}{subsection.6.2.3}% 
-\contentsline {subsection}{\numberline {6.2.4}Retromutazioni o reversioni}{42}{subsection.6.2.4}% 
-\contentsline {subsection}{\numberline {6.2.5}Frequenza di mutazione}{42}{subsection.6.2.5}% 
-\contentsline {subsection}{\numberline {6.2.6}Mutagenesi}{43}{subsection.6.2.6}% 
-\contentsline {subsubsection}{Mutageni chimici}{43}{section*.28}% 
-\contentsline {subsubsection}{Agenti fisici}{44}{section*.29}% 
-\contentsline {subsection}{\numberline {6.2.7}Saggi di laboratorio per l'identificazione del mutante}{44}{subsection.6.2.7}% 
-\contentsline {subsubsection}{Identificazioni di mutazione per seleziona positiva}{44}{section*.30}% 
-\contentsline {subsubsection}{Test di Ames}{44}{section*.31}% 
-\contentsline {section}{\numberline {6.3}Ricombinazione genetica omologa}{45}{section.6.3}% 
-\contentsline {subsubsection}{Identificazione dei ricombinati}{45}{section*.32}% 
-\contentsline {subsection}{\numberline {6.3.1}Trasformazione}{45}{subsection.6.3.1}% 
-\contentsline {subsection}{\numberline {6.3.2}Trasduzione}{47}{subsection.6.3.2}% 
-\contentsline {subsubsection}{Ciclo litico}{48}{section*.33}% 
-\contentsline {subsubsection}{Ciclo lisogenico $\xrightarrow {}$ evento reversibile}{48}{section*.34}% 
-\contentsline {subsection}{\numberline {6.3.3}Coniugazione}{49}{subsection.6.3.3}% 
-\contentsline {subsubsection}{I plasmidi}{49}{section*.35}% 
-\contentsline {subsubsection}{Dimostrazione della coniugazione batterica}{49}{section*.36}% 
-\contentsline {subsubsection}{Esperimento del tubo a U}{49}{section*.37}% 
-\contentsline {subsubsection}{Mappa genetica del plasmide F (fertility) di \textit {E. coli}}{50}{section*.38}% 
-\contentsline {subsubsection}{Coniugazione tra una cellula F\bbl@it@ap {+} e una F\bbl@it@ap {-}}{50}{section*.39}% 
-\contentsline {subsubsection}{La formazione di ceppi Hfr e la mobilizzazione del cromosoma}{51}{section*.40}% 
-\contentsline {subsubsection}{Integrazione del plasmide F}{51}{section*.41}% 
-\contentsline {subsubsection}{Uso dei ceppi Hfr negli incroci genetici}{51}{section*.42}% 
-\contentsline {subsubsection}{Coniugazione interrotta}{52}{section*.43}% 
-\contentsline {subsubsection}{Trasferimenti di geni cromosomali al plasmide F}{52}{section*.44}% 
-\contentsline {section}{\numberline {6.4}I trasposoni e la trasposizione}{53}{section.6.4}% 
-\contentsline {subsection}{\numberline {6.4.1}Esperimento di trasposizione}{54}{subsection.6.4.1}% 
-\contentsline {subsection}{\numberline {6.4.2}Mutagenesi con elementi trasponibili}{54}{subsection.6.4.2}% 
-\contentsline {subsubsection}{Random Mutagenesis Protocol}{54}{section*.45}% 
-\contentsline {section}{\numberline {6.5}Genetica batterica e clonaggio genico}{55}{section.6.5}% 
-\contentsline {subsection}{\numberline {6.5.1}I plasmidi come vettori di clonaggio}{55}{subsection.6.5.1}% 
-\contentsline {subsubsection}{Vettori plasmidici di prima generazione}{55}{section*.46}% 
-\contentsline {subsubsection}{Vettori plasmidici di seconda generazione}{56}{section*.47}% 
-\contentsline {subsection}{\numberline {6.5.2}Il batteriofago lambda come vettore di clonaggio}{56}{subsection.6.5.2}% 
-\contentsline {subsubsection}{Fasi di cloanggio con il vettore lambda}{56}{section*.48}% 
-\contentsline {subsection}{\numberline {6.5.3}La mutagenesi sito-diretta cosente di causare mutazioni all'interno di uno specifico gene}{57}{subsection.6.5.3}% 
-\contentsline {subsection}{\numberline {6.5.4}Mutagenesi a cassetta e inattivazione genica}{57}{subsection.6.5.4}% 
-\contentsline {chapter}{\numberline {7}Genomica microbica}{58}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Sequenziamento genomico di prima generazione (1995)}{59}{section.7.1}% 
-\contentsline {subsection}{\numberline {7.1.1}Cromosomi artificiali batterici: i BAC}{59}{subsection.7.1.1}% 
-\contentsline {subsection}{\numberline {7.1.2}YAC: i cromosomi artificiali di lievito}{59}{subsection.7.1.2}% 
-\contentsline {section}{\numberline {7.2}Sequenziamento del DNA}{59}{section.7.2}% 
-\contentsline {subsection}{\numberline {7.2.1}Metodo Sanger}{60}{subsection.7.2.1}% 
-\contentsline {subsection}{\numberline {7.2.2}Sequenziamento shotgun}{60}{subsection.7.2.2}% 
-\contentsline {section}{\numberline {7.3}Mappe genomiche}{61}{section.7.3}% 
-\contentsline {subsection}{\numberline {7.3.1}Categorie geniche}{62}{subsection.7.3.1}% 
-\contentsline {section}{\numberline {7.4}Genomica comparativa}{62}{section.7.4}% 
-\contentsline {chapter}{\numberline {8}Virologia}{65}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Struttura dei virus}{65}{section.8.1}% 
-\contentsline {subsection}{\numberline {8.1.1}Capside e simmetria}{65}{subsection.8.1.1}% 
-\contentsline {subsection}{\numberline {8.1.2}Virus con capsidi a simmetria complessa}{66}{subsection.8.1.2}% 
-\contentsline {subsection}{\numberline {8.1.3}Genomi virali}{67}{subsection.8.1.3}% 
-\contentsline {section}{\numberline {8.2}Tassonomia virale}{67}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Ciclo replicativo di un virus animale}{69}{section.8.3}% 
-\contentsline {subsection}{\numberline {8.3.1}Herpes simplex, classe I}{69}{subsection.8.3.1}% 
-\contentsline {subsection}{\numberline {8.3.2}Poxvirus (vaiolo), classe I}{70}{subsection.8.3.2}% 
-\contentsline {subsection}{\numberline {8.3.3}Picornavirus (poliovirus), classe IV}{70}{subsection.8.3.3}% 
-\contentsline {subsection}{\numberline {8.3.4}Virus dell'influenza umana di tipo A, classe V}{70}{subsection.8.3.4}% 
-\contentsline {subsection}{\numberline {8.3.5}Retrovirus animale, classe VI}{71}{subsection.8.3.5}% 
-\contentsline {section}{\numberline {8.4}I Batteriofagi}{71}{section.8.4}% 
-\contentsline {section}{\numberline {8.5}Replicazione dei batteriofagi}{72}{section.8.5}% 
-\contentsline {subsection}{\numberline {8.5.1}Batteriofago T4}{72}{subsection.8.5.1}% 
-\contentsline {subsubsection}{Fase di adsorbimento}{73}{section*.49}% 
-\contentsline {subsubsection}{Fase di iniezione}{73}{section*.50}% 
-\contentsline {subsubsection}{Restrizione e modificazione del virus da parte dell'ospite}{73}{section*.51}% 
-\contentsline {subsection}{\numberline {8.5.2}Permutazione circolare}{74}{subsection.8.5.2}% 
-\contentsline {subsection}{\numberline {8.5.3}Batteriofagi temperati}{74}{subsection.8.5.3}% 
-\contentsline {subsection}{\numberline {8.5.4}Il batteriofago lambda}{74}{subsection.8.5.4}% 
-\contentsline {subsubsection}{Via litica o lisogenica: l'interruttore genetico}{75}{section*.52}% 
-\contentsline {subsubsection}{Schema riassuntivo delle fasi dell'infezione di lambda}{75}{section*.53}% 
-\contentsline {subsubsection}{Integrazione di lambda}{76}{section*.54}% 
-\contentsline {subsection}{\numberline {8.5.5}Crescita litica di lambda}{76}{subsection.8.5.5}% 
-\contentsline {section}{\numberline {8.6}Genomi dei batteriofagi}{76}{section.8.6}% 
-\contentsline {section}{\numberline {8.7}Coltivazione dei virus animali}{76}{section.8.7}% 
-\contentsline {subsubsection}{Saggio delle placche}{77}{section*.55}% 
-\contentsline {subsubsection}{Conta delle particelle virali}{77}{section*.56}% 
-\contentsline {section}{\numberline {8.8}Purificazione di virus}{77}{section.8.8}% 
-\contentsline {subsection}{\numberline {8.8.1}Centrifugazione differenziale}{77}{subsection.8.8.1}% 
-\contentsline {subsection}{\numberline {8.8.2}Centrifugazione in gradiente di densit\IeC {\`a}}{78}{subsection.8.8.2}% 
-\contentsline {subsection}{\numberline {8.8.3}Precipitazione differenziale dei virus}{78}{subsection.8.8.3}% 
-\contentsline {subsection}{\numberline {8.8.4}Denaturazione dei contaminanti}{78}{subsection.8.8.4}% 
-\contentsline {subsection}{\numberline {8.8.5}Digestione enzimatica dei costituenti delle cellule ospiti}{78}{subsection.8.8.5}% 
-\contentsline {section}{\numberline {8.9}Particelle sub-virali}{78}{section.8.9}% 
-\contentsline {subsection}{\numberline {8.9.1}Viroidi}{78}{subsection.8.9.1}% 
-\contentsline {subsection}{\numberline {8.9.2}Prioni}{79}{subsection.8.9.2}% 
-\contentsline {chapter}{\numberline {9}Regolazione metabolica}{80}{chapter.9}% 
-\contentsline {section}{\numberline {9.1}Regolazione dell'attivit\IeC {\`a} enzimatica}{80}{section.9.1}% 
-\contentsline {subsection}{\numberline {9.1.1}Inibizione da feedback}{80}{subsection.9.1.1}% 
-\contentsline {subsection}{\numberline {9.1.2}Modificazione covalente degli enzimi}{81}{subsection.9.1.2}% 
-\contentsline {subsection}{\numberline {9.1.3}Processamento delle proteine}{81}{subsection.9.1.3}% 
-\contentsline {section}{\numberline {9.2}Regolazione a livello trascrizionale}{81}{section.9.2}% 
-\contentsline {subsection}{\numberline {9.2.1}DNA binding proteins (DBP)}{81}{subsection.9.2.1}% 
-\contentsline {subsection}{\numberline {9.2.2}Il controllo negativo della trascrizione}{81}{subsection.9.2.2}% 
-\contentsline {subsection}{\numberline {9.2.3}Controllo positivo della trascrizione}{82}{subsection.9.2.3}% 
-\contentsline {subsection}{\numberline {9.2.4}Sistemi di controllo globale}{82}{subsection.9.2.4}% 
-\contentsline {subsubsection}{Effetto glucosio}{83}{section*.57}% 
-\contentsline {subsubsection}{Risposta stringente}{83}{section*.58}% 
-\contentsline {section}{\numberline {9.3}Altri sistemi di controllo globale}{84}{section.9.3}% 
-\contentsline {subsection}{\numberline {9.3.1}Fattori sigma alternativi}{84}{subsection.9.3.1}% 
-\contentsline {subsection}{\numberline {9.3.2}Risposta allo shock termico}{84}{subsection.9.3.2}% 
-\contentsline {subsection}{\numberline {9.3.3}Quorum sensing}{84}{subsection.9.3.3}% 
-\contentsline {subsection}{\numberline {9.3.4}Trasduzione di segnale e sistemi di regolazione a 2 componenti}{85}{subsection.9.3.4}% 
-\contentsline {subsubsection}{Controllo della rotazione del flagello}{85}{section*.59}% 
-\contentsline {subsubsection}{Il processo di adattamento}{86}{section*.60}% 
-\contentsline {chapter}{\numberline {10}Controllo della crescita microbica}{87}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}Metodi fisici}{88}{section.10.1}% 
-\contentsline {subsection}{\numberline {10.1.1}Caldo umido}{88}{subsection.10.1.1}% 
-\contentsline {subsubsection}{Sterilizzazione mediante calore}{88}{section*.61}% 
-\contentsline {subsubsection}{Autoclave}{89}{section*.62}% 
-\contentsline {subsubsection}{Pastorizzazione}{89}{section*.63}% 
-\contentsline {subsubsection}{Altri metodi con temperatura}{90}{section*.64}% 
-\contentsline {subsection}{\numberline {10.1.2}Trattamenti fisici alternativi}{90}{subsection.10.1.2}% 
-\contentsline {subsubsection}{Sterilizzazione con radiazioni}{90}{section*.65}% 
-\contentsline {subsubsection}{Strerilizzazione per filtrazione}{91}{section*.66}% 
-\contentsline {section}{\numberline {10.2}Metodi chimici}{91}{section.10.2}% 
-\contentsline {subsection}{\numberline {10.2.1}Controllo della crescita in vivo}{91}{subsection.10.2.1}% 
-\contentsline {section}{\numberline {10.3}Misurazione dell'attivit\IeC {\`a} antimicrobica}{93}{section.10.3}% 
-\contentsline {subsection}{\numberline {10.3.1}Test di Kirby-Bauer}{93}{subsection.10.3.1}% 
-\contentsline {subsection}{\numberline {10.3.2}Test di Minimum Inhibitory Concentration (MIC)}{93}{subsection.10.3.2}% 
-\contentsline {subsection}{\numberline {10.3.3}Etest}{93}{subsection.10.3.3}% 
-\contentsline {subsection}{\numberline {10.3.4}Minimum bactericidal concentration (MBC)}{93}{subsection.10.3.4}% 
-\contentsline {section}{\numberline {10.4}Meccanismi di azione degli antibiotici}{93}{section.10.4}% 
-\contentsline {subsection}{\numberline {10.4.1}Inibizione della sintesi della parete cellulare}{94}{subsection.10.4.1}% 
-\contentsline {subsubsection}{$\beta $ lattamici}{94}{section*.67}% 
-\contentsline {subsubsection}{Glicopeptide}{94}{section*.68}% 
-\contentsline {subsubsection}{Isoniziade ed etambutolo}{95}{section*.69}% 
-\contentsline {subsection}{\numberline {10.4.2}Inibizione della sintesi proteica}{95}{subsection.10.4.2}% 
-\contentsline {subsubsection}{Aminoglicosidi}{95}{section*.70}% 
-\contentsline {subsubsection}{Tetracicline}{95}{section*.71}% 
-\contentsline {subsubsection}{Cloramfenicolo}{95}{section*.72}% 
-\contentsline {subsubsection}{Macrolidi}{95}{section*.73}% 
-\contentsline {chapter}{\numberline {11}Laboratorio}{96}{chapter.11}% 
-\contentsline {section}{\numberline {11.1}Prima esperienza - preparazione del terreno di coltura sterile}{96}{section.11.1}% 
-\contentsline {subsection}{\numberline {11.1.1}Introduzione}{96}{subsection.11.1.1}% 
-\contentsline {subsubsection}{Categorie di terreni batterici}{96}{section*.74}% 
-\contentsline {paragraph}{Determinazione in base allo stato fisico}{96}{section*.75}% 
-\contentsline {paragraph}{Determinazione in base alla quantit\`a di sostanze}{96}{section*.76}% 
-\contentsline {paragraph}{Determinazione in base alla qualit\`a delle sostanze}{96}{section*.77}% 
-\contentsline {subsection}{\numberline {11.1.2}Primo giorno}{97}{subsection.11.1.2}% 
-\contentsline {subsubsection}{Coltura liquida}{97}{section*.78}% 
-\contentsline {subsubsection}{Terreni preparati}{97}{section*.79}% 
-\contentsline {section}{\numberline {11.2}Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico (E. coli)}{97}{section.11.2}% 
-\contentsline {subsection}{\numberline {11.2.1}Introduzione}{97}{subsection.11.2.1}% 
-\contentsline {subsubsection}{Fattori che influenzano la crescita batterica}{97}{section*.80}% 
-\contentsline {subsubsection}{Quantificazione}{98}{section*.81}% 
-\contentsline {paragraph}{Fasi della crescita microbica}{98}{section*.82}% 
-\contentsline {subsection}{\numberline {11.2.2}Primo giorno}{98}{subsection.11.2.2}% 
-\contentsline {subsubsection}{Micropipetta}{98}{section*.83}% 
-\contentsline {paragraph}{Tipologie}{98}{section*.84}% 
-\contentsline {paragraph}{Utilizzo}{98}{section*.85}% 
-\contentsline {subsubsection}{Tempo di generazione}{98}{section*.86}% 
-\contentsline {subsubsection}{Procedimento}{99}{section*.87}% 
-\contentsline {subsubsection}{Analisi dei dati}{99}{section*.88}% 
-\contentsline {paragraph}{Dati raccolti}{100}{section*.89}% 
-\contentsline {section}{\numberline {11.3}Terza esperienza - Caratterizzazione dei batteri del cavo orale}{100}{section.11.3}% 
-\contentsline {subsection}{\numberline {11.3.1}Introduzione}{100}{subsection.11.3.1}% 
-\contentsline {subsubsection}{Piastra su agar-sangue}{100}{section*.90}% 
-\contentsline {paragraph}{Emolisi}{100}{section*.91}% 
-\contentsline {paragraph}{Semina sulla piastra}{100}{section*.92}% 
-\contentsline {subsubsection}{Morfologia dei batteri del cavo orale}{100}{section*.93}% 
-\contentsline {paragraph}{Aspetto}{100}{section*.94}% 
-\contentsline {paragraph}{Rilievo}{101}{section*.95}% 
-\contentsline {paragraph}{Superficie}{101}{section*.96}% 
-\contentsline {paragraph}{Margini}{101}{section*.97}% 
-\contentsline {paragraph}{Struttura}{101}{section*.98}% 
-\contentsline {paragraph}{Altri fattori}{101}{section*.99}% 
-\contentsline {subsection}{\numberline {11.3.2}Secondo giorno}{101}{subsection.11.3.2}% 
-\contentsline {subsubsection}{Equilibrio plastico}{102}{section*.100}% 
-\contentsline {subsubsection}{Ecosistema orale}{102}{section*.101}% 
-\contentsline {paragraph}{Esempi}{102}{section*.102}% 
-\contentsline {subsection}{\numberline {11.3.3}Procedimento}{102}{subsection.11.3.3}% 
-\contentsline {section}{\numberline {11.4}Quarta esperienza - Conta standard su piastra}{103}{section.11.4}% 
-\contentsline {subsection}{\numberline {11.4.1}Introduzione}{103}{subsection.11.4.1}% 
-\contentsline {subsubsection}{Conta microbica indiretta}{103}{section*.103}% 
-\contentsline {subsubsection}{Conta vitale}{103}{section*.104}% 
-\contentsline {paragraph}{Processo}{103}{section*.105}% 
-\contentsline {subsection}{\numberline {11.4.2}Secondo giorno}{103}{subsection.11.4.2}% 
-\contentsline {subsubsection}{Metodi della conta batterica}{103}{section*.106}% 
-\contentsline {paragraph}{Conta diretta}{103}{section*.107}% 
-\contentsline {paragraph}{Conta indiretta}{103}{section*.108}% 
-\contentsline {paragraph}{Conta vitale}{103}{section*.109}% 
-\contentsline {subsubsection}{Colonia}{103}{section*.110}% 
-\contentsline {subsubsection}{Procedimento}{104}{section*.111}% 
-\contentsline {subsubsection}{Analisi dei risultati}{104}{section*.112}% 
-\contentsline {section}{\numberline {11.5}Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{105}{section.11.5}% 
-\contentsline {subsection}{\numberline {11.5.1}Introduzione}{105}{subsection.11.5.1}% 
-\contentsline {subsubsection}{Distinguere i batteri in base alla richiesta di ossigeno}{105}{section*.113}% 
-\contentsline {subsubsection}{Batteri modello}{105}{section*.114}% 
-\contentsline {subsubsection}{Processo}{105}{section*.115}% 
-\contentsline {subsection}{\numberline {11.5.2}Seconda giornata}{105}{subsection.11.5.2}% 
-\contentsline {subsubsection}{Creazione di condizione di anaerobiosi}{106}{section*.116}% 
-\contentsline {paragraph}{Verificare l'assenza di ossigeno}{106}{section*.117}% 
-\contentsline {subsubsection}{Procedimento}{106}{section*.118}% 
-\contentsline {section}{\numberline {11.6}Sesta esperienza - test Kirby-Bauer}{106}{section.11.6}% 
-\contentsline {subsection}{\numberline {11.6.1}Introduzione}{106}{subsection.11.6.1}% 
-\contentsline {subsubsection}{Test di Kirby-Bauer}{106}{section*.119}% 
-\contentsline {paragraph}{Procedimento}{106}{section*.120}% 
-\contentsline {paragraph}{lettura dei risultati}{107}{section*.121}% 
-\contentsline {section}{\numberline {11.7}Settima esperienza - test biochimico \emph {API 20E}}{107}{section.11.7}% 
-\contentsline {subsection}{\numberline {11.7.1}Introduzione}{107}{subsection.11.7.1}% 
-\contentsline {subsubsection}{Test \emph {API 20E}}{107}{section*.122}% 
-\contentsline {paragraph}{Processo}{107}{section*.123}% 
-\contentsline {paragraph}{Lettura dei risultati}{107}{section*.124}% 
-\contentsline {subparagraph}{Lettura dei moduli}{107}{section*.125}% 
-\contentsline {section}{\numberline {11.8}Ottava esperienza - Colorazione di Gram}{107}{section.11.8}% 
-\contentsline {subsection}{\numberline {11.8.1}Introduzione}{107}{subsection.11.8.1}% 
-\contentsline {subsubsection}{Procedimento}{107}{section*.126}% 
-\contentsline {section}{\numberline {11.9}Nona esperienza - Osservazione della motilit\`a batterica di tipo ``swimming'' al microscopio ottico}{108}{section.11.9}% 
-\contentsline {subsection}{\numberline {11.9.1}Introduzione}{108}{subsection.11.9.1}% 
-\contentsline {subsubsection}{Flagelli}{108}{section*.127}% 
-\contentsline {paragraph}{Tipi di movimento}{108}{section*.128}% 
-\contentsline {paragraph}{Distinzione in base a numero e posizione dei flagelli}{108}{section*.129}% 
-\contentsline {section}{\numberline {11.10}Decima esperienza - Trasformazione di batteri}{108}{section.11.10}% 
-\contentsline {subsection}{\numberline {11.10.1}Introduzione}{108}{subsection.11.10.1}% 
-\contentsline {subsubsection}{Plasmidi}{108}{section*.130}% 
-\contentsline {subsubsection}{Processo di trasformazione}{108}{section*.131}% 
+\contentsline {chapter}{\numberline {1}Introduzione}{7}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Albero della vita}{7}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Alcuni organismi}{7}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Batteri e archea}{8}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Virus}{8}{subsection.1.1.3}% 
+\contentsline {subsection}{\numberline {1.1.4}Caratteristiche degli esseri viventi}{8}{subsection.1.1.4}% 
+\contentsline {subsection}{\numberline {1.1.5}Caratterizzazione dei microbi}{9}{subsection.1.1.5}% 
+\contentsline {section}{\numberline {1.2}La macchina cellulare}{9}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Impatto dei microbi sulle attivit\`a umane}{9}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Ricombinazione del DNA}{9}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.3}Microrganismi come modello}{10}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Il conflitto sulla generazione spontanea}{10}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Postulati di Koch}{10}{subsection.1.3.2}% 
+\contentsline {subsubsection}{I postulati di Koch molecolari}{10}{section*.2}% 
+\contentsline {section}{\numberline {1.4}I batteri}{10}{section.1.4}% 
+\contentsline {subsection}{\numberline {1.4.1}Composizione elementare}{10}{subsection.1.4.1}% 
+\contentsline {subsection}{\numberline {1.4.2}Strutture e loro funzioni}{11}{subsection.1.4.2}% 
+\contentsline {subsubsection}{Membrana plasmatica}{11}{section*.3}% 
+\contentsline {subsubsection}{Vacuolo gassoso}{11}{section*.4}% 
+\contentsline {subsubsection}{Ribosomi}{11}{section*.5}% 
+\contentsline {subsubsection}{Corpi d'inclusione}{11}{section*.6}% 
+\contentsline {subsubsection}{Nucleoide}{11}{section*.7}% 
+\contentsline {subsubsection}{Spazio periplasmatico}{11}{section*.8}% 
+\contentsline {subsubsection}{Parete cellulare}{11}{section*.9}% 
+\contentsline {subsubsection}{Capsule e strati mucosi}{11}{section*.10}% 
+\contentsline {subsubsection}{Fimbrie e pili}{11}{section*.11}% 
+\contentsline {subsubsection}{Flagelli}{12}{section*.12}% 
+\contentsline {subsubsection}{Endospora}{12}{section*.13}% 
+\contentsline {subsection}{\numberline {1.4.3}Classificazione}{12}{subsection.1.4.3}% 
+\contentsline {chapter}{\numberline {2}La struttura della cellula}{13}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}La parete cellulare}{13}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Peptidoglicano}{13}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Gram positivi}{13}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Gram negativi}{14}{subsection.2.1.3}% 
+\contentsline {subsubsection}{Spazio periplasmatico}{14}{section*.14}% 
+\contentsline {subsubsection}{Membrana esterna}{14}{section*.15}% 
+\contentsline {paragraph}{Porine}{14}{section*.16}% 
+\contentsline {paragraph}{Lipiproteine}{15}{section*.17}% 
+\contentsline {subsection}{\numberline {2.1.4}Lisozima}{15}{subsection.2.1.4}% 
+\contentsline {section}{\numberline {2.2}La membrana citoplasmatica}{15}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}La struttura}{15}{subsection.2.2.1}% 
+\contentsline {section}{\numberline {2.3}Membrana e parete degli archaea}{16}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Flagelli}{17}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Struttura}{17}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Movimento flagellare}{17}{subsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.4.3}Sintesi flagellare}{17}{subsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.4.4}Movimento flagellare}{17}{subsection.2.4.4}% 
+\contentsline {subsection}{\numberline {2.4.5}Spirocheti}{17}{subsection.2.4.5}% 
+\contentsline {section}{\numberline {2.5}Motilit\`a batterica}{17}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Strutture esterne}{17}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Glicocalice}{17}{subsection.2.6.1}% 
+\contentsline {subsection}{\numberline {2.6.2}Fimbrie}{17}{subsection.2.6.2}% 
+\contentsline {subsection}{\numberline {2.6.3}Pili}{17}{subsection.2.6.3}% 
+\contentsline {subsection}{\numberline {2.6.4}Biofilm}{17}{subsection.2.6.4}% 
+\contentsline {subsubsection}{Quorum sensing}{17}{section*.18}% 
+\contentsline {section}{\numberline {2.7}Inclusioni cellulari}{17}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Endospore}{17}{section.2.8}% 
+\contentsline {subsection}{\numberline {2.8.1}Struttura}{17}{subsection.2.8.1}% 
+\contentsline {subsection}{\numberline {2.8.2}Formazione}{17}{subsection.2.8.2}% 
+\contentsline {section}{\numberline {2.9}Locomozione microbica}{17}{section.2.9}% 
+\contentsline {subsection}{\numberline {2.9.1}Il flagello}{18}{subsection.2.9.1}% 
+\contentsline {subsection}{\numberline {2.9.2}Il movimento flagellare}{20}{subsection.2.9.2}% 
+\contentsline {subsubsection}{Il movimento flagellare nelle diverse categorie}{20}{section*.23}% 
+\contentsline {subsection}{\numberline {2.9.3}La sintesi flagellare}{20}{subsection.2.9.3}% 
+\contentsline {subsection}{\numberline {2.9.4}I flagelli negli spirocheti}{21}{subsection.2.9.4}% 
+\contentsline {chapter}{\numberline {3}Popolazione batterica}{22}{chapter.3}% 
+\contentsline {subsection}{\numberline {3.0.1}Conta vitale}{22}{subsection.3.0.1}% 
+\contentsline {subsection}{\numberline {3.0.2}Misura della torbidit\`a}{22}{subsection.3.0.2}% 
+\contentsline {subsection}{\numberline {3.0.3}Most Probable Number}{23}{subsection.3.0.3}% 
+\contentsline {section}{\numberline {3.1}Sistemi di coltivazione microbica}{23}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Chemostato}{23}{subsection.3.1.1}% 
+\contentsline {chapter}{\numberline {4}Meccanismi di trasporto cellulare}{24}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Tipologie di trasporto}{24}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Diffusione passiva}{24}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Diffusione facilitata}{24}{subsection.4.1.2}% 
+\contentsline {subsubsection}{Osmosi}{25}{section*.27}% 
+\contentsline {subsection}{\numberline {4.1.3}Trasporto attivo}{25}{subsection.4.1.3}% 
+\contentsline {section}{\numberline {4.2}Sistemi di traslocazione nei procarioti}{26}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Via di secrezione dipendente da Sec}{27}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Sistema di secrezione di tipo II}{27}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Sistema di secrezione a 2 partner (TPS, Two Partner Secretion)}{28}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Sistema dell'autotrasporto, tipo V}{28}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}Secrezione attraverso la via "chaperon/usher"}{28}{subsection.4.2.5}% 
+\contentsline {section}{\numberline {4.3}Vie delle secrezioni indipendenti da Sec}{28}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Il sistema Tat: Twin-arginine translocation system}{28}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}I trasportatori ABC: ATP-Binding Cassette}{29}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Il sistema di secrezione di tipo III}{29}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Il sistema di secrezione di tipo IV}{29}{subsection.4.3.4}% 
+\contentsline {chapter}{\numberline {5}Metabolismo dei microrganismi}{30}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Catalisi ed enzimi}{30}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Enzimi}{31}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Parametri esterni che alterano l'azione degli enzimi}{31}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Inibitori}{32}{subsection.5.1.3}% 
+\contentsline {section}{\numberline {5.2}Redox}{32}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Trasportatori di elettroni e ciclo NAD/NADH}{32}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}ATP}{33}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Catabolismo dei carboidrati}{33}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Glicolisi}{33}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Respirazione cellulare}{34}{section.5.7}% 
+\contentsline {subsection}{\numberline {5.7.1}Sintesi acetilCoA}{34}{subsection.5.7.1}% 
+\contentsline {subsection}{\numberline {5.7.2}Ciclo di Krebs}{35}{subsection.5.7.2}% 
+\contentsline {subsection}{\numberline {5.7.3}Catena di trasporto degli elettroni}{35}{subsection.5.7.3}% 
+\contentsline {subsection}{\numberline {5.7.4}ATPsintasi}{36}{subsection.5.7.4}% 
+\contentsline {section}{\numberline {5.8}Bilancio globale}{36}{section.5.8}% 
+\contentsline {section}{\numberline {5.9}Le alternative cataboliche}{37}{section.5.9}% 
+\contentsline {section}{\numberline {5.10}La fermentazione}{37}{section.5.10}% 
+\contentsline {subsection}{\numberline {5.10.1}Fermentazione lattica}{37}{subsection.5.10.1}% 
+\contentsline {subsection}{\numberline {5.10.2}Fermentazione alcolica}{37}{subsection.5.10.2}% 
+\contentsline {subsection}{\numberline {5.10.3}Prodotti alimentari o industriali derivati da processi di fermentazione}{38}{subsection.5.10.3}% 
+\contentsline {section}{\numberline {5.11}Altre vie cataboliche}{38}{section.5.11}% 
+\contentsline {section}{\numberline {5.12}La fotosintesi}{39}{section.5.12}% 
+\contentsline {subsection}{\numberline {5.12.1}Reazioni dipendenti dalla luce}{39}{subsection.5.12.1}% 
+\contentsline {subsection}{\numberline {5.12.2}Reazioni non dipendenti dalla luce}{40}{subsection.5.12.2}% 
+\contentsline {chapter}{\numberline {6}Genetica batterica}{41}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Mutazione}{41}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Isolamento dei mutanti}{42}{section.6.2}% 
+\contentsline {subsection}{\numberline {6.2.1}Mutazioni selezionabili}{42}{subsection.6.2.1}% 
+\contentsline {subsection}{\numberline {6.2.2}Isolamento di mutanti nutrizionali per selezione indiretta}{42}{subsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6.2.3}Le basi molecolari delle mutazioni}{42}{subsection.6.2.3}% 
+\contentsline {subsection}{\numberline {6.2.4}Retromutazioni o reversioni}{43}{subsection.6.2.4}% 
+\contentsline {subsection}{\numberline {6.2.5}Frequenza di mutazione}{43}{subsection.6.2.5}% 
+\contentsline {subsection}{\numberline {6.2.6}Mutagenesi}{44}{subsection.6.2.6}% 
+\contentsline {subsubsection}{Mutageni chimici}{44}{section*.28}% 
+\contentsline {subsubsection}{Agenti fisici}{45}{section*.29}% 
+\contentsline {subsection}{\numberline {6.2.7}Saggi di laboratorio per l'identificazione del mutante}{45}{subsection.6.2.7}% 
+\contentsline {subsubsection}{Identificazioni di mutazione per seleziona positiva}{45}{section*.30}% 
+\contentsline {subsubsection}{Test di Ames}{45}{section*.31}% 
+\contentsline {section}{\numberline {6.3}Ricombinazione genetica omologa}{46}{section.6.3}% 
+\contentsline {subsubsection}{Identificazione dei ricombinati}{46}{section*.32}% 
+\contentsline {subsection}{\numberline {6.3.1}Trasformazione}{46}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}Trasduzione}{48}{subsection.6.3.2}% 
+\contentsline {subsubsection}{Ciclo litico}{49}{section*.33}% 
+\contentsline {subsubsection}{Ciclo lisogenico $\xrightarrow {}$ evento reversibile}{49}{section*.34}% 
+\contentsline {subsection}{\numberline {6.3.3}Coniugazione}{50}{subsection.6.3.3}% 
+\contentsline {subsubsection}{I plasmidi}{50}{section*.35}% 
+\contentsline {subsubsection}{Dimostrazione della coniugazione batterica}{50}{section*.36}% 
+\contentsline {subsubsection}{Esperimento del tubo a U}{50}{section*.37}% 
+\contentsline {subsubsection}{Mappa genetica del plasmide F (fertility) di \textit {E. coli}}{51}{section*.38}% 
+\contentsline {subsubsection}{Coniugazione tra una cellula F\bbl@it@ap {+} e una F\bbl@it@ap {-}}{51}{section*.39}% 
+\contentsline {subsubsection}{La formazione di ceppi Hfr e la mobilizzazione del cromosoma}{52}{section*.40}% 
+\contentsline {subsubsection}{Integrazione del plasmide F}{52}{section*.41}% 
+\contentsline {subsubsection}{Uso dei ceppi Hfr negli incroci genetici}{52}{section*.42}% 
+\contentsline {subsubsection}{Coniugazione interrotta}{53}{section*.43}% 
+\contentsline {subsubsection}{Trasferimenti di geni cromosomali al plasmide F}{53}{section*.44}% 
+\contentsline {section}{\numberline {6.4}I trasposoni e la trasposizione}{54}{section.6.4}% 
+\contentsline {subsection}{\numberline {6.4.1}Esperimento di trasposizione}{55}{subsection.6.4.1}% 
+\contentsline {subsection}{\numberline {6.4.2}Mutagenesi con elementi trasponibili}{55}{subsection.6.4.2}% 
+\contentsline {subsubsection}{Random Mutagenesis Protocol}{55}{section*.45}% 
+\contentsline {section}{\numberline {6.5}Genetica batterica e clonaggio genico}{56}{section.6.5}% 
+\contentsline {subsection}{\numberline {6.5.1}I plasmidi come vettori di clonaggio}{56}{subsection.6.5.1}% 
+\contentsline {subsubsection}{Vettori plasmidici di prima generazione}{56}{section*.46}% 
+\contentsline {subsubsection}{Vettori plasmidici di seconda generazione}{57}{section*.47}% 
+\contentsline {subsection}{\numberline {6.5.2}Il batteriofago lambda come vettore di clonaggio}{57}{subsection.6.5.2}% 
+\contentsline {subsubsection}{Fasi di cloanggio con il vettore lambda}{57}{section*.48}% 
+\contentsline {subsection}{\numberline {6.5.3}La mutagenesi sito-diretta cosente di causare mutazioni all'interno di uno specifico gene}{58}{subsection.6.5.3}% 
+\contentsline {subsection}{\numberline {6.5.4}Mutagenesi a cassetta e inattivazione genica}{58}{subsection.6.5.4}% 
+\contentsline {chapter}{\numberline {7}Genomica microbica}{59}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Sequenziamento genomico di prima generazione (1995)}{60}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}Cromosomi artificiali batterici: i BAC}{60}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}YAC: i cromosomi artificiali di lievito}{60}{subsection.7.1.2}% 
+\contentsline {section}{\numberline {7.2}Sequenziamento del DNA}{60}{section.7.2}% 
+\contentsline {subsection}{\numberline {7.2.1}Metodo Sanger}{61}{subsection.7.2.1}% 
+\contentsline {subsection}{\numberline {7.2.2}Sequenziamento shotgun}{61}{subsection.7.2.2}% 
+\contentsline {section}{\numberline {7.3}Mappe genomiche}{62}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}Categorie geniche}{63}{subsection.7.3.1}% 
+\contentsline {section}{\numberline {7.4}Genomica comparativa}{63}{section.7.4}% 
+\contentsline {chapter}{\numberline {8}Virologia}{66}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Struttura dei virus}{66}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Capside e simmetria}{66}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}Virus con capsidi a simmetria complessa}{67}{subsection.8.1.2}% 
+\contentsline {subsection}{\numberline {8.1.3}Genomi virali}{68}{subsection.8.1.3}% 
+\contentsline {section}{\numberline {8.2}Tassonomia virale}{68}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Ciclo replicativo di un virus animale}{70}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Herpes simplex, classe I}{70}{subsection.8.3.1}% 
+\contentsline {subsection}{\numberline {8.3.2}Poxvirus (vaiolo), classe I}{71}{subsection.8.3.2}% 
+\contentsline {subsection}{\numberline {8.3.3}Picornavirus (poliovirus), classe IV}{71}{subsection.8.3.3}% 
+\contentsline {subsection}{\numberline {8.3.4}Virus dell'influenza umana di tipo A, classe V}{71}{subsection.8.3.4}% 
+\contentsline {subsection}{\numberline {8.3.5}Retrovirus animale, classe VI}{72}{subsection.8.3.5}% 
+\contentsline {section}{\numberline {8.4}I Batteriofagi}{72}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Replicazione dei batteriofagi}{73}{section.8.5}% 
+\contentsline {subsection}{\numberline {8.5.1}Batteriofago T4}{73}{subsection.8.5.1}% 
+\contentsline {subsubsection}{Fase di adsorbimento}{74}{section*.49}% 
+\contentsline {subsubsection}{Fase di iniezione}{74}{section*.50}% 
+\contentsline {subsubsection}{Restrizione e modificazione del virus da parte dell'ospite}{74}{section*.51}% 
+\contentsline {subsection}{\numberline {8.5.2}Permutazione circolare}{75}{subsection.8.5.2}% 
+\contentsline {subsection}{\numberline {8.5.3}Batteriofagi temperati}{75}{subsection.8.5.3}% 
+\contentsline {subsection}{\numberline {8.5.4}Il batteriofago lambda}{75}{subsection.8.5.4}% 
+\contentsline {subsubsection}{Via litica o lisogenica: l'interruttore genetico}{76}{section*.52}% 
+\contentsline {subsubsection}{Schema riassuntivo delle fasi dell'infezione di lambda}{76}{section*.53}% 
+\contentsline {subsubsection}{Integrazione di lambda}{77}{section*.54}% 
+\contentsline {subsection}{\numberline {8.5.5}Crescita litica di lambda}{77}{subsection.8.5.5}% 
+\contentsline {section}{\numberline {8.6}Genomi dei batteriofagi}{77}{section.8.6}% 
+\contentsline {section}{\numberline {8.7}Coltivazione dei virus animali}{77}{section.8.7}% 
+\contentsline {subsubsection}{Saggio delle placche}{78}{section*.55}% 
+\contentsline {subsubsection}{Conta delle particelle virali}{78}{section*.56}% 
+\contentsline {section}{\numberline {8.8}Purificazione di virus}{78}{section.8.8}% 
+\contentsline {subsection}{\numberline {8.8.1}Centrifugazione differenziale}{78}{subsection.8.8.1}% 
+\contentsline {subsection}{\numberline {8.8.2}Centrifugazione in gradiente di densit\IeC {\`a}}{79}{subsection.8.8.2}% 
+\contentsline {subsection}{\numberline {8.8.3}Precipitazione differenziale dei virus}{79}{subsection.8.8.3}% 
+\contentsline {subsection}{\numberline {8.8.4}Denaturazione dei contaminanti}{79}{subsection.8.8.4}% 
+\contentsline {subsection}{\numberline {8.8.5}Digestione enzimatica dei costituenti delle cellule ospiti}{79}{subsection.8.8.5}% 
+\contentsline {section}{\numberline {8.9}Particelle sub-virali}{79}{section.8.9}% 
+\contentsline {subsection}{\numberline {8.9.1}Viroidi}{79}{subsection.8.9.1}% 
+\contentsline {subsection}{\numberline {8.9.2}Prioni}{80}{subsection.8.9.2}% 
+\contentsline {chapter}{\numberline {9}Regolazione metabolica}{81}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Regolazione dell'attivit\IeC {\`a} enzimatica}{81}{section.9.1}% 
+\contentsline {subsection}{\numberline {9.1.1}Inibizione da feedback}{81}{subsection.9.1.1}% 
+\contentsline {subsection}{\numberline {9.1.2}Modificazione covalente degli enzimi}{82}{subsection.9.1.2}% 
+\contentsline {subsection}{\numberline {9.1.3}Processamento delle proteine}{82}{subsection.9.1.3}% 
+\contentsline {section}{\numberline {9.2}Regolazione a livello trascrizionale}{82}{section.9.2}% 
+\contentsline {subsection}{\numberline {9.2.1}DNA binding proteins (DBP)}{82}{subsection.9.2.1}% 
+\contentsline {subsection}{\numberline {9.2.2}Il controllo negativo della trascrizione}{82}{subsection.9.2.2}% 
+\contentsline {subsection}{\numberline {9.2.3}Controllo positivo della trascrizione}{83}{subsection.9.2.3}% 
+\contentsline {subsection}{\numberline {9.2.4}Sistemi di controllo globale}{83}{subsection.9.2.4}% 
+\contentsline {subsubsection}{Effetto glucosio}{84}{section*.57}% 
+\contentsline {subsubsection}{Risposta stringente}{84}{section*.58}% 
+\contentsline {section}{\numberline {9.3}Altri sistemi di controllo globale}{85}{section.9.3}% 
+\contentsline {subsection}{\numberline {9.3.1}Fattori sigma alternativi}{85}{subsection.9.3.1}% 
+\contentsline {subsection}{\numberline {9.3.2}Risposta allo shock termico}{85}{subsection.9.3.2}% 
+\contentsline {subsection}{\numberline {9.3.3}Quorum sensing}{85}{subsection.9.3.3}% 
+\contentsline {subsection}{\numberline {9.3.4}Trasduzione di segnale e sistemi di regolazione a 2 componenti}{86}{subsection.9.3.4}% 
+\contentsline {subsubsection}{Controllo della rotazione del flagello}{86}{section*.59}% 
+\contentsline {subsubsection}{Il processo di adattamento}{87}{section*.60}% 
+\contentsline {chapter}{\numberline {10}Controllo della crescita microbica}{88}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Metodi fisici}{89}{section.10.1}% 
+\contentsline {subsection}{\numberline {10.1.1}Caldo umido}{89}{subsection.10.1.1}% 
+\contentsline {subsubsection}{Sterilizzazione mediante calore}{89}{section*.61}% 
+\contentsline {subsubsection}{Autoclave}{90}{section*.62}% 
+\contentsline {subsubsection}{Pastorizzazione}{90}{section*.63}% 
+\contentsline {subsubsection}{Altri metodi con temperatura}{91}{section*.64}% 
+\contentsline {subsection}{\numberline {10.1.2}Trattamenti fisici alternativi}{91}{subsection.10.1.2}% 
+\contentsline {subsubsection}{Sterilizzazione con radiazioni}{91}{section*.65}% 
+\contentsline {subsubsection}{Strerilizzazione per filtrazione}{92}{section*.66}% 
+\contentsline {section}{\numberline {10.2}Metodi chimici}{92}{section.10.2}% 
+\contentsline {subsection}{\numberline {10.2.1}Controllo della crescita in vivo}{92}{subsection.10.2.1}% 
+\contentsline {section}{\numberline {10.3}Misurazione dell'attivit\IeC {\`a} antimicrobica}{94}{section.10.3}% 
+\contentsline {subsection}{\numberline {10.3.1}Test di Kirby-Bauer}{94}{subsection.10.3.1}% 
+\contentsline {subsection}{\numberline {10.3.2}Test di Minimum Inhibitory Concentration (MIC)}{94}{subsection.10.3.2}% 
+\contentsline {subsection}{\numberline {10.3.3}Etest}{94}{subsection.10.3.3}% 
+\contentsline {subsection}{\numberline {10.3.4}Minimum bactericidal concentration (MBC)}{94}{subsection.10.3.4}% 
+\contentsline {section}{\numberline {10.4}Meccanismi di azione degli antibiotici}{94}{section.10.4}% 
+\contentsline {subsection}{\numberline {10.4.1}Inibizione della sintesi della parete cellulare}{95}{subsection.10.4.1}% 
+\contentsline {subsubsection}{$\beta $ lattamici}{95}{section*.67}% 
+\contentsline {subsubsection}{Glicopeptide}{95}{section*.68}% 
+\contentsline {subsubsection}{Isoniziade ed etambutolo}{96}{section*.69}% 
+\contentsline {subsection}{\numberline {10.4.2}Inibizione della sintesi proteica}{96}{subsection.10.4.2}% 
+\contentsline {subsubsection}{Aminoglicosidi}{96}{section*.70}% 
+\contentsline {subsubsection}{Tetracicline}{96}{section*.71}% 
+\contentsline {subsubsection}{Cloramfenicolo}{96}{section*.72}% 
+\contentsline {subsubsection}{Macrolidi}{96}{section*.73}% 
+\contentsline {chapter}{\numberline {11}Laboratorio}{97}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Prima esperienza - preparazione del terreno di coltura sterile}{97}{section.11.1}% 
+\contentsline {subsection}{\numberline {11.1.1}Introduzione}{97}{subsection.11.1.1}% 
+\contentsline {subsubsection}{Categorie di terreni batterici}{97}{section*.74}% 
+\contentsline {paragraph}{Determinazione in base allo stato fisico}{97}{section*.75}% 
+\contentsline {paragraph}{Determinazione in base alla quantit\`a di sostanze}{97}{section*.76}% 
+\contentsline {paragraph}{Determinazione in base alla qualit\`a delle sostanze}{97}{section*.77}% 
+\contentsline {subsection}{\numberline {11.1.2}Primo giorno}{98}{subsection.11.1.2}% 
+\contentsline {subsubsection}{Coltura liquida}{98}{section*.78}% 
+\contentsline {subsubsection}{Terreni preparati}{98}{section*.79}% 
+\contentsline {section}{\numberline {11.2}Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico (E. coli)}{98}{section.11.2}% 
+\contentsline {subsection}{\numberline {11.2.1}Introduzione}{98}{subsection.11.2.1}% 
+\contentsline {subsubsection}{Fattori che influenzano la crescita batterica}{98}{section*.80}% 
+\contentsline {subsubsection}{Quantificazione}{99}{section*.81}% 
+\contentsline {paragraph}{Fasi della crescita microbica}{99}{section*.82}% 
+\contentsline {subsection}{\numberline {11.2.2}Primo giorno}{99}{subsection.11.2.2}% 
+\contentsline {subsubsection}{Micropipetta}{99}{section*.83}% 
+\contentsline {paragraph}{Tipologie}{99}{section*.84}% 
+\contentsline {paragraph}{Utilizzo}{99}{section*.85}% 
+\contentsline {subsubsection}{Tempo di generazione}{99}{section*.86}% 
+\contentsline {subsubsection}{Procedimento}{100}{section*.87}% 
+\contentsline {subsubsection}{Analisi dei dati}{100}{section*.88}% 
+\contentsline {paragraph}{Dati raccolti}{101}{section*.89}% 
+\contentsline {section}{\numberline {11.3}Terza esperienza - Caratterizzazione dei batteri del cavo orale}{101}{section.11.3}% 
+\contentsline {subsection}{\numberline {11.3.1}Introduzione}{101}{subsection.11.3.1}% 
+\contentsline {subsubsection}{Piastra su agar-sangue}{101}{section*.90}% 
+\contentsline {paragraph}{Emolisi}{101}{section*.91}% 
+\contentsline {paragraph}{Semina sulla piastra}{101}{section*.92}% 
+\contentsline {subsubsection}{Morfologia dei batteri del cavo orale}{101}{section*.93}% 
+\contentsline {paragraph}{Aspetto}{101}{section*.94}% 
+\contentsline {paragraph}{Rilievo}{102}{section*.95}% 
+\contentsline {paragraph}{Superficie}{102}{section*.96}% 
+\contentsline {paragraph}{Margini}{102}{section*.97}% 
+\contentsline {paragraph}{Struttura}{102}{section*.98}% 
+\contentsline {paragraph}{Altri fattori}{102}{section*.99}% 
+\contentsline {subsection}{\numberline {11.3.2}Secondo giorno}{102}{subsection.11.3.2}% 
+\contentsline {subsubsection}{Equilibrio plastico}{103}{section*.100}% 
+\contentsline {subsubsection}{Ecosistema orale}{103}{section*.101}% 
+\contentsline {paragraph}{Esempi}{103}{section*.102}% 
+\contentsline {subsection}{\numberline {11.3.3}Procedimento}{103}{subsection.11.3.3}% 
+\contentsline {section}{\numberline {11.4}Quarta esperienza - Conta standard su piastra}{104}{section.11.4}% 
+\contentsline {subsection}{\numberline {11.4.1}Introduzione}{104}{subsection.11.4.1}% 
+\contentsline {subsubsection}{Conta microbica indiretta}{104}{section*.103}% 
+\contentsline {subsubsection}{Conta vitale}{104}{section*.104}% 
+\contentsline {paragraph}{Processo}{104}{section*.105}% 
+\contentsline {subsection}{\numberline {11.4.2}Secondo giorno}{104}{subsection.11.4.2}% 
+\contentsline {subsubsection}{Metodi della conta batterica}{104}{section*.106}% 
+\contentsline {paragraph}{Conta diretta}{104}{section*.107}% 
+\contentsline {paragraph}{Conta indiretta}{104}{section*.108}% 
+\contentsline {paragraph}{Conta vitale}{104}{section*.109}% 
+\contentsline {subsubsection}{Colonia}{104}{section*.110}% 
+\contentsline {subsubsection}{Procedimento}{105}{section*.111}% 
+\contentsline {subsubsection}{Analisi dei risultati}{105}{section*.112}% 
+\contentsline {section}{\numberline {11.5}Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{106}{section.11.5}% 
+\contentsline {subsection}{\numberline {11.5.1}Introduzione}{106}{subsection.11.5.1}% 
+\contentsline {subsubsection}{Distinguere i batteri in base alla richiesta di ossigeno}{106}{section*.113}% 
+\contentsline {subsubsection}{Batteri modello}{106}{section*.114}% 
+\contentsline {subsubsection}{Processo}{106}{section*.115}% 
+\contentsline {subsection}{\numberline {11.5.2}Seconda giornata}{106}{subsection.11.5.2}% 
+\contentsline {subsubsection}{Creazione di condizione di anaerobiosi}{107}{section*.116}% 
+\contentsline {paragraph}{Verificare l'assenza di ossigeno}{107}{section*.117}% 
+\contentsline {subsubsection}{Procedimento}{107}{section*.118}% 
+\contentsline {section}{\numberline {11.6}Sesta esperienza - test Kirby-Bauer}{107}{section.11.6}% 
+\contentsline {subsection}{\numberline {11.6.1}Introduzione}{107}{subsection.11.6.1}% 
+\contentsline {subsubsection}{Test di Kirby-Bauer}{107}{section*.119}% 
+\contentsline {paragraph}{Procedimento}{107}{section*.120}% 
+\contentsline {paragraph}{lettura dei risultati}{108}{section*.121}% 
+\contentsline {subsection}{\numberline {11.6.2}Secondo giorno}{108}{subsection.11.6.2}% 
+\contentsline {subsubsection}{Resistenza}{108}{section*.122}% 
+\contentsline {paragraph}{Sviluppo della resistenza}{108}{section*.123}% 
+\contentsline {paragraph}{Superbatteri}{108}{section*.124}% 
+\contentsline {paragraph}{Identificazione della resistenza}{108}{section*.125}% 
+\contentsline {subsubsection}{Procedimento}{108}{section*.126}% 
+\contentsline {subsubsection}{Breakpoint \emph {EUCAST}}{109}{section*.127}% 
+\contentsline {section}{\numberline {11.7}Settima esperienza - test biochimico \emph {API 20E}}{109}{section.11.7}% 
+\contentsline {subsection}{\numberline {11.7.1}Introduzione}{109}{subsection.11.7.1}% 
+\contentsline {subsubsection}{Test \emph {API 20E}}{109}{section*.128}% 
+\contentsline {paragraph}{Processo}{109}{section*.129}% 
+\contentsline {paragraph}{Lettura dei risultati}{109}{section*.130}% 
+\contentsline {subparagraph}{Lettura dei moduli}{109}{section*.131}% 
+\contentsline {subsection}{\numberline {11.7.2}Secondo giorno}{110}{subsection.11.7.2}% 
+\contentsline {subsubsection}{Caratteristiche individuate}{110}{section*.132}% 
+\contentsline {subsubsection}{Procedimento}{110}{section*.133}% 
+\contentsline {section}{\numberline {11.8}Ottava esperienza - Colorazione di Gram}{111}{section.11.8}% 
+\contentsline {subsection}{\numberline {11.8.1}Introduzione}{111}{subsection.11.8.1}% 
+\contentsline {subsubsection}{Procedimento}{112}{section*.134}% 
+\contentsline {subsubsection}{Identificare i Gram$\mathbf {+}$}{112}{section*.135}% 
+\contentsline {subsubsection}{Identificare i Gram$\mathbf {-}$}{112}{section*.136}% 
+\contentsline {subsection}{\numberline {11.8.2}Terzo giorno}{112}{subsection.11.8.2}% 
+\contentsline {subsubsection}{Procedimento}{112}{section*.137}% 
+\contentsline {paragraph}{Preparazione del vetrino}{112}{section*.138}% 
+\contentsline {paragraph}{Fissazione del preparato}{113}{section*.139}% 
+\contentsline {paragraph}{Colorazione del preparato}{113}{section*.140}% 
+\contentsline {section}{\numberline {11.9}Nona esperienza - Trasformazione di batteri}{113}{section.11.9}% 
+\contentsline {subsection}{\numberline {11.9.1}Introduzione}{113}{subsection.11.9.1}% 
+\contentsline {subsubsection}{Trasformazione batterica}{113}{section*.141}% 
+\contentsline {paragraph}{Trasformazione chimica}{114}{section*.142}% 
+\contentsline {paragraph}{Trasformazione elettrica}{114}{section*.143}% 
+\contentsline {subsubsection}{Plasmidi}{114}{section*.144}% 
+\contentsline {subsubsection}{Processo di trasformazione}{114}{section*.145}% 
+\contentsline {subsection}{\numberline {11.9.2}Terzo giorno}{114}{subsection.11.9.2}% 
+\contentsline {subsubsection}{Procedimento}{114}{section*.146}% 
+\contentsline {section}{\numberline {11.10}Decima esperienza - Osservazione della motilit\`a batterica di tipo ``swimming'' al microscopio ottico}{115}{section.11.10}% 
+\contentsline {subsection}{\numberline {11.10.1}Introduzione}{115}{subsection.11.10.1}% 
+\contentsline {subsubsection}{Flagelli}{115}{section*.147}% 
+\contentsline {paragraph}{Tipi di movimento}{115}{section*.148}% 
+\contentsline {paragraph}{Distinzione in base a numero e posizione dei flagelli}{115}{section*.149}% 
+\contentsline {subsection}{\numberline {11.10.2}Terza giornata}{116}{subsection.11.10.2}% 
+\contentsline {subsubsection}{Procedimento}{116}{section*.150}% 

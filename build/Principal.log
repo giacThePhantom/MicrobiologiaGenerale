@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  7 DEC 2020 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  8 DEC 2020 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1564,12 +1564,12 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
 l.66 ...line {2.5.2}Fimbrie}{19}{subsection.2.5.2}
                                                   % [1
 
-] [2] [3] [4])
+] [2] [3] [4] [5])
 \tf@toc=\write5
 \openout5 = `Principal.toc'.
 
 
-(./Chapters/01_Introduzione.tex [5] [6]
+(./Chapters/01_Introduzione.tex [6]
 Capitolo 1.
 [7
 
@@ -1585,50 +1585,55 @@ Capitolo 2.
 ] [14] [15] [16] [17] [18] [19] [20] [21])
 (./Chapters/03_PopolazioneBatterica.tex [22]
 Capitolo 3.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 14.
-
 [23
 
-]) (./Chapters/04_MeccanismiDiTrasportoCellulare.tex [24]
+] [24] [25] [26] [27]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 207.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 207.
+
+[28] [29]) (./Chapters/04_MeccanismiDiTrasportoCellulare.tex [30]
 Capitolo 4.
-[25
+[31
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
-[26] [27] [28] [29]) (./Chapters/05_MetabolismoDeiMicrorganismi.tex [30]
+[32] [33] [34] [35]) (./Chapters/05_MetabolismoDeiMicrorganismi.tex [36]
 Capitolo 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-[31
+[37
 
-] [32] [33] [34] [35] [36] [37]
+] [38] [39] [40] [41] [42] [43]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-[38] [39] [40]) (./Chapters/06_GeneticaBatterica.tex [41]
+[44] [45] [46]) (./Chapters/06_GeneticaBatterica.tex [47]
 Capitolo 6.
-[42
+[48
 
-] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
-[57] [58]) (./Chapters/07_GenomicaMicrobica.tex [59]
+] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
+[63] [64]) (./Chapters/07_GenomicaMicrobica.tex [65]
 Capitolo 7.
-[60
+[66
 
-] [61]
+] [67]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
-[62]
+[68]
 Underfull \hbox (badness 10000) in paragraph at lines 92--94
 
  []
@@ -1643,40 +1648,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
-[63]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 118--123
 
  []
 
-[64] [65]) (./Chapters/08_Virologia.tex [66]
+[70] [71]) (./Chapters/08_Virologia.tex [72]
 Capitolo 8.
-[67
+[73
 
-] [68] [69] [70] [71] [72] [73] [74]
+] [74] [75] [76] [77] [78] [79] [80]
 Underfull \hbox (badness 10000) in paragraph at lines 207--213
 
  []
 
-[75] [76] [77] [78] [79]) (./Chapters/09_RegolazioneMetabolica.tex [80]
-[81]
+[81] [82] [83] [84] [85]) (./Chapters/09_RegolazioneMetabolica.tex [86]
+[87]
 Capitolo 9.
-[82
+[88
 
-] [83] [84] [85] [86]) (./Chapters/10_ControlloDellaCrescitaMicrobica.tex
-[87] [88]
+] [89] [90] [91] [92]) (./Chapters/10_ControlloDellaCrescitaMicrobica.tex
+[93] [94]
 Capitolo 10.
-[89
+[95
 
-] [90] [91] [92] [93] [94]
+] [96] [97] [98] [99] [100]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.07225pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[95] [96]) (./Chapters/11_Laboratorio.tex [97]
+[101] [102]) (./Chapters/11_Laboratorio.tex [103]
 Capitolo 11.
-[98
+[104
 
 ]
 Overfull \vbox (7.08276pt too high) has occurred while \output is active []
@@ -1691,7 +1696,7 @@ Make it at least 22.43335pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[99]
+[105]
 Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
@@ -1701,12 +1706,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--101
 
  []
 
-[100] [101]
+[106] [107]
 Underfull \hbox (badness 10000) in paragraph at lines 214--216
 
  []
 
-[102]
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
@@ -1741,19 +1746,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 286--287
 \OT1/cmr/m/n/10 sa, mu-co-sa, fria-bi-le,
  []
 
-[103] [104] [105] [106]
+[109] [110] [111] [112]
 
 Package Fancyhdr Warning: \headheight is too small (22.43335pt): 
 Make it at least 23.10004pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[107] [108]
+[113] [114]
 Underfull \hbox (badness 6641) in paragraph at lines 504--505
 []\OT1/cmr/m/n/10 Test di de-ter-mi-na-zio-ne del-la mi-ni-ma
  []
 
-[109] [110] [111] [112] [113] [114] [115]
+[115] [116] [117] [118] [119] [120] [121]
 Underfull \hbox (badness 10000) in paragraph at lines 805--807
 
  []
@@ -1764,7 +1769,7 @@ Make it at least 25.07225pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[116]) [117]
+[122]) [123]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
  (./build/Principal.aux)
@@ -1774,11 +1779,11 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47596 strings out of 492615
- 1038010 string characters out of 6131390
- 1200242 words of memory out of 5000000
- 50005 multiletter control sequences out of 15000+600000
- 548280 words of font info for 83 fonts, out of 8000000 for 9000
+ 47671 strings out of 492615
+ 1039030 string characters out of 6131390
+ 1200251 words of memory out of 5000000
+ 50027 multiletter control sequences out of 15000+600000
+ 549260 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,14n,111p,929b,1026s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
@@ -1799,10 +1804,10 @@ fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
 000.pfb>
-Output written on ./build/Principal.pdf (118 pages, 549634 bytes).
+Output written on ./build/Principal.pdf (124 pages, 566889 bytes).
 PDF statistics:
- 2332 PDF objects out of 2487 (max. 8388607)
- 2172 compressed objects within 22 object streams
- 819 named destinations out of 1000 (max. 500000)
- 1733 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2491 PDF objects out of 2984 (max. 8388607)
+ 2323 compressed objects within 24 object streams
+ 870 named destinations out of 1000 (max. 500000)
+ 1885 words of extra memory for PDF output out of 10000 (max. 10000000)
 

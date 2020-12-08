@@ -1,39 +1,306 @@
 \chapter{Popolazione batterica}
-Il grafico a slide 29 mostra le scale logaritmiche (andamento in moltiplicazioni di $10$) e aritmetiche per mostrare l'andamento della popolazione batterica. Il tempo di generazione 
-pu\`o essere calcolato come:
-\begin{itemize}
-	\item N il numero finale di cellule.
-	\item $N_0$ il numero iniziale di cellule.
-	\item $n$ il numero di generazioni.
-	\item $N=N_02^n$.
-	\item $n=\frac{\log N - \log N_0}{\log 2}$.
-\end{itemize}
-La popolazione ha un andamento in quattro fasi: latenza (assenza di crescita significativa, le cellule costituiscono tutte le operazioni necessarie alla crecita), esponenziale (crescita 
-massima), stazionaria (la popolazione si stabilizza per mancanza di spazio e nutrienti, il numero di cellule che si dividono \`e uguale a quello di quelle che muoiono), morte (
-esponenziale ma pi\`u lenta della fase di crescita, causata da assenza di nutrienti e l'accumulo di materiale di scarto tossico). 
-\subsection{Conta vitale}
-Piastre con lo spread-plate method con terreno solido con un volume di coltura ($100 \mu l$), dopo una notte si osserva il numero di colonie. Nel pour-plate method si aggiunge il terreno
-successivamente alla colonia. Per determinare quante colonie sono presenti si fa una diluizione seriale: si prende un $ml$ di coltura e lo si aggiunge a $9ml$ di terreno, ripetendo 
-l'operazione fino a che si riesce a stimare la popolazione microbica (tra le $30$ e le $300$ colonie per avere una conta affidabile). Alla conta si moltiplica per l'inverso della 
-diluizione. \`E importante ovviamente segnare i tempi in quanto la popolazione varia nel tempo. Misura solo le cellule vive.
-\subsection{Misura della torbidit\`a}
-Avviene attraverso uno spettrofotometro: una fonte di luce \`e presente e attraversa un campione in una cuvetta con del terreno di coltura. Una fotocellula misura la quanit\`a di luce
-che \`e riuscita ad attraversare la cuvetta. La misura calcolata \`e la densita ottica (OD) il logaritmo della luce incidente diviso il valore della luce non deviata. Valore compreso 
-tra $0$ e $1$. Pu\`o generare una sovrastima in quanto non distingue tra cellule vive e cellule morte. A differenza della conta vitale in caso di alti valori di OD la misura tende a 
-perdere di precisione in quanto i raggi di luce in alte concentrazioni possono rimbalzare pi\`u volte e colpire lo stesso il sensore. Quando si raggiunge un OD di 0.6 0.7 si diluisce
-la coltura. 
-Quando si lavora con campioni ambientali bisogna concentrare il campione, pertanto si filtra a vuoto con filtro di membrana che trattiene le cellule batteriche in quanto pi\`u grandi
-dei pori e le rende osservabili e vengono messe su un terreno di coltura. 
-\subsection{Most Probable Number}
-Utilizzata per stimare la popolazione microbica all'interno di un campione. Un metodo statistico basato sul fatto che maggiore la concentrazione della popolazione, maggiori le diluizioni
-necessarie per portare questo numero a $0$. Prendo un campione, lo diluisco serialmente e partendo da ciascuna diluizioni si incuba in 5 tubi un millilitro con un indicatore di pH che
-ritorna giallo quando il pH si abbassa, indicazione di un metabolismo attivo e di presenza microbica. Si contano quanti tubi hanno cambiato colore. Nel campione pi\`u concentrato ci sono
-pi\`u campioni positivi. E si ottiene un codice, il numero di tubi positivi per ciascuna diluizione. Che pu\`o essere letto attraverso una tabella di riferimento. 
+
+\section{Crescita batterica}
+Per crescita batterica si intende il processo di duplicazione e moltiplicazione del numero di batteri.
+Questo processo \`e detto scissione binaria: da una cellula madre vengono generate due cellule figlie identiche.
+Il processo \`e di tipo mitotico e non si trova variabilit\`a genetia.
+
+	\subsection{Processo di scissione binaria}
+	La scissione binaria inizia con la duplicazione del DNA che viene segregato in due cromosomi attaccati alla membrana.
+	Il DNA rimane comunque diffuso nella cellula.
+	Successivamente la cellula si allunga fino al doppio della sua lunghezza media e si replicano tutte le macromolecole contenute in essa.
+	Avviene la formazione di un setto che consente la separazione dei due batteri.
+	I due cromosomi rimangono attaccati alla membrana.
+
+	\subsection{Divisoma}
+	Nella formazione dell'apparato di divisione \emph{divisoma} sono coinvolte molte proteine dette \emph{Fts} (filamentose sensibili alla temperatura).
+	\begin{multicols}{2}
+		\begin{itemize}
+			\item \emph{FtsZ}: forma l'anello del divisoma.
+				Formano un polimero di \num{10000} monomeri.
+				Il processo di aggregazione e depolimerizzazione richiede idrolisi di \emph{GTP}.
+			\item \emph{ZipA}: ancora l'anello di \emph{FtsZ} alla membrana interna.
+			\item \emph{FtsA}: un'\emph{ATPasi} sulla membrana citoplasmatica, fornisce l'energia per l'assemblaggio delle proteine del divisoma.
+			\item \emph{Fts1}: collega la membrana interna al peptidoglicano e media la sua biosintesi.
+			\item \emph{FtsK}: separa le due cellule figlie.
+		\end{itemize}
+	\end{multicols}
+
+	\subsection{Sintesi della parete cellulare}
+	Prima della divisione cellulare \`e necessaria la sintesi di nuovo materiale parietale.
+	Questo deve essere aggiunti senza che vi sia perdita dell'integrit\`a cellulare e delle molecole interna.
+	\emph{Wall band} dividono la membrana vecchia da quella nuova e la sintesi del peptidoglicano avviene da parte di autolisine, che causano piccole rotture nella parete cellulare del batterio, spezzando parzialmente il peptidoglicano a partire dall'anello \emph{FtsZ}.
+	Il materiale viene aggiunto attraverso queste fessure a cui viene trasportato dal bactoprenolo, una molecola lipidica con funzioni di trasporto.
+	Il bactoprenolo trasporta \emph{NAM, NAG} e un pentapeptide.
+	Attraverso flippingi precursori attraversano la membrana e nel periplasma interagisce con enzimi che inseriscono i precursori attraverso transpeptidazione.
+
+		\subsubsection{Transpeptidazione}
+		La transpeptidazione forma legami crociati tra residui amminoacilici di \emph{NAM}.
+		Nei Gram$-$ avviene tra \emph{DAP} (acido diaminopimelico) e due residui di \emph{D-alanina},  uno dei quali viene eliminato per fornire energia.
+		Nei Gram$+$ i legami crociati avvengono attraverso ponti pentaglicinic tra una \emph{L-lisina} e una \emph{D-alanina}.
+
+\section{Crescita di una popolazione batterica}
+La crescita di una popolazione batterica avviene con andamento esponenziale di fattore $2$.
+
+	\subsection{Tempo di generazione}
+	Si intende per tempo di generazione il tempo necessario per la duplicazione di una popolazione batterica.
+	Il tempo medio di generazione per batteri in condizioni ottimali \`e di $30$ minuti.
+
+		\subsubsection{Rappresentazione}
+		La crescita viene normalmente rappresentata in scala semilogaritmica, con il tempo rappresentato linearmente e il numero di batteri logaritmicamente.
+
+		\subsubsection{Calcolo dei dati}
+		Si consideri:
+		\begin{multicols}{3}
+			\begin{itemize}
+				\item $N$ il numero finale di cellule.
+				\item $N_0$ il numero iniziale.
+				\item $n$ il numero di generazioni.
+			\end{itemize}
+		\end{multicols}
+		Allora:
+		\[N=N_02^n\]
+		\[n=\dfrac{\log N - \log N_0}{\log 2}\]
+	
+	\subsection{Fasi di crescita}
+	Una coltura batterica presenta quattro fasi durante la sua crescita.
+
+		\subsubsection{Fase di latenza}
+		Nella fase di latenza o lag la cellula in condizione adatta non si divide per un certo periodo.
+		Questo avviene in quanto si adatta all'ambiente, duplica le macromolecole.
+		Non \`e presentata da cellule prelevate da una fase esponenziale.
+		La si trova in cellule prelevate da una fase stazionaria, trasferite in un terreno pi\`u povero o batteri che hanno subito danni.
+
+		\subsubsection{Fase esponenziale}
+		Nella fase esponenziale avviene un aumento esponenziale dei batteri.
+		Durante questa fase si trovano nel migliore stato di salute e pertanto gli esperimenti su di essi vengono svolti in questa fase.
+
+		\subsubsection{Fase stazionaria}
+		Durante la fase stazionaria non ci sono cambiamenti significativi nel numero di batteri.
+		Inizia a causa di mancanza di nutrienti nel terreno e dell'accumulo dei prodotti di scarto.
+		La scissione binaria \`e lenta e con velocit\`a comparabile alla morte delle cellule.
+		I due processi si trovano pertanto in equilibrio dinamico.
+
+		\subsubsection{Fase di morte}
+		Durante la fase di morte avviene una diminuzione esponenziale del numero della popolazione con velocit\`a minore rispetto alla fase esponenziale.
+		Si verifica a causa della mancanza di nutrienti o dell'accumulo di sostanze tossiche.
+
+\section{Metodi di conta delle colonie batteriche}
+	
+	\subsection{Conta totale}
+	Per effettuare una conta totale si prende un campione di coltura e lo si pone su un vetrino conta cellule con vari compartimenti a quadrato.
+	Questo viene osservato al microscopio e si conta il numero di cellule in questi quadrati.
+	Si convertono le misure in densit\`a.
+		
+		\subsubsection{Limiti}
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Non si distinguono cellule vive e morte.
+				\item Non possono essere osservati piccoli organismi.
+				\item Non \`e accurato per ambienti in cui i batteri sono presenti in bassa densit\`a.
+				\item Difficile ottenere stime precise.
+				\item Si devono immobilizzare le cellule prima della conta.
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{Conta vitale}
+	La conta vitale consiste nel determinare il numero di cellule in grado di formare una colonia o \emph{CFU}.
+	Per farlo si piastra in superficie o per inclusione un volume nodo di coltura cellulare e lo si fa incubare.
+	Successivamente si contano le colonie formate.
+
+		\subsubsection{Diluizioni}
+		Spesso vengono fatti diluizioni per riuscire a contare con maggiore precisione il numero di colonie formate: per una conta accurata si considera un massimo di $300$ colonie per campione.
+		Naturalmente per avere la densit\`a iniziale si deve tenere conto delle diluizioni.
+
+		\subsubsection{Cause di errori}
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Periodo di incubazione sbagliato.
+				\item Presenza di colonie vicine e indistinguibili.
+				\item Colonie piccole e poco visibili.
+				\item Pipettamento non accurato.
+				\item Terreno di coltura non adatto.
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{Filtrazione su membrana}
+	Questa misura d\`a una stima di batteri presenti in ambienti dove la loro concentrazione \`e molto bassa.
+	Si filtra il liquido attraverso una membrana che cattura i batteri.
+	Dopo il filtraggio si incuba e contano le colonie che si formano.
+	Si deve tern conto della quantit\`a di liquido diluito.
+
+	\subsection{Most Probable Number}
+	Il most probable number \emph{MPN} \`e un metodo statistico utilizzzato per stimare cellule poco concentrate e difficili da far crescere in laboratorio.
+	Essendo che maggiore il numero batteri maggiore il numero di diluizioni necessarie per ridurre il loro numero a zero si pongono in delle provette diluizioni seriali della coltura.
+	Si fa incubare e si inserisce in ogni provetta un indicatore di $pH$: il $pH$ acido \`e indicatore di metabolismo attivo e presenza microbica.
+	I tubi positivi ordinati per grado di diluizione creano un codice che letto su una tabella di riferimento ritorna la densit\`a batterica.
+
+	\subsection{Misura della torbidit\`a}
+	La misura della torbidit\`a avviene attraverso uno spettrofotometro: una fonte di luce attraversa un campione in una cuvetta con del terreno di coltura.
+	Una fotocellula misura la quantit\`a di luce che \`e riuscita ad attraversarlo. 
+	La misura calcolata \`e la densita ottica (OD) il logaritmo della luce incidente diviso il valore della luce non deviata. 
+	$OD$ \`e un valore compreso tra $0$ e $1$, dove $0$ indica assenza di cellule mentre $1$ il massimo rilevabile.
+	Pu\`o generare una sovrastima a basse concentrazioni in quanto non distingue tra cellule vive e cellule morte.
+	In caso di alti valori di $OD$ la misura tende a perdere di precisione in quanto i raggi di luce in alte concentrazioni possono rimbalzare pi\`u volte su cellule diverse e colpire lo stesso il sensore. 
+	Quando si raggiunge un OD di $0.6$-$0.7$ si diluisce la coltura. 
+	Si dovr\`a tenere conto della diluizione moltiplicando il suo inverso al valore di $OD$.
+
 \section{Sistemi di coltivazione microbica}
-\subsection{Chemostato}
-Utilizzati per volumi molto grandi (si dice in batch per una coltura in un sistema chiuso e rapidamente si arriva a saturazione), questo \`e un sistema che consente di mantenere la 
-coltura in crescita esponenziale per tempi indefiniti. C'\`e la necessit\`a di un rubinetto che regola la sterilit\`a e un altro che elimina l'overflow. C'\`e sempre terreno fresco che
-entra e esausto che esce insieme alle cellule. All'equilibrio il volume del chemostato, il numero di densit\`a e la concentrazione dei nutrienti rimangono costanti. La velocit\`a di 
-crescita \`e pertanto determinata dalla velocit\` a di flusso, ovvero la concentrazione del nutriente limitante. 
-INSERIRE GRAFO BATCH
-INSERIRE GRAFO CHEMOSTATO
+
+	\subsection{Spread-plate method}
+	Nel piastramento in superficie si aggiunge un volume noto di una coltura su un terreno preparato, si mescola e incuba.
+
+	\subsection{Pour-plate method}
+	Nel piastramento per inclusione viene prima aggiunta la colonia e poi l'agar e si mescola dolcemente.
+	\`E possibile utilizzare un volume maggiore di batteri e si formano pi\`u colonie anche all'interno dell'agar.
+
+	\subsection{Chemostato}
+	Il chemostato \`e un sistema aperto utilizzato per volumi molto grandi (si dice in batch per una coltura in un sistema chiuso e rapidamente si arriva a saturazione).
+	Consente di mantenere la coltura in crescita esponenziale per tempi indefiniti. 
+	Un rubinetto regola la sterilit\`a e un altro elimina l'overflow. 
+	Viene pertanto continuamente introdotto terreno fresco e espulso terreno esausto insieme alle cellule. 
+	All'equilibrio il volume del chemostato, il numero di densit\`a e la concentrazione dei nutrienti rimangono costanti.
+	Questo viene detto steady state.
+	La velocit\`a di crescita \`e pertanto determinata dalla velocit\` a di flusso e dalla concentrazione del nutriente limitante. 
+	La velocit\`a di flusso deve essere abbastanza lenta da non dilavare la coltura ma abbastanza veloce da non impedire al nutriente limitante di sostenere i bisogni metabolici della popolazione.
+
+\section{Effetti ambientali sulla crescita microbica}
+
+	\subsection{Temperatura}
+	La temperatura \`e il fattore che influenza maggiormente la crescita di un microorganismo.
+	Per ciascuno di essi esiste una temperatura ottimale alla quale cresce.
+	I grafici che mettono in relazione crescita batterica con temperatura presentano spesso lo stesso andamento, cambiando solo il range di temperatura relativo.
+	La temperatura ottimale \`e sempre pi\`u vicina al massimo.
+
+		\subsubsection{Motivazioni}
+			
+			\paragraph{Minimo}
+			Al minimo avviene una gelificazione della membrana: i processi di trasporto sono cos\`i lenti che non pu\`o avvenire crescita e non si forma un gradiente protonico.
+
+			\paragraph{Tra minimo e ottimo}
+			Con l'aumento della temperatura le reazioni enzimatiche avvengono a tassi sempre pi\`u veloci.
+
+			\paragraph{Ottimo}
+			Le reazioni enzimatiche avvengo al tasso maggiore possibile.
+
+			\paragraph{Massimo}
+			Al massimo avviene la denaturazione delle proteine, collassa la membrana citoplasmatica e la lisi termica.
+
+		\subsubsection{Classificazione degli organismi}
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Psicrofili: temperatura ottimale $\le 15\si{\degree}$.
+					Enzimi con maggiore quantit\`a di $\alpha$-eliche e maggiori amminoacidi polari.
+					Meno legami deboli e meno interazioni tra domini proteici.
+					Acidi grassi insaturi nella frazione lipidica della membrana la rende pi\`u fluida.
+					Glicerolo o dimetillsolfossido \emph{DMSO} proteggono le cellule dalla formazione di cristalli di ghiaccio.
+				\item Mesofili: vivono a temperature intermedie.
+				\item Termofili: temperatura ottimale $\ge 45\si{\degree}\ \le 80\si{\degree}$.
+					La stabilit\`a al calore \`e dovuta alla sostituzione di amminoacidi critici che determinano una struttura quaternaria pi\`u resistente.
+					Contengono pi\`u amminoacidi polari e pi\`u legami ionici.
+				\item Ipertermofili: si trovano solo negli archea e hanno una temperatura ottimale $\ge 80\si{\degree}$/
+					Non contengono acidi grassi nelle membrane ma idrocarburi \emph{$C_40$}.
+					Le membrane sono fatte da un unico monostrato lipidico. 
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{$\mathbf{pH}$}
+	Il $pH$ o concentrazione di \emph{$H_3O^+$} influisce sulla crescita degli organismi.
+	La maggior parte cresce in un $pH$ compreso tra $6$ e $8$, ma esistono estremofili.
+	La maggior parte dei microorganismi vive in un intervallo di $2$-$3$ unit\`a.
+
+		\subsubsection{Acidofili}
+		Gli acidofili possono sopportare concentrazioni di \emph{$H^+$} molto elevate.
+		I funghi sono pi\`u acido-tolleranti dei batteri.
+		Le memgrane cellulari si lisano a $pH$ vicini alla neutralit\`a.
+		Ricevono energia attraverso forza proton motrice derivata da pompe \emph{$H^+$}.
+
+		\subsubsection{Alcalofili}
+		Gli alcalofili sopportano concentrazioni di \emph{$H^+$} molto basse come nei laghi alcalini e sono per lo pi\`u archea.
+		Si dividono in due classi rispetto al $pH$ interno che pu\`o essere mantenuto vicino alla neutralit\`a o no.
+		Nel primo caso si crea un forte gradiente di ioni.
+		Ricevono energia attraverso forza proton motrice derivata da pompe \emph{$Na^+$}.
+
+	\subsection{Concentrazione \emph{NaCl}}
+	Nella maggior parte dei microorganismi il citoplasma ha una concentrazione di soluti pi\`u elevata dell'ambiente esterno in modo che l'acqua tenda a penetrare all'interno della cellula.
+
+		\subsubsection{Non alofili}
+		Gli organismi non alofili non sopportano valori anche bassi di \emph{NaCl}.
+		
+		\subsubsection{Alotolleranti}
+		Gli organismi alotolleranti crescono a valori medi di \emph{NaCl} ($1$-$15\%$).
+
+		\subsubsection{Alofili}
+		Gli organismi alofili crescono a concentrazioni medio-alte di \emph{NaCl}.
+
+		\subsubsection{Alofili estremi}
+		Gli organismi alofili estremi non possono crescere se nell'ambiente non \`e presente una certa concentrazione di \emph{NaCl} ($15$-$30\%$).
+
+	\subsection{Attivit\`a dell'acqua}
+	Si intende per attivit\`a dell'acqua $a_w$ la quantit\`a di acqua disponibile per l'organismo.
+	Ovvero un indice relativo alla quantit\`a d'acqua che in un determinato prodotto \`e libera da legami con altri componenti
+	\[a_w=\dfrac{P}{P_0}\]
+	Dove:
+	\begin{multicols}{2}
+		\begin{itemize}
+			\item $P$ \`e la pressione di vapore del prodotto.
+			\item $P_0$ \`e la pressione di vapore dell'acqua pura per una stessa temperatura.
+		\end{itemize}
+	\end{multicols}
+	Non sono noti organismi in grado di crescere dove l'attivit\`a dell'acqua \`e $\le 0.55$.
+		
+		\subsubsection{Osmoregolazione}
+		In condizioni di bassa attivit\`a dell'acqua la pu\`o ottenere solo aumentando la concentrazione dei soluti al suo interno attraverso osmoregolazione.
+		Questo viene ottenuto trasferendo ioni inorganici all'interno o sintetizzando un soluto organico.
+		I pi\`u utilizzati o soluti compatibili sono amminoacidi, zuccheri o alcol.
+		Una cellula che cresce in ambiente disidratato fa entrare e produce soluti in modo che l'acqua entri in essa per osmosi.
+
+	\subsection{Ossigeno}
+
+		\subsubsection{Classificazione}
+		Gli organismi possono essere divisi in base alla loro risposta in presenza di ossigeno.
+		\begin{center}
+			\begin{tabular}{|c|c|c|c|}
+				\hline
+				\multicolumn{2}{|c|}{Gruppo} & Relazione con \emph{$O_2$} & Tipo di metabolismo\\
+				\hline
+				\multirow{3}{*}{Aerobi} & Obbligati & Richiesto & Respirazione aerobica\\
+				\cline{2-4}
+							& Facoltativi & \makecell{Non richiesto\\ma preferito} & \makecell{Respirazione aerobica\\anaerobica\\fermentazione}\\
+				\cline{2-4}
+							& Microaerofili & \makecell{Richiesto\\ma a livelli inferiori\\rispetto a quelli \\atmosferici} & Respirazione aerobica\\
+				\hline
+				\multirow{2}{*}{Anaerobi} & Aerotolleranti & \makecell{Non richiesto\\non preferito} & Fermentazione\\
+				\cline{2-4}
+							  & Obbligati & \makecell{Non tollerata\\o letale} & \makecell{Respirazione anaerobica\\fermentazione}\\
+				\hline
+			\end{tabular}
+		\end{center}
+
+		\subsubsection{Determinazione dello stato di areobiosi}
+		Per determinare se un organismo \`e aerobio o anaerobio si pongono tubi di coltura con indicatore redox di colore rosa quando ossidato e incolore quando ridotto.
+		L'aria entra nel tubo e arriva fino al terreno e se ne trova sempre meno aumentando la profondit\`a.
+		La posizione di crescita lungo il tubo determina lo stato di aerobiosi.
+
+		\subsubsection{Forme tossiche dell'ossigeno}
+		Esistono delle forme tossiche dell'ossigeno come superosside o perosside di idrogeno.
+		Questi sono detti radicali liberi e si formano durante la reazione di creazione dell'acqua.
+		\begin{align*}
+			O_2 + e^- &\rightarrow O_2^- &\text{Superosside}\\
+			O_2^- + e^- + 2H^+ &\rightarrow H_2O_2 &\text{Perosside di idrogeno}\\
+			H_2O_2 + e^- + H^+ &\rightarrow H_20 + OH\mathbf{\cdot} &\text{Radicale idrossile}\\
+			OH\mathbf{\cdot} + e^- + H^+ &\rightarrow H_2O &\text{Acqua}
+		\end{align*}
+
+		I batteri che riescono a vivere in aerobiosi possiedono enzimi che distruggono i composti tossici dell'ossigeno:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Catalasi.
+				\item Perossidasi.
+				\item Superosside dismutasi.
+				\item Superosside riduttasi.
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{Pressione}
+	I barofili sono batteri in grado di resistere a forti pressioni atmosferiche.

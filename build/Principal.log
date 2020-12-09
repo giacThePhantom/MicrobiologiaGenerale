@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  8 DEC 2020 15:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  9 DEC 2020 18:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1600,40 +1600,40 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Capitolo 4.
 [31
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
-
+] [32] [33] [34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[]\OT1/cmr/m/n/10 Viene ri-co-no-sciu-ta la se-quen-za
  []
 
-[32] [33] [34] [35]) (./Chapters/05_MetabolismoDeiMicrorganismi.tex [36]
+[36]) (./Chapters/05_MetabolismoDeiMicrorganismi.tex [37]
 Capitolo 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-[37
+[38
 
-] [38] [39] [40] [41] [42] [43]
+] [39] [40] [41] [42] [43] [44]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
-[44] [45] [46]) (./Chapters/06_GeneticaBatterica.tex [47]
+[45] [46] [47]) (./Chapters/06_GeneticaBatterica.tex [48]
 Capitolo 6.
-[48
+[49
 
-] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
-[63] [64]) (./Chapters/07_GenomicaMicrobica.tex [65]
+] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
+[64] [65]) (./Chapters/07_GenomicaMicrobica.tex [66]
 Capitolo 7.
-[66
+[67
 
-] [67]
+] [68]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
-[68]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 92--94
 
  []
@@ -1648,40 +1648,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
-[69]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 118--123
 
  []
 
-[70] [71]) (./Chapters/08_Virologia.tex [72]
+[71] [72]) (./Chapters/08_Virologia.tex [73]
 Capitolo 8.
-[73
+[74
 
-] [74] [75] [76] [77] [78] [79] [80]
+] [75] [76] [77] [78] [79] [80] [81]
 Underfull \hbox (badness 10000) in paragraph at lines 207--213
 
  []
 
-[81] [82] [83] [84] [85]) (./Chapters/09_RegolazioneMetabolica.tex [86]
-[87]
+[82] [83] [84] [85] [86]) (./Chapters/09_RegolazioneMetabolica.tex [87]
+[88]
 Capitolo 9.
-[88
+[89
 
-] [89] [90] [91] [92]) (./Chapters/10_ControlloDellaCrescitaMicrobica.tex
-[93] [94]
+] [90] [91] [92] [93]) (./Chapters/10_ControlloDellaCrescitaMicrobica.tex
+[94] [95]
 Capitolo 10.
-[95
+[96
 
-] [96] [97] [98] [99] [100]
+] [97] [98] [99] [100] [101]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.07225pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[101] [102]) (./Chapters/11_Laboratorio.tex [103]
+[102] [103]) (./Chapters/11_Laboratorio.tex [104]
 Capitolo 11.
-[104
+[105
 
 ]
 Overfull \vbox (7.08276pt too high) has occurred while \output is active []
@@ -1696,7 +1696,7 @@ Make it at least 22.43335pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[105]
+[106]
 Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
@@ -1706,12 +1706,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--101
 
  []
 
-[106] [107]
+[107] [108]
 Underfull \hbox (badness 10000) in paragraph at lines 214--216
 
  []
 
-[108]
+[109]
 Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
@@ -1746,19 +1746,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 286--287
 \OT1/cmr/m/n/10 sa, mu-co-sa, fria-bi-le,
  []
 
-[109] [110] [111] [112]
+[110] [111] [112] [113]
 
 Package Fancyhdr Warning: \headheight is too small (22.43335pt): 
 Make it at least 23.10004pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[113] [114]
+[114] [115]
 Underfull \hbox (badness 6641) in paragraph at lines 504--505
 []\OT1/cmr/m/n/10 Test di de-ter-mi-na-zio-ne del-la mi-ni-ma
  []
 
-[115] [116] [117] [118] [119] [120] [121]
+[116] [117] [118] [119] [120] [121] [122]
 Underfull \hbox (badness 10000) in paragraph at lines 805--807
 
  []
@@ -1769,7 +1769,7 @@ Make it at least 25.07225pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[122]) [123]
+[123]) [124]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
  (./build/Principal.aux)
@@ -1779,10 +1779,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47671 strings out of 492615
- 1039030 string characters out of 6131390
- 1200251 words of memory out of 5000000
- 50027 multiletter control sequences out of 15000+600000
+ 47691 strings out of 492615
+ 1039220 string characters out of 6131390
+ 1200248 words of memory out of 5000000
+ 50019 multiletter control sequences out of 15000+600000
  549260 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,14n,111p,929b,1026s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1804,10 +1804,10 @@ fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
 000.pfb>
-Output written on ./build/Principal.pdf (124 pages, 566889 bytes).
+Output written on ./build/Principal.pdf (125 pages, 572877 bytes).
 PDF statistics:
- 2491 PDF objects out of 2984 (max. 8388607)
- 2323 compressed objects within 24 object streams
- 870 named destinations out of 1000 (max. 500000)
- 1885 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2495 PDF objects out of 2984 (max. 8388607)
+ 2326 compressed objects within 24 object streams
+ 898 named destinations out of 1000 (max. 500000)
+ 1821 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,431 +1,799 @@
 \chapter{Genetica batterica}
+	
+\section{Introduzione}
 La genetica batterica tratta: 
-\begin{itemize}
-    \item Mutazioni; 
-    \item Ricombinazione genetica; 
-    \item Scambio di materiale genetico; 
-    \item Clonaggio genico.
-\end{itemize}
-Dogrma centrale della biologia:
-\begin{center}
-    DNA $\xrightarrow{}$ RNA $\xrightarrow{}$ proteine 
-\end{center}
-Il dogma centrale della biologia enuncia che: il DNA esprime le informazione racchiuse nei geni attraverso la trascrizione in mRNA. A sua volta questo è composto da codoni. Quest'ultimi sono delle triplette di nucleotidi che codificheranno poi le proteine che veranno sintetizzate nel processo di traduzione.
-\\Nei procarioti la trascrizione e la traduzioe sono meccanismi relativamente semplici visto che non sono compartimentati e avvengono quasi simultaneamente, mentre negli eucarioti il processo è più complesso. Per prima cosa nei geni degli eucarioti sono presenti delle zone non codificanti, introni, che devono venire eliminate tramite lo splicing. Questo avviene nel nucleo. Così facendo e grazie ad altre modifiche, viene prodotto un mRNA maturo che è in grado di spostarsi nel citoplasma per andare incontro a traduzione. Trascrizione e traduzione presentano delle differenze spaziali e temporali. 
-\section{Mutazione}
-La mutazione è un cambiamento ereditabile nella sequenza delle basi nucleotidiche del genoma. Un ceppo che porta un cambiamento viene detto mutante, mentre quello non mutato viene detto selvatico o wild type. 
-\\Le proprietà osservabili del mutante rappresentano il suo fenotipo. Viene indiato da tre lettere con un apice  più o meno, che indica la presenza o meno di una certa proprietà. Per esempio \textbf{HisC\ap{-}} non è in grado di produrre istidina.
-\\Il genotipo viene indicato con tre lettere minuscole seguite da una lettera maiuscola, tutte in corsivo. Per esempio il gene \textit{hisC} di \textit{E. coli} codifica una proteina denominata \textbf{HisC}, coinvolta nella sintesi dell'aminoacido istidina. Le mutazioni del gene \textit{hisC} sono indicate come \textit{hisC1}, \textit{hisC2} e via dicendo. 
+\begin{multicols}{2}
+	\begin{itemize}
+	    \item Mutazioni; 
+	    \item Ricombinazione genetica; 
+	    \item Scambio di materiale genetico; 
+	    \item Clonaggio genico.
+	\end{itemize}
+\end{multicols}
+
+	\subsection{Dogma centrale della biologia}
+	\begin{center}
+		\emph{DNA} $\rightarrow$ \emph{RNA} $\rightarrow$ \emph{proteine}
+	\end{center}
+	Il dogma centrale della biologia enuncia che: il DNA esprime le informazione racchiuse nei geni attraverso la trascrizione in mRNA. 
+	Il mRNA \`e composto da codoni, triplette di nucleotidi che codificano le proteine sintetizzate durante la traduzione.
+	Nei procarioti traduzione e trascrizione sono meccanismi semplici non compartimentati che avvengono quasi simultaneamente.
+	Negli eucarioti il processo \`e complesso: nei geni sono presenti zone non codificanti, gli introni che devono venire eliminate tramite splicing.
+	Questa e altre modifiche nucleari producono un mRNA maturo in grado di spostarsi nel citoplasma per essere tradotto.
+	Negli eucarioti pertanto i processi sono compartimentati e separati temporalmente.
+	Inoltre<F3> gli mRNa dei procarioti sono policistronici: portano l'informazione per pi\`u geni.
+
+\section{Mutazioni}
+La mutazione è un cambiamento ereditabile nella sequenza delle basi nucleotidiche del genoma. 
+Un ceppo che porta un cambiamento viene detto mutante, mentre quello non mutato viene detto selvatico o wild type. 
+
+	\subsection{Fenotipo}
+	Le proprietà osservabili del mutante rappresentano il suo fenotipo. 
+	Viene indicato da tre lettere con un apice  più o meno, che indica la presenza o meno di una certa proprietà. 
+	Per esempio \emph{$HisC^{-}$} indica un ceppo che non è in grado di produrre istidina.
+
+	\subsection{Genotipo}
+	Il genotipo viene indicato con tre lettere minuscole seguite da una lettera maiuscola, tutte in corsivo. 
+	Per esempio il gene \emph{hisC} di \textit{E. coli} codifica una proteina denominata \emph{HisC}, coinvolta nella sintesi dell'aminoacido istidina. 
+	Le mutazioni del gene \emph{hisC} sono indicate come \emph{hisC1}, \emph{hisC2} e via dicendo. 
+
+	\subsection{Le basi molecolari delle mutazioni}
+		
+		\subsubsection{Codice genetico degenerato}
+		Si nota come ci sono pi\`u codoni ($64$) rispetto ad amminoacidi ($20$) da sintetizzare.
+		Questo permette alla cellula un sistema di sicurezza contro le mutazioni, permettendo quelle silenti.
+		Tipicamente \`e la terza base del codone la pi\`u flessibile: codoni codificanti per un particolare amminoacido presentano le prime due conservate e la terza variabile.
+		si notano in particolare i codoni $UAA$, $UAG$ e $UGA$ di stop e $AUG$ di inizio.
+		Si noti inoltre come non tutti gli amminoacidi sono critici per il funzionamento di una proteina, pertanto non tutte le mutazioni causano gravi danni ad essa.
+		Gli amminoacidi critici si trovano tipicamente nel sito attivo o sono coinvolti nella determinazione della struttura.
+
+		\subsubsection{Mutazione puntiforme}
+		Si dice mutazione puntiforme la sostituzione di una coppia di basi.
+		L'errore viene poi trascritto nel mRNA e nella proteina.
+		Se questo errore avviene in una regione codificante la mutazione risulta nell'alterazione della sequenza degli amminoacidi.
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Mutazioni missenso: viene alterata la sequenza della proteina.
+				\item Mutazioni nonsenso: si forma un codone di stop prematuro e una proteina tronca.
+				\item Mutazioni silenti: mutazioni di una singola base possono non causare cambi nella sequenza.
+					Avvengono tipicamente nella terza base del codone.
+			\end{itemize}
+		\end{multicols}
+	
+		\subsubsection{Mutazioni frameshift}
+		Nello scivolamento dello schema di lettura o mutazioni frameshift perdite o integrazioni di basi portano a uno scivolamento del frame e a una modifica dell'intera sequenza della proteina.
+		Porta spesso alla sintesi di proteine non funzionanti, ma in caso di inserimento o delezione di sequenze lunghe $3nt$ o suoi multipli vengono unicamente acquisiti o persi amminoacidi.
+	
+	\subsection{Retromutazioni o reversioni}
+	Le mutazioni puntiformi sono generalmente reversibili attraverso le reversioni. 
+	Un revertante viene definito come un ceppo in cui il fenotipo selvatico, che era stato perso nel mutante, viene ripristinato. 
+
+		\subsubsection{Revertanti dello stesso tipo}
+		Nei revertanti dello stesso tipo la mutazione che ripristina l'attivit\`a si verifica nel medesimo sito in cui \`e avvenuta la mutazione originale.
+
+		\subsubsection{Revertanti di secondo sito}
+		Nei revertanti di secondo sito la mutazione avviene in un sito diverso del DNA.
+		Queste mutazioni, dette soppressive, compensano l'effetto della mutazione originale ripristinando il fenotipo selvatico.
+		Possono essere:
+		\begin{multicols}{2}
+	    		\begin{itemize}
+	        		\item Mutazioni nello stesso gene che ristabiliscono il frameshift originale;
+	        		\item Mutazioni in altri geni che possono ripristinare la funzione del gene originale mutato; 
+	        		\item Mutazioni in altri geni che determinano la produzione di un enzima che può sostituire quello mutante. 
+	    		\end{itemize}
+		\end{multicols}
+
+	\subsection{Frequenza di mutazione}
+	Gli errori nella replicazione del DNA ricorrono con una frequenza di circa $10^{-7}$-$10^{-11}$ per coppia di basi durante un ciclo di replicazione. 
+	In quanto un gene tipo possiede circa $1000$ paia di basi, la frequenza degli errori in esso \`e di $10^{-4}$-$10^{-8}$ per generazione. 
+	Si nota pertanto come in una coltura batterica, avente circa $10^{8}\frac{cellule}{\si{mL}}$ esiste la probabilità che in ciascun $\si{ml}$ di coltura, per un dato gene, ci sia almeno un mutante. 
+	Non tutte le mutazioni hanno la stessa probabilit\`a di avvenire: si trovano nell'ordine $nonsenso<silenti<missenso$
+
+		\subsubsection{Esempio}
+		Si prenda in considerazione un codone $GGG$ che codifica per la glicina.
+		Le possibili mutazioni sono:
+		\begin{multicols}{3}
+			\begin{itemize}
+				\item $GGU$:  \emph{Gly} (silent);
+				\item $GGC$: \emph{Gly} (silent);
+				\item $GGA$:  \emph{Gly} (silent);
+				\item $GUG$:  \emph{Val} (missense);
+				\item $GCG$:  \emph{Ala} (missense);
+				\item $GAG$:  \emph{Glu} (missense);
+				\item $UGG$:  \emph{Trp} (missense);
+				\item $CGG$:  \emph{Arg} (missense);
+				\item $AGG$:  \emph{Arg} (missense).
+			\end{itemize}
+		\end{multicols}
+		Se a cambiare è solo l'ultimo nucleotide di un codone otteniamo una mutazione silente. 
+		Se cambia il primo o il secondo nucleotide sicuramente abbiamo una mutazione missenso. 
+		Le mutazioni nonsenso avvengono per un raro caso di coincidenza. 
+
+	\subsection{Mutagenesi}
+	La frequenza di mutazione può essere aumentata da vari agenti chimici, fisici o biologici. 
+  
+		\subsubsection{Mutageni chimici}
+		I mutageni chimici portano ad analoghi delle basi nucleotidiche. 
+		Questi sono simili nella struttura alle basi del DNA ma si dimostrano difettosi nell'appaiamento. 
+		Aumentano con gli errori nella replicazione del DNA con l'incorporazione di una base sbagliata nell'elica di DNA completa. 
+		Due esempi di analoghi dei nucleotidi che causano sostituzioni da $AT$ e $GC$ sono:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item \emph{5-Bromouracil} si associa con $G$ anzichè $A$; 
+				\item \emph{2-Aminopurine} si associa con $C$ anzichè $T$. 
+			\end{itemize}
+		\end{multicols}
+		Per esempio la timina e il suo analogo \emph{bU}: l'inserimento di \emph{bU} al posto di $T$ causa una prima mutazione ($G$ anzichè $A$) dopo il primo ciclo replicativo. 
+		Dopo il secondo ciclo replicativo avviene la sostituzione completa di un paio di basi $AT$ in $GC$. 
+
+			\paragraph{Tipologie di mutageni chimici}
+
+				\subparagraph{Agenti alchilanti}
+				Gli agenti alchilanti interagiscono con il DNA, creando legami crociati tra le sue eliche.
+				Sono in grado di indurre cambiamenti anche in assenza di replicazione.
+
+				\subparagraph{Agenti intecalanti}
+				Gli agenti intercalanti si inseriscono tra due coppie di basi del DNA separandole.
+				Portano a microinserzioni o microdelezioni inducendo mutazioni frameshift.\\
+				Un esempio di agente intercalante o frameshift mutagen \`e l'acridina, che si inserisce nella doppia elica del DNA, causando inserimento o delezione di un nucleotide da parte della DNA polimerasi.
+				Queste sostanze vengono chiamate anche teratogene o cancerogene.
+		
+		\subsubsection{Agenti fisici}
+		Le mutazioni possono essere indotte anche da agenti fisici come le radiazioni.
+
+			\paragraph{Radiazioni}
+
+				\subparagraph{Raggi \emph{UV}}
+				I raggi \emph{UV} inducono la formazione di dimeri di pirimidine ($C$ o $T$), uno strato in cui le basi vengono legate covalentemente durante la replicazione del DNA.
+				Questo legame impedisce la formazione di legami idrogeno con le basi del filamento complementare, aumentando la probabilit\`a che la DNA polimerasi inserisca un nucleotide sbagliato.
+				\subparagraph{Radiazioni ionizzanti}
+				Le radiazioni ionizzanti causano effetti mutageni indiretti tramite ionizzazione dell'acqua e formazione del radicale libero \emph{$OH^-$}, creando stress ossidativo in grado di danneggiare le molecole di DNA.
+
 \section{Isolamento dei mutanti}
-\subsection{Mutazioni selezionabili}
-Le mutazioni possono essere selezionabili in quanto conferiscono alcuni vantassi, mentre altre sono non sono selezionabili, anche se portano eventualmente a un profondo cambiamento del fenotipo dell'organismo. 
-\\Un esempio di mutazione selezionabile è la resistenza ai farmaci: antibiotici. Un mutante antibiotico può crescere in presenza di una concentrazione del farmaco che inibisce o uccide il tipo selvatico. Procedimento:
-\begin{itemize}
-    \item Piastra di coltura con tappeto uniforme di batteri; 
-    \item Disco antibiotico che diffonde radialmente. Più ci si allontana dall'anello, minore è la concentrazione del farmaco; 
-    \item Si nota il fenotipo bianco su antibiotico nero. C'è una resistenza maggiore.
-\end{itemize}
-La selezione è quindi uno strumento estremamente potente che permette l'isolamento di un singolo mutante all'interno di una popolazione. 
-\subsection{Isolamento di mutanti nutrizionali per selezione indiretta}
-Con la tecnica di "replica plating" possono essere identificati mutanti nutrizionali direttivi. Procedimento: 
-\begin{itemize}
-    \item Un terreno di coltura ricco di nutrienti con diluizione coretta in modo da far crescere colonie individuabili e non sovrapposte tra loro; 
-    \item Viene utilizzato un velluto sterile per ottenere una stampa delle colonie da una piastra madrea su un'altra piastra mancante di alcuni nutrienti.
-\end{itemize}
-Risultati:
-\begin{itemize}
-    \item L'incapacità di una colonia a crescere sulla piastra replicata la segnala come mutante; 
-    \item Altri mantengono la capacità di produrre proteine.
-\end{itemize}
-Viene detto auxotrofo  un mutante che presenta una richiesta nutrizionale particolare, cioè presenta una perdita di un enzima nella sua via biosintetica; mentre il suo contrario viene definito prototroofo. 
-\\Esempi di mutanti selezionabili....Aggiungi tabella
-\subsection{Le basi molecolari delle mutazioni}
-La sostituzione di una coppia di basi viene chiamata mutazione puntiforme (point mutation). L'errore del DNA viene trascritto nell'mRNA che viene tradotto per produrre la proteina. Quando questo errore avviene in una regione codificante del DNA la mutazione risulta generalmnte nell'alterazione della sequenza degli aminoacidi della proteina codificata dal gene mutato. In questo caso si chiama \textbf{mutazione missenso}. Non tutte queste mutazioni portano ad un malfunzionamento della proteina. Il risultato dipende da quale effetto ha la mutazione sul ripiegamento del polipeptide. 
-\\A causa della degenerazione del codice genetico, non tutte le mutazioni determinano un cambiamento nella proteina. Queste sono dette \textbf{mutazioni silenti}. Queste mutazioni si presentano spesso nella terza base del codone perché è la più degenerata.
-\\Le \textbf{mutazioni non sense} portano alla formazione di un codone di stop e portano alla formazione di una proteina incompleta. 
-Nello \textbf{scivolamento dello schema di lettura (frameshift)} perdite o integrazione di basi determinano uno scivolamento del frameshift ed una modificaa dell'intera sequenza della proteina. La perdita o l'inserimento di multipli di 3 basi risultano nell'acquisto o nella perdita di aminoacidi senza scivolamento del frameshift, questo lo rende meno dannoso di tutti. 
-\\Spesso il frameshift porta alla sintesi di proteine non funzionanti. 
-\\Secondo il concetto di codone genetico degenerato esistono più codoni che codificano per un singolo aminoacido. In particolare ci sono 64 codoni possobili, ma soo 20 aminoacidi. Questo consente di produrre meno aminoacidi di quanti potrebbero essere i potenziali, limitando i danni causati da un appaiamento sbagliato. Normalmente i codoni che portano alla traduzione di uno specifico aminoacido hanno le prime due lettere conservate, mentre la terza variabile. Questo spiega le mutazioni silenti.
-\\Le sequenza importanti da ricordare sono:
-\begin{itemize}
-    \item Sequenze di STOP della sintesi proteica (traduzione) $\xrightarrow{}$ UAA, UAG e UGA; 
-    \item Sequenza di inizio traduzione che corrisponde all'aminoacido della metionina $\xrightarrow{}$ AUG.
-\end{itemize}
-Solo una minoranza degli aminoacidi vengono considerati critici, per esempio quelli presenti nel sito attivo oppure quelli che determinano la struttura. Quindi non tutte le mutazioni a carico di aminoacidi causano grandi mutazioni sulle proteine. 
-\subsection{Retromutazioni o reversioni}
-Le mutazioni puntiformi sono generalmente reversibili attraverso le reversioni. Un revertante viene definito come un ceppo in cui il fenotipo selvatico, che era stato perso nel mutante, viene ripristinato. Esistono due tipi di revertanti:
-\begin{enumerate}
-    \item "Dello stesso sito" $\xrightarrow{}$ la mutazione che ripristina l'attività si verifica nel medesimo sito in cui è avvenuta la mutazione originale; 
-    \item "Di secondo sito" $\xrightarrow{}$ la mutazione avviene in un sito differente del DNA. Queste mutazioni sono dette soppressive, perchè compensano l'effetto della mutazione originale e ripristinano il fenotipo selvatico. Esse possono essere: 
-    \begin{itemize}
-        \item una mutazione nello stesso gene che ristabilisce il frameshift originale;
-        \item una mutazione in un altro gene che può ripristinare la funzione del gene originale mutato; 
-        \item una mutazione in un altro gene che determina la produzione di un enzima che può sostituire quella mutante. 
-    \end{itemize}
-\end{enumerate}
-\subsection{Frequenza di mutazione}
-Gli errori nella replicazione del DNA ricorrono con una frequenza di circa 10\ap{-7} - 10\ap{-11} per coppia di basi durante un ciclo di replicazione. Un gene tipo possiede circa 1000 paia di basi, quindi la frequenza di questi errori in un dato gene sarebbe 10\ap{-4} - 10\ap{-8} per generazione. 
-\\In una coltura batterica, avente circa 10\ap{8} cellule/ml esiste la probabilità che in ciascun ml di coltura, per un dato gene, ci sia almeno un mutante. Le mutazioni non hanno la stessa probabilità di avvenire: missenso > silenti > nonsenso.
-Se si prende come esempio un codone GGG, aminoacido codificato Gly, le possibilità di mutazioni puntiformi sono:
-\begin{itemize}
-    \item GGU $\xrightarrow{}$ Gly (silent);
-    \item GGC $\xrightarrow{}$ Gly (silent);
-    \item GGA $\xrightarrow{}$ Gly (silent);
-    \item GUG $\xrightarrow{}$ Val (missense);
-    \item GCG $\xrightarrow{}$ Ala (missense);
-    \item GAG $\xrightarrow{}$ Glu (missense);
-    \item UGG $\xrightarrow{}$ Trp (missense);
-    \item CGG $\xrightarrow{}$ Arg (missense);
-    \item AGG $\xrightarrow{}$ Arg (missense).
-\end{itemize}
-Se a cambiare è solo l'ultimo nucleotide di un codone otteniamo una mutazione silente. Se cambia il primo o il secondo nucleotide sicuramente abbiamo una mutazione missenso. Le mutazioni nonsenso avvengono per un raro caso di coincidenza. 
-\subsection{Mutagenesi}
-La frequenza di mutazione può essere aumentata da vari agenti chimici, fisici o biologici.   
-\subsubsection{Mutageni chimici}
-I mutageni chimici portano ad analoghi delle basi nucleotidiche. Questi sono simili nella struttura alle basi del DNA ma si dimostrano difettosi nell'appaiamento. Aumentano con gli errori nella replicazione del DNA con l'incorporazione di una base sbagliata nell'elica di DNA completa. Due esempi di analoghi dei nucleotidi che causano sostituzioni da AT e GC sono:
-\begin{itemize}
-    \item 5-Bromouracil si associa con G anzichè A; 
-    \item 2-Aminopurine si associa con C anzichè T. 
-\end{itemize}
-Per esempio la timina e il suo analogo bU: l'inserimento di bU al posto di T causa una prima mutazione (G anzichè A) dopo il primo ciclo replicativo. Dopo il secondo ciclo replicativo avviene la sostituzione completa di un paio di basi AT in GC. Questo porta ad errori. 
-\\I mutageni chimici possono essere:
-\begin{itemize}
-    \item \textbf{Agenti alchilanti} $\xrightarrow{}$ interagiscono direttamente con il DNA, ad esempio creando dei legami crociati tra le eliche del DNA. Inducono cambiamenti anche in assenza di replicazione del DNA; 
-    \item \textbf{Agenti intercalanti} $\xrightarrow{}$ si inseriscono tra due coppie di bai del DNA, separandole. Portano a microinserzioni o microdelezioni e inducono mutazioni frameshift. 
-\end{itemize}
-Un esempio di meccanismo di azione di un frameshift mutagen è l'inserimento dell'acridina. L'acridina si inserisce nella doppia elica del DNA. Questo porta all'inserimento o alla delezione di un nucleotide da parte della DNA polimerasi. 
-\\Queste sostanze vengono chiamate teratogene o cancerogene: con l'aumento di queste mutazioni è possibile l'origine di tumori. 
-\subsubsection{Agenti fisici}
-Le mutazioni possono essere indotte anche da agenti fisici come le radiazioni:
-\begin{itemize}
-    \item \textbf{Raggi UV} $\xrightarrow{}$ inducono la formazione di dimeri di pirimidine (C o T), uno strato in cui le basi vengono legate covalentemente durante la replicazione del DNA. Questo legame impedisce la formazione di legami idrogeno con le basi del filamento complementare. Aumentando la probabilità che la DNA polimerasi inserisca in questa posizione un nucleotide sbagliato; 
-    \item \textbf{Radiaizioni ionizzanti} (raggi X e raggi $\gamma$) $\xrightarrow{}$ determinano effetti mutageni indiretti tramite la ionizzazione dell'acqua e la formazione del radicale libero OH\ap{-}. Questo crea stress ossidativo e può recare danni alla molecole di DNA.
-\end{itemize}
-\subsection{Saggi di laboratorio per l'identificazione del mutante}
-\subsubsection{Identificazioni di mutazione per seleziona positiva}
-Si prende una coltura batterica con vari batteri e la si versa su una piastra contenente penicillina:
-\begin{itemize}
-    \item Solo i batteri resistenti alla penicillina resistono; 
-    \item Eliminazione dei fenotipi wild-type;
-    \item Come prova verso la stessa coltura batterica su piastra senza penicillina e osservo che crescono molte colonie batteriche.
-\end{itemize}
-Poi si aggiunge alla coltura la sostanza che voglio testare come mutagena. Se è mutagena si nota che , dopo aver fatto crescere la coltura sulla piastra con penicillina, il numero di colonie aumenta e di conseguenza cresce anche la frequenza di mutazione. (resistenza all'antibiotico). 
-\\
-\textbf{Calcolo della frequenza di mutazione}
-\begin{center}
-    $\frac{N\ap{o} colonie con mutageno - N\ap{o} colonie senza mutageno}{N\ap{o} colonie senza mutageno}$ x 100
-\end{center}
-\subsubsection{Test di Ames}
-Il test di Ames utilizza mutanti del genere \textit{Salmonella} con una mutazione puntiforme che impedisce la biosintesi dell'aminoacido istidina (His\ap{-}). Se il terreno non presenta istidina, allora la colonia non cresce per mancanza di questo aminoacido. 
-\\Ad una sospensione di mutanti viene aggiunto un estratto di fegato, che simula le condizioni fisiologiche nelle quali gli enzimi epatici possono trasformare varie sostanze innocue in agenti mutageni. 
-\\I batteri vengono piastrati su un terreno senza istidina: la comparsa di colonie revertanti (His\ap{+}) è indicativa della mutagenicità della sostanza testata.
-\\Se i revertanti compaiono sia nella piastra di controllo sia nella piastra di testa, con l'aggiunta della sostanza si ha un netto aumento del numero di revertanti attorno al disco. Questo dimostra la sua azione mutagena. In prossimità della sostanza non sono presenti batteri. Questo accade perchè la concentrazione della sostanza mutagena è troppo altra e causa una quantità eccessiva di mutazioni all'interno del batterio che portano alla morte dell'individuo.
+
+	\subsection{Mutazioni selezionabili}
+	Si dice mutazione selezionabile un tipo di mutazione che permette l'isolamento del ceppo mutante in laboratorio.
+	Le mutazioni non selezionabili possono comunque portare a un profondo cambiamento del fenotipo dell'organismo.
+
+		\subsubsection{Resistenza agli antibiotici}
+		Un esempio di mutazione selezionabile \`e la resistenza agli antibiotici:
+		un mutante antibiotico pu\`o crescere in presenza di una concentrazione di farmaco in grado di inibire il tipo selvatico.
+
+			\paragraph{Isolare un mutante per resistenza agli antibiotici}
+			\begin{multicols}{2}
+				\begin{enumerate}
+					\item Si consideri una piastra di coltura con tappeto uniforme di batteri.
+    					\item Si posiziona in essa un disco contenente antibiotico che diffonde radialmente. 
+						Più ci si allontana dall'anello, minore è la concentrazione del farmaco.
+    					\item La distanza dal disco in cui si trovano colonie indica il grado di sensibilit\`a di un batterio o la sua resistenza.
+				\end{enumerate}
+			\end{multicols}
+			La selezione è quindi uno strumento estremamente potente che permette l'isolamento di un singolo mutante all'interno di una popolazione. 
+
+	\subsection{Isolamento di mutanti nutrizionali per selezione indiretta}
+
+		\subsubsection{Replica plating}
+		Con la tecnica di ``replica plating'' possono essere identificati mutanti nutrizionali direttivi. 
+
+			\paragraph{Procedimento}\mbox{}\\
+			\begin{multicols}{2}
+				\begin{enumerate}
+					\item Si crea una coltura con diluizione corretta in modo da far crescere colonie individuabili e non sovrapposte su un terreno di coltura ricco.
+					\item Si ottiene una stampa delle colonie attraverso stampa con velluto sterile dalla piastra madre.
+					\item Si passano le colonie su piastre mancanti nutrienti specifici.
+				\end{enumerate}
+			\end{multicols}
+	
+			\paragraph{Risultati}\mbox{}\\
+			\begin{multicols}{2}
+				\begin{itemize}
+	    				\item L'incapacità di una colonia a crescere sulla piastra replicata la segnala come mutante: non \`e in grado di sintetizzare il nutriente mancante.
+						Quella colonia si dice auxotrofa per quella richiesta nutrizionale.
+	    				\item La capacit\`a di una colonia di crescere sulla piastra replicata la segnala come wild type per il nutriente mancante.
+						Si dice pertanto prototrofa per quella richiesta nutrizionale.
+				\end{itemize}
+			\end{multicols}
+	
+	\subsection{Saggi di laboratorio per l'identificazione dei mutageni}
+
+		\subsubsection{Identificazioni di mutazione per seleziona positiva}
+		Il test di identificazione di mutazione per selezione positiva consiste di prendere una coltura batterica e versarla su una piastra contenente un antibiotico come penicillina.
+		Solo i batteri resistenti ad esso resistono e vengono pertanto eliminati i fenotipi wild-type.
+		Come test di conferma si versa la stessa coltura batterica su piastra senza penicillina e si osserva quante colonie in pi\`u crescono.
+			
+			\paragraph{Aggiunta di mutageno}
+			Dopo il test si aggiunge alla coltura la sostanza che si vuole testare come mutagena.
+			Se la sostanza \`e mutagena si nota come dopo aver fatto crescere la coltura sulla piastra con penicillina il numero di colonie aumenta: \`e aumentata la frequenza di mutazione.
+
+				\subparagraph{Calcolo della frequenza di mutazione}
+				\[\dfrac{N^{o}_{\text{colonie con mutageno}} - N^{o}_{\text{colonie senza mutageno}}}{N^{o}_{\text{colonie senza mutageno}}} \times 100\]
+
+		\subsubsection{Test di Ames}
+		Il test di Ames utilizza mutanti del genere \textit{Salmonella} con una mutazione puntiforme che impedisce la biosintesi dell'aminoacido istidina (\emph{$His^{-}$}). 
+		Se il terreno non presenta istidina, allora la colonia non cresce per mancanza di questo aminoacido. 
+		Ad una sospensione di mutanti viene aggiunto estratto di fegato, che simula le condizioni fisiologiche nelle quali gli enzimi epatici possono trasformare sostanze  in agenti mutageni. 
+		I batteri vengono piastrati su un terreno senza istidina: la comparsa di colonie revertanti (\emph{$His^{+}$}) è indicativa della mutagenicità della sostanza testata.
+		Se i revertanti compaiono sia nella piastra di controllo sia nella piastra di testa, con l'aggiunta della sostanza si ha un netto aumento del numero di revertanti attorno al disco. 
+		Questo dimostra la sua azione mutagena. 
+		In prossimità della sostanza non sono presenti batteri. 
+		Questo accade perchè la concentrazione della sostanza mutagena è troppo alta e causa una quantità eccessiva di mutazioni all'interno del batterio che portano alla morte dell'individuo.
+
 \section{Ricombinazione genetica omologa}
-Si intende uno scambio fisico di materiale genetico. Consiste nello scambio genetico tra sequenza omologhe di DNA. Le sequenze omologhe di DNA non sono complementari, ma presentano un alto tasso di identità che permette l'appaiamento. 
-Il processo inizia con un \textbf{taglio} (nick) prodotto da una endonucleasi (enzima che taglia il DNA) e che spesso presenta anche un'attvità elicasica per srotolare il DNA. A questo taglio si legano le proteina \textbf{SSB + RecA} che formano un complesso che facilita il riappaiamento con la sequenza complementare del DNA recipiente, mentre spontaneamente avviene lo spostamento del filamento residente. Dopo l'appaiamento può avvenire uno scambio di molecole omologhe di DNA, che porta alla formazione di intermedi di ricombinazione. Questi contengono delle regioni eteroduplici (heteroduplex) dove ciascun frammento è originato da cromosomi differenti. 
-\\In fine avviene la \textbf{risoluzione}, ossia la liberazione delle molecole dell'ibrido. Può avvenire in due modi: 
-\begin{enumerate}
-    \item \textbf{Patches} $\xrightarrow{}$ solo un filamento presenta lo scambio e quindi si presenta ibrido;
-    \item \textbf{Splices} $\xrightarrow{}$ entrambi i filamenti si presentano come ibridi.
-\end{enumerate}
-\subsubsection{Identificazione dei ricombinati}
-Di solito vengono utilizzati dei ceppi riceventi che mancano di alcune caratteristiche selezionabili che i ricombinanti dovranno possedere. 
-\\Per la vera identificazione di un'avvenuta ricombinazione è importante che il tasso di retromutazione per il carattere studiato sia basso dato che oltre ai ricombinanti anche i revertanti potranno formare colonie. Vengono utilizzati spesso doppo mutanti, cioè ceppi che presentano mutazioni diverse, perché è poco probabile che possano avvenire retromutazioni nella stessa cellula. Se la coltura viene messe su una piastra  dove non è presente non dovrebbe crescere nulla. 
-\\Viene preso del DNA libero estratto da delle cellule di Trp\ap{+} e lo si mette nella stessa provetta dellla coltura batterica. Una volta che vengono rimesse sulla piastra, solo le cellule cche hanno integrato il nuovo estratto sono in grado di crescere e formare delle colonie.
-\\Nei procarioti è possibile osservare la ricombinazione genetica quando i frammenti di DNA omologo vengono trasferiti da una cellula donatrice (donor) ad una cellula ricevente (recipient) mendiante uno dei tre seguenti processi di trasferimento genico orizzontale:
-\begin{itemize}
-    \item \textbf{Trasformazione} $\xrightarrow{}$ il DNA di una cellula viene assimilato da un'altra cellula, senza che ci sia contatto diretto; 
-    \item \textbf{Trasduzione} $\xrightarrow{}$ il DNA del donatore si trasferisce grazie alla mediazione di un virus;
-    \item \textbf{Coniugazione} $\xrightarrow{}$ il trasferimento coinvolge il contatto cellula-cellula.
-\end{itemize}
-\subsection{Trasformazione} 
-Il processo di trasformazione è stato scoperto con l'esperimento di Frederick Griffith nel 1928. 
-\\In questo esperimento viene osservato il batterio \textit{Streptococcus pneumoniae} che si divide i due ceppi principali:
-\begin{itemize}
-    \item \textbf{Ceppo S} (smooth) $\xrightarrow{}$ ceppo patogeno. Presenta una capsula polisaccaridica esterna;
-    \item \textbf{Ceppo R} (rough) $\xrightarrow{}$ è il mutante non patogeno. Non presenta geni per la produzione della capsula ed è quindi incapace di causare l'infezione.
-\end{itemize}
-Vengono condotte quattro diverse prove sperimentali:
-\begin{enumerate}
-    \item Ceppo S vivo iniettato nel topo $\xrightarrow{}$ il topo muore e si trovano cellue vive del ceppo S nel cuore; 
-    \item Ceppo R vivo iniettato nel topo $\xrightarrow{}$ il topo è sano e non viene trovata nessuna cellula batterica nel cuore;
-    \item Ceppo S inattivato dal colore (lisi) $\xrightarrow{}$ il topo è sano e non viene trovata nessuna cellula batterica nel cuore; 
-    \item Ceppo R vivo + ceppo S inattivato dal colore $\xrightarrow{}$ il topo muore e vengono trovate delle cellule vive del ceppo S nel cuore.
-\end{enumerate}
-Questo mette in luce il ruolo centrale della capsula batterica e mostra anche che una cellula batterica è capace di acquisire determinate caratteristiche da un altro. Tuttavia non si conosceva ancora quale molecola si occupasse di questo. Oggi si sa che le cellule acquisiscono una parte di DNA del ceppo S. Il materiale genetico viene rilasciato nell'ambiente esterno e mantiene la capacità di codifcare per qualche informazione. 
-\\Questa trasformazione dal ceppo R al ceppo S avviene anche in vitro ed è fondamentale per modificare gli organismi.
-\\La trasformazione è un processo mediante il quale una molecola di DNA libero viene incorporata in una cellula ricevente e determina un cambiamento genetico (ricombinazione). 
-\\A causa della sua estrema lunghezza (ad esempio in 1700 $\mu$m in \textit{Bacillus}) la molecola di DNA si può rompere facilmente. Anche dopo un'estrazione delicata un cromosoma batterico si riduce in frammenti di circa 15 kb. Questa dimesione rappresenta un tipico frammento trasformabile. 
-\\Le cellule con l'abilità di acquisire DNA dall'ambiente sono dette competenti. La competenza è il risultato delle alterazioni degli involucri cellulari (mebrane e parete) e può essere di due tipi:
-\begin{itemize}
-    \item \textbf{Naturale}; 
-    \item \textbf{Artificiale o indotta} $\xrightarrow{}$ è alla base delle moderne biotecnologie. Molte specie non sono dotate di competenza per la trasformazione e lo possono diventare in seguito a shock elettrici o esposizione a cloruro di calcio. Così facendo la membrana cellulare diventa più permeabile al DNA. 
-\end{itemize}
-Trafosrmare i batteri con DNA plasmidico è più semplice perchè:
-\begin{itemize}
-    \item i plasmidi non si degradano con facilità quanto i frammenti lineari;
-    \item non richiedono necessariamente integrazione nel cromosoma batterico tramite ricombinazione omologa; 
-    \item possono replicarsi all'interno della cellula ospite.
-\end{itemize}
-Processo di trasformazione:
-\begin{enumerate}
-    \item \textbf{Processo di entrata nella cellula e ricombinazione}
-    \\Il DNA trasformante (lineare) si lega alla superficie della cellula mediante una proteina legante il DNA. Poi o penetra l'intero frammento a doppio filamento o una nucleasi degrada un filamento e l'altro viene acquisito. Quest'ultimo filamento si associa ad una proteina specifica che lo protegge dall'attacco della nucleasi.
-    \\Poi viene integrato nel genoma del ricevente mediante un processo di ricombinazione omologa non reciproca che coinvolge la proteina RecA. 
-    \\Durante la replicazione di questa molecola di DNA eteroduplice si formeranno una molecola di DNA parentale e una molecola di DNA ricombinante. 
-    \item \textbf{Ricombinazione omologa non reciproca}
-    \\Per prima cosa si ha l'associazione dei segmenti omologhi a cui segue l'apertura della doppia elica del DNA (ricevente). Ciò permette l'appaiamento con la sequenza omologa sul DNA donatore. 
-    \\Per prima cosa l'endonucleasi taglia parte del filamento donatore e poi effettuadelle fratture presso le zone sul filamento dell'ospite sopra il quale si è posizionato il nuovo DNA. Vengono riparate le lacune lungo il filamento e in questo modo si ottiene un DNA eteroduplice nel DNA ospite. 
-    \\Questo processo di ingresso avviene sia nei gram negativi che nei positivi.
-    \\Gram negativi:
-    \begin{itemize}
-        \item PilQ contribuisce al movimento attraverso la membrana esterna;
-        \item PilE trasferisce il DNA attraverso la parete e lo spazio periplasmatico;
-        \item ComE è un proteina di legame al DNA; 
-        \item N è la nucleasi che degrada un filamento di DNA;
-        \item ComA è un canale che consente il passaggio del DNA nel citoplasma.
-    \end{itemize}
-    Gram positivi (molto simile con il sistema dei gram-negativi):
-    \begin{itemize}
-        \item ComGC = PilE;
-        \item ComEA = ComE;
-        \item Nuclasi (N);
-        \item ComEC = ComA;
-        \item ComFA è un DNA traslocasi in grado di trasferire il DNA nel citoplasma. Non è noto nessun equivalente nei gram-negativi.
-    \end{itemize}
-\end{enumerate}
-\subsection{Trasduzione}
-La trasduzione implica il trasferimento di DNA da una cellule donatrice ad una cellula ricevente tramite un virus. Può avenire sia tra cellule eucariote che procariote, ed è limitata dalla specificità di infezione del virus stesso. I virus che infettano i batteri vengono chiamati batteriofagi o fagi. La loro struttura è composta da una testa (capside proteico) che contiene RNA o DNA, da un collo segiuto da collare e guaina della coda. All'estremità si trova una piastra basale con attaccata la coda di filamenti proteici. 
-\\Meccanismo della trasduzione:
-\begin{enumerate}
-    \item Il fago entra in contatto con la cellula ospite, inietta il proprio materiale genetico e devia il metabolismo cellulare verso la sintesi di nuove particelle virali (virioni); 
-    \item Durante l'assemblaggio dei virioni, i frammenti di DNA della cellula ospite possono essere incapsulati e trasferiti a un'altra cellula ospite.
-\end{enumerate}
-Il trasferimento di geni dell'ospite mediante i virus può avvennire in due modi: 
-\begin{enumerate}
-    \item \textbf{Trasduzione generalizzata} $\xrightarrow{}$ qualunque frammento di DNA derivante dal genoma dell'ospite può diventare la componente di DNA dei nuovi virus, al posto del genoma del virus. 
-    \\Quando una cellula batterica viene infettata da un fago, iniziano gli eventi del ciclo litico. Alle volte gli enzimi responsabili per l’impacchettamento del DNA virale nella testa del fago, impacchettano accidentalmente anche DNA dell’ospite. La particella che ne risulta viene chiamata particella trasducente. Queste particelle vengono rilasciate alla lisi della cellula assieme a virioni normali che sono potenzialmente litici. Le particelle trasducenti non possono dar luogo a una normale infezione virale e vengono dette difettive. Questo perchè i geni batterici hanno sostituito alcuni geni virali indispensabili. 
-    \\Il lisato, formato da particelle e da virioni normali, viene usato per infettare una popolazione di cellule riceventi. Una parte di esse entrano in contato con le particelle trasducenti che iniettano all'interno della cellula batterica il DNA del precedente batterio ospite. Il DNA delle particelle trasducenti non può replicarsi, ma può subire una ricombinazione genetica con il DNA del nuovo ospite; 
-    \item \textbf{Trasduzione specializzata} $\xrightarrow{}$ il DNA di una specifica regione cromosomica dell'ospite viene integrato nel genoma del virus. Può permettere un trasferimento efficiente e garantire a una piccola regione del cromosoma batterico di venire trasdotta indipendentemente dal resto. 
-    \\Un esempio è la trasduzione dei geni gel gattosio a opera del fago lambda di \textit{E. coli}:
-    \begin{itemize}
-        \item La regione in cui lambda si integra nel cromosoma è adiacente ai geni dell'ospite che controllano gli enzimi coinvolti nell'utilizzazione del galattosio;
-        \item Durante la fase di induzione il DNA del profago viene escisso come un'unità e si riproduce;
-        \item Raramente il genoma fagico viene escisso in modo non corretto e alcuni geni del cromosoma batterico sono erroneamente escissi insieme al DNA fagico. 
-    \end{itemize}
-    Questa particella fagica alterata \textbf{lambda dgal} è difettiva dato che i geni fagici si sono persi e non possono generare fagi maturi in un'infezione successiva. Un virione lambda non difettico chiamato \textbf{fago helper} può fornire le informazioni mancanti nelle particelle difettive.
-    \\Quando le cellule sono coinfettate da lambda degal e da un fago helper, il lisato ottenuto conterrà alcune particelle dgal con un gran numero di virioni normali. Se una coltura batterica auxotrofa per il galattosio (Gal\ap{-}) viene infettata con questo lisato misto, si possono selezionare i batteri trasducenti Gal\ap{+}. Si possono ottenere doppi lisogneni contenenti sia lambda helper che lambda dgal. Se i doppi lisogeni vengono indotti si otterrà un lisato molto "ricco" di fagi gal in grado di trasdurre i geni gal ad alta efficienza.
-\end{enumerate}
-\subsubsection{Ciclo litico}
-\begin{enumerate}
-    \item Il batteriofago si fissa alla superficie batterica e inietta il suo acido nucleico; 
-    \item Il genoma del virus si chiude ad anello, si replica e sfruttando gli organuli  dell'ospite presiede alla sintesi di nuove particelle virali; 
-    \item Le nuove particelle virali si assemblano e formano nuovi virus che degradano la cellula ospite. 
-\end{enumerate}
-\subsubsection{Ciclo lisogenico $\xrightarrow{}$ evento reversibile}
-\begin{enumerate}
-    \item Il batteriofago si fissa alla superficie batterica e inietta il suo acido nucleico; 
-    \item Il genoma del virus si chiude ad anello e si integra con quello della cellula ospite;
-    \item La cellula ospite si divide mantenendo il genoma virale integrato nel proprio DNA.
-\end{enumerate}
-La capacità di svolgere il ciclo litico e lisogenico è differente nelle diverse specie di batteriofagi. I fagi detti temperati sono in grado di compiere, a seconda delle diverse condizioni, uno dei due cicli. I fagi virulenti, invece, possono solo compiere il ciclo litico e per questo motivo risultano immediatamente patogeni. 
-\subsection{Coniugazione}
-La coniugazione è il principale meccanismo di trasferimento dei plasmidi da cellulla a cellula. Questa funzione viene codificata dagli stessi plasmidi. Si tratta di un processo replicativo alla fine del quale entrambe le cellule conterranno una copia del plasmide. La trasmissibilità mediante coniugazione viene controllara da una serie di geni localizzati nella regione \textit{tra} del plasmide. Alcuni plasmidi hanno la capacità di trasferirsi tra organismi molto diversi fra loro: tra gram-negativi e gram-positivi, tra batteri e cellule vegetali, tra batteri e funghi).
-\subsubsection{I plasmidi}
-I plasmidi sono degli elementi genetici, solitamente di forma circolare, in grado di replicarsi indipendetemente dal cromosoma dell'ospite. Contengono geni non essenziali, ma che in certe condizioni possono diventare utili alla vita dell'ospite. 
-\\La loro dimensione varia da 1 Kb a 1 Mb e sono presenti da 1 ad oltre 100 copie/cellula ospite. Sono conosciuti migliaia di tipi differenti e sono presenti oltre 300 tipi in \textit{E. coli}. 
-\\Gli enzimi che vengono coinvolti nella replicazione dei plasmidi sono gli stessi utilizzati per la replicazione del genoma della cellula ospite. \\I plasmidi detti i\textbf{incompatibili} non possono essere mantenuti assieme nella cellula ospite e competono l'un l'altro per l'inizio della replicazione. Si parla di gruppi di incompatibilità. I plasmidi appartenenti a questo gruppo condividono un meccanismo comune di regolazione della replicazione e quindi sono correlati. Quindi una cellula batterica può contenere differenti tipi di plasmidi, purchè non siano geneticamente correlati. 
-\\I \textbf{plasmidi episomi} sono in grado di integrarsi nel cromosoma e in queste condizioni la loro replicazione procede sotto il controllo del cromosoma stesso.
-\\Si definisce \textbf{curing} la perdita di un plasmide da parte della cellula. Avviene spontaneamente in popolazioni naturale quando non vvi è una pressione selettiva per il suo mantenimento.
-\subsubsection{Dimostrazione della coniugazione batterica}
-Due ceppi con doppia o tripla auxotrofia vengono mescolati. Se avviene crescita su terreno minimo questo indica eventi di interazione tra i 2 cromosomi batterici (ricombinazione). Questo esperimento non dà alcuna informazione sulla direzione del trasferimento del materiale genetico.
-\subsubsection{Esperimento del tubo a U}
-Questo esperimento dimostra che la ricombinazione genetica nel processo di coniugazione avviene per contatto diretto tra cellule batteriche. 
-\\Viene preso un tubo di coltura e una sua estremità viene collegata una pompa per far circolare il liquido. Nel mezzo si mette un filtro di vetro poroso che consente il passaggio dei nutrienti ma non delle cellule batteriche (separa due popolazioni autotrofe opposte). Poi i batteri vengono piastrati su un terreno minimo e non si osserva alcuna crescita. Il filtro ha impedito il contatto diretto e quindi la ricombinazione delle due popolazioni. 
-\subsubsection{Mappa genetica del plasmide F (fertility) di \textit{E. coli}}
-Questo plasmide è formato da 99159 bp.
-\\AGGIUNGI IMMAGINE!!!
-\begin{itemize}
-    \item La regione in verde scuro contiene geni coinvolti nella replicazione del plasmide;
-    \item La regione in verde chiaro (\textit{tra}) contiene geni coinvolti nel trasferimento coniugativo; 
-    \item La regiore oriT è l'origine del trasferimento durante la coniugazione; 
-    \item Le regioni in giallo sono elementi trasponibili (mobili) che consentono l'integrazione del plasmide nel cromosoma batterico. 
-\end{itemize}
-\subsubsection{Coniugazione tra una cellula F\ap{+} e una F\ap{-}}
-\begin{enumerate}
-    \item Si crea la struttura coniugativa; 
-    \item Il pilo si depolimerizza così da portare le due cellule a mettersi in contatto;
-    \item Un filamento del DNA del fattore F viene tagliato da una endonucleasi e si muove attraverso il ponte coniugativo;
-    \item Il DNA complementare viene sintetizzato su entrambi i singoli filamenti;
-    \item Il movimento attraverso il ponte di coniugazione e la sintesi del DNA sono completati;
-    \item La ligasi circolarizza la molecola di DNA. I batteri coniugati si separano. In questo modo il batterio "exconiugante" ha acquisito un plasmide e quello donatore non l'ha perso.
-\end{enumerate}
-Il sistema di replicazione viene chiamato cerchio rotante. Questa è una replicazione assimetrica e procede in una sola direzione perchè soltanto una delle eliche parentali viene replicata. Per prima cosa l'endonucleasi taglia il plasmide in un punto preciso (oriT); dopo un giro completo il filamento comincia il processo di trasferimento; durante il processo di trasferimento avviene la replicazione di un filamento del plasmide.
-\\In corrispondenza del poro coniugativo si trova un enzima bifunzionale, che viene chiamato rilassosoma o Tra1. Questo viene codificato dalla stessa cellula donatrice, che possiede sia un'attività nucleasica che una elicasica. \\Il processo di coniugazione:
-\begin{itemize}
-    \item L'enzima Tra1 taglia il DNA in oriT e porta a un rilassamento della molecola stessa (srotolamento). L'estremità 5' del filamento che deve essere trasferito (esternal strand) si lega covalentemente all'aminoacido tirosina dell'enzima. Il primo tratto del filamento codifica per le proteine SSB che proteggono il singolo filamento di DNA trasferito dall'azione delle nucleasi. 
-    \item Una volta avvenuto il legame dell'enzima al coro coniugativo inizia la replicazione del retained strand. Questo è un filamento che serve da stampo e non viene trasferito. Avviene la sintesi del DNA donatore mediante il meccanismo a cerchio rotante; 
-    \item Il filamento di DNA viene spinto nel batterio ricevente dove viene convertito in DNA a doppio filamento. La cellula ricevente presenta sulla
-    superficie delle specifiche proteine che riconoscono il sito di attacco. 
-\end{itemize}
-Visto che la DNA polimerasi lavora in una sola direzione si hanno due sistemi di replicazione diversi:
-\begin{enumerate}
-    \item \textbf{Sintesi continua} $\xrightarrow{}$ del nuovo filamento nella cellula donatrice; 
-    \item \textbf{Sintesi discontinua} $\xrightarrow{}$ in più punti (simili ad Okazaki) nella cellula ricevente. 
-\end{enumerate}
-\subsubsection{La formazione di ceppi Hfr e la mobilizzazione del cromosoma}
-Il plasmide F è un episoma e quindi può integrarsi nel cromosoma dell'ospite e trasferire il cromosoma alla cellula ricevente. Le cellule che possiedono questo plasmide non integrato sono dette F\ap{+}, mentre quelle che hanno il plasmide integrato vengono chiamate Hfr (High frequency of recombination). Entrambe agiscono come donatori ma son in grado di acquisire stabilmente una seconda copia del plasmide F o di plasmidi ad esso correlati. 
-\\La presenza del plasmide F induce 3 distinti cambiamenti nella cellula:
-\begin{itemize}
-    \item La capacità di sintetizzare il pilo; 
-    \item La mobilizzazione del DNA cromosomico per trasferimento in un'altra cellula; 
-    \item Alterazione dei recettori di superficie, in modo che la cellula non sia più in grado di comportarsi come un ricevente nella coniugazione. 
-\end{itemize}
-Le cellule Hfr trasferiscono una porzione del loro DNA e del plasmide F ad una cellula ricevente, che diventa una cellula ricombinata ma rimane F\ap{-}.
-Questo perchè il plasmide passato è incompleto. La struttura non è stabile se non viene integrata nel genoma. 
-\subsubsection{Integrazione del plasmide F}
-L'inserzione può avvenire in varie regioni del cromosoma in corrispondenza di siti specifici IS (insertion sequence) che mostrano omologia con la sequenza del plasmide. Una volta che il plasmide è stato integrato, non è più in grado di controllare la propria replicazione ma rimane capace di sintetizzare il pilus.                     
-\\La coniugazione da un ceppo Hfr a F\ap{-} procede come da un ceppo F\ap{+} a F\ap{-}, con l'eccezione che vengono anche trasferiti geni cromosomali. 
-\subsubsection{Uso dei ceppi Hfr negli incroci genetici}
-Durante la coniugazione sia le cellule del donatore sia quelle del ricevente sono vitali. C'è la necessità di selezionare dove solamente i ricombinanti desiderati possono crescere senza che i ceppi parentali possano formare colonie. Normalmente si utilizza:
-\begin{itemize}
-    \item Un ricevente resistente a un antibiotico ma auxotrofo per qualche sostanza; 
-    \item Un donatore sensibile all'antibiotico ma prototrfo per la stessa sostanza. 
-\end{itemize}
-Per esempio si ha:
-\begin{itemize}
-    \item Donatore Hfr che è sensibile alla streptomicina e prototrofo per il lattosio; 
-    \item Ricevente F\ap{-} che è resistente alla streptomicina e uxotrofo per il lattosio; 
-    \item Un terreno selettico che contiene la streptomicina. 
-\end{itemize}
-La miscela tra le due popolazione viene piastrata e così viene eliminato il ceppo donatore. Se il terreno minimo non presenta le sostanze per le quali il ceppo ricevente era auxotrofo, ma comunque viene osservata la crescita di colonie. In questo caso è avvenuta un'efficiente coniugazione. 
-\\La frequenza del processo di coniugazione e la ricombinazione può essere misurata contando il numero di colonie cresciute. 
-\\Processo di coniugazione tra un ceppo Hfr e un ceppo F\ap{-}:
-\begin{enumerate}
-    \item Il fattore F viene integrato nel cromosoma batterico e la cellula diventa una cellula Hfr; 
-    \item Avviene la coniugazione tra una cellula Hfr e una F\ap{-}. Il fattore F viene tagliato da un enzima creando l'origine di trasferimento del cromosoma; 
-    \item Inizia il trasferimento del cromosoma attraverso il ponte di coniugazione; 
-    \item Inizia la replicazione su entrambi i frammenti mentre continua il trasferimento del cromosoma. Il fattore F è ora alla fine del cromosoma adiacente all'origine; 
-    \item La coniugazione solitamente si interrompe prima che il trasferimento del cromosoma sia completato. Qui solo alcuni dei geni sono stati trasferiti e potranno andare incontro a ricombinazione. 
-\end{enumerate}
-\subsubsection{Coniugazione interrotta}
-L'ordine in cui i geni sono presenti sul cromosoma donatore può essere determinato dalla cinetica di trasferimento dei geni individuali. Le due cellule possono essere separate per agitazione a un dato tempo per controllare i ricombinanti sul terreno selettivo.
-\\I geni più vicini all'origine di trasferimento (oriT) sono quelli che entrano per primi nelle cellule riceventi e sono quindi presenti in una percentuale più alta dei ricombinanti rispetto ai geni che poi entreranno. 
-\\IMMAGINE MAPPATURA A TEMPO 
-\subsubsection{Trasferimenti di geni cromosomali al plasmide F}
-I plasmidi F integrati possono occasionalmente separarsi dal cromosoma incorporando geni cromosomici, chiamati plasmidi F\ap{'}. Questi contengono stabilmente dei geni cromosomali normalmente espressi che possono essere trasmessi ad altre cellule. Trasferendo un plasmide F\ap{'} in una cellula ricevente si possono creare delle cellule diploidi che possono contenere due copie dello stesso gene. 
-\\La coniugazione con F\ap{'} deriva da un'escissione scorretta del fattore F nel cromosoma ospite. Alcuni geni dell'ospite vengono prelevati dall'F e possono essere trasferiti ad un'altra cellula mediante la coniugazione. 
-\\Alle volte l'escissione avviene in modo impreciso e il plasmide F porterà con se una sequenza adiacente del cromosoma batterico. Si ottiene un plasmide F\ap{'} portatore del marcatore lac\ap{+}. Se F'lac\ap{+} viene trasferito per coniugazione in una cellula lac\ap{-}, si otterrà un diploide parziale (merodiploide) lac\ap{+}/lac\ap{-}.
-Formazione di un fattore F\ap{'} e coniugazione con un ceppo F\ap{-}:
-\begin{enumerate}
-    \item Il fattore F può anche escindere in modo illegittimo; 
-    \item Dopo l'escissione illegttima F può acquisire una porzione di cromosoma batterico e diventare F\ap{'};
-    \item La cellula portatrcie di F\ap{'} può coniugare e trasferire il plasmide a una cellula F\ap{'};
-    \item Formazione delle coppia coniugativa;
-    \item Il fattore F\ap{'} replica mentre il filamento viene trasferito;
-    \item La cellula F\ap{'} ricevente diventa parzialmente diploide ed è chiamata merozigote. 
-\end{enumerate}
+Si intende per ricombinazione genetica omologa uno scambio fisico di materiale genetico. 
+Consiste nello scambio genetico tra sequenza omologhe di DNA. 
+Le sequenze omologhe di DNA non sono complementari, ma presentano un alto tasso di identità che permette l'appaiamento. 
+
+	\subsection{Processo}
+
+		\subsubsection{Taglio}
+		Il processo inizia con un taglio o nick prodotto da una endonucleasi (enzima che taglia il DNA) e che spesso presenta anche un'attvità elicasica per srotolare il DNA. 
+		A questo taglio si legano le proteina \textbf{SSB + RecA} che formano un complesso che facilita il riappaiamento con la sequenza complementare del DNA recipiente e avviene la strand invasion.
+		Lo spostamento del filamento residente avviene spontaneamente.
+		Dopo l'appaiamento può avvenire uno scambio di molecole omologhe di DNA, che porta alla formazione di intermedi di ricombinazione. 
+		Questi contengono delle regioni eteroduplici (heteroduplex) dove ciascun frammento è originato da cromosomi differenti. 
+
+		\subsubsection{Risoluzione}
+		Si intende per risoluzione la liberazione delle molecole dell'ibrido.
+		Pu\`o avvenire in due modi.
+			
+			\paragraph{Patches}
+			Nel metodo patches solo un filamento presenta lo scambio e diventa ibrido.
+
+			\paragraph{Splices}
+			Nel metodo splices entrambi i filamenti sono ibridi.
+
+	\subsection{Identificazione dei ricombinanti}
+	Per identificare i ricombinanti vengono utilizzati dei ceppi riceventi che mancano di alcune caratteristiche selezionabili che i ricombinanti dovranno possedere. 
+	Per la vera identificazione di un'avvenuta ricombinazione è importante che il tasso di retromutazione per il carattere studiato sia basso dato che oltre ai ricombinanti anche i revertanti potranno formare colonie. 
+	Vengono utilizzati spesso doppio mutanti, cioè ceppi che presentano mutazioni diverse, perché è poco probabile che possano avvenire retromutazioni nella stessa cellula. 
+
+		\subsubsection{Processo}
+		Viene preso del DNA libero estratto da delle cellule \emph{$Trp^{+}$} e lo si mette nella stessa provetta della coltura batterica. 
+		Una volta che vengono rimesse sulla piastra, solo le cellule che hanno integrato il nuovo estratto sono in grado di crescere e formare delle colonie.
+		Nei procarioti è possibile osservare la ricombinazione genetica quando i frammenti di DNA omologo vengono trasferiti da una cellula donatrice (donor) ad una cellula ricevente (recipient) tramite trasferimento genico orizzontale.
+
+	\subsection{Trasferimento genico orizzontale}
+
+		\subsubsection{Trasformazione}
+		Durante la trasformazione il DNA di una cellula viene assimilato da un'altra senza contatto diretto.
+		\`E un processo mediante il quale una molecola di DNA libero viene incorporata in una cellula ricevente e determina un cambiamento genetico o ricombinazione.
+
+			\paragraph{Scoperta}
+			La trasformazione viene osservata da Griffith nel $1928$.
+			In questo esperimento viene preso in considerazione il batterio Streptococcus pneumoniae, che presenta due ceppi principali:
+			\begin{multicols}{2}
+				\begin{itemize}
+					\item $S$ smooth patogeno con una capsula polisaccaride esterna.
+					\item $R$ rough non patogeno senza capsula e incapace di causare infezione.
+				\end{itemize}
+			\end{multicols}
+				
+				\subparagraph{Prove sperimentali}\mbox{}\\
+				\begin{multicols}{2}
+					\begin{enumerate}
+    						\item Il ceppo $S$ vivo iniettato nel topo: questo muore e si trovano cellule vive del ceppo $S$ nel cuore; 
+    						\item Il ceppo $R$ vivo iniettato nel topo: questo è sano e non viene trovata nessuna cellula batterica nel cuore;
+    						\item il ceppo $S$ inattivato dal colore (lisi): il topo è sano e non viene trovata nessuna cellula batterica nel cuore; 
+    						\item Il ceppo $R$ vivo insieme al ceppo $S$ inattivato dal colore: il topo muore e vengono trovate delle cellule vive del ceppo S nel cuore.
+					\end{enumerate}
+				\end{multicols}
+
+				\subparagraph{Risultati}
+				Questo esperimento oltre a mettere in luce il ruolo centrale della capsula batterica, mostra come una cellula batterica è capace di acquisire determinate caratteristiche da un altra. 
+				Questo avviene in quanto il materiale genetico che viene rilasciato nell'ambiente esterno mantiene la capacità di codificare informazioni.
+				La trasformazione pu\`o avvenire anche in vitro.
+
+			\paragraph{Lunghezza delle molecole trasformate}
+			A causa della sua estrema lunghezza (ad esempio in $1700\si{\micro\metre}$ in \textit{Bacillus}) la molecola di DNA si può rompere facilmente. 
+			Anche dopo un'estrazione delicata un cromosoma batterico si riduce in frammenti di circa $15kb$. 
+			Questa dimessone rappresenta un tipico frammento trasformabile. 
+
+			\paragraph{Competenza}
+			Si dicono competenti le cellule con l'abilit\`a di acquisire DNA dall'ambiente.
+			La competenza è il risultato delle alterazioni degli involucri cellulari (membrane e parete).
+			Alcune cellule presentano competenza naturale, mentre ad altre deve essere indotta.
+
+				\subparagraph{Competenza indotta}
+				La competenza viene indotta attraverso shock elettrici o esposizione a cloruro di calcio in modo da rendere la membrana pi\`u permeabile al DNA.
+
+			\paragraph{Trasformazione con DNA plasmidico} 
+			Il DNA plasmidico \`e un ottimo vettore di trasformazione in quanto:
+			\begin{multicols}{2}
+				\begin{itemize}
+    					\item I plasmidi si degradano meno facilmente dei frammenti lineari.
+    					\item Non richiedono necessariamente integrazione nel cromosoma batterico tramite ricombinazione omologa; 
+    					\item possono replicarsi all'interno della cellula ospite.
+				\end{itemize}
+			\end{multicols}
+
+			\paragraph{Processo}
+
+				\subparagraph{Introduzione nella cellula e ricombinazione}
+    				Il DNA trasformante (lineare) si lega alla superficie della cellula mediante una proteina legante il DNA. 
+				Successivamente pu\`o penetrare la membrana o l'intero doppio filamento.
+				In alcuni casi un'endonucleasi degrada un filamento e ne viene acquisito solo uno.
+				Questo si associa a una proteina specifica che lo protegge dalle nucleasi.
+				Il frammento viene integrato nel genoma attraverso ricombinazione omologa non reciproca grazie alla proteina \emph{RecA}.
+				Durante la replicazione del DNA eteroduplice si forma una molecola parentale e una di DNA ricombinante.
+
+				\subparagraph{Ricombinazione omologa non reciproca}
+				Si associano i segmenti omologhi e si apre la doppia elica del DNA del ricevente.
+				Questo permette l'appaiamento con la sequenza omologa sul DNA donatore.
+				L'endonucleasi taglia parte del filamento donatore e crea fratture sull'ospite in cui si posiziona il nuovo DNA.
+				Vengono poi riparati i gap sul filamento.
+				Il DNA ospite \`e eteroduplice.
+
+			\paragraph{Introduzione del DNA trasformante nella cellula}\mbox{}\\
+			\begin{multicols}{2}
+				
+				\subparagraph{Gram negativi}
+				\begin{itemize}
+					\item \emph{PilQ}: causa il movimento attraverso la membrana esterna.
+					\item \emph{PilE}: trasferisce il DNA attraverso parete e spazio periplasmatico.
+					\item \emph{ComE}: proteina di legame al DNA.
+					\item $N$: nucleasi che degrada un filamento di DNA.
+					\item \emph{ComA}: canale che consente il passaggio di DNA nel citoplasma.
+				\end{itemize}
+				\columnbreak
+				
+				\subparagraph{Gram positivi}
+    				\begin{itemize}
+        				\item ComGC = PilE;
+        				\item ComEA = ComE;
+        				\item Nuclasi (N);
+        				\item ComEC = ComA;
+        				\item ComFA è un DNA traslocasi in grado di trasferire il DNA nel citoplasma (nessun analogo nei Gram$-$).
+				\end{itemize}
+			\end{multicols}
+		
+		\subsubsection{Trasduzione}
+		La trasduzione implica il trasferimento di DNA da una cellule donatrice ad una cellula ricevente tramite un virus. 
+		Può avvenire sia in cellule eucariote che in procariote, ed è limitata dalla specificità di infezione del virus stesso. 
+
+			\paragraph{Fagi}
+			I virus che infettano i batteri vengono chiamati batteriofagi o fagi.
+			I fagi che infettano un batterio possono compiere due cicli.
+
+				\subparagraph{Struttura}
+				I fagi sono composti da una testa o capside proteico che contiene RNA o DNA.
+				La testa presenta un collo seguito da collare e guaina della coda.
+				All'estremità si trova una piastra basale con attaccata la coda di filamenti proteici. 
+
+				\subparagraph{Ciclo litico}
+				\begin{enumerate}
+    					\item Il batteriofago si fissa alla superficie batterica e inietta il suo acido nucleico.
+    					\item Il genoma del virus si chiude ad anello, si replica e sfruttando gli organuli  dell'ospite presiede alla sintesi di nuove particelle virali.
+    					\item Le nuove particelle virali si assemblano e formano nuovi virus che degradano la cellula ospite. 
+				\end{enumerate}
+
+				\subparagraph{Ciclo lisogenico}
+				Il ciclo lisogenico \`e un evento reversibile
+				\begin{enumerate}
+    					\item Il batteriofago si fissa alla superficie batterica e inietta il suo acido nucleico.
+    					\item Il genoma del virus si chiude ad anello e si integra con quello della cellula ospite.
+						Diventa in questo modo un profago.
+    					\item La cellula ospite si divide mantenendo il genoma virale integrato nel proprio DNA.
+				\end{enumerate}
+
+				\subparagraph{Classificazione dei fagi in base al ciclo}
+				La capacit\`a di svolgere ciclo litico o lisogenico \`e caratteristica per una specie di fagi.
+				\begin{multicols}{2}
+					\begin{itemize}
+						\item I fagi temperati sono in grado di compiere a seconda delle condizioni uno dei due cicli.
+						\item I fagi virulenti possono compiere solo il ciclo litico e per questo sono immediatamente patogeni.
+					\end{itemize}
+				\end{multicols}
+			
+			\paragraph{Meccanismo della trasduzione}\mbox{}\\
+			\begin{multicols}{2}
+				\begin{enumerate}
+		    			\item Il fago entra in contatto con la cellula ospite, inietta il proprio materiale genetico e devia il metabolismo cellulare verso la sintesi di nuove particelle virali o virioni. 
+    					\item Durante l'assemblaggio dei virioni, i frammenti di DNA della cellula ospite possono essere incapsulati e trasferiti a un'altra cellula ospite.
+				\end{enumerate}
+			\end{multicols}
+
+			\paragraph{Trasferimento dei geni}
+			Il trasferimento dei geni dell'ospite utilizzando il virus come vettore pu\`o avvenire in due modi.
+
+				\subparagraph{Trasduzione generalizzata}
+				Si intende per trasduzione generalizzata un processo in cui qualunque frammento di DNA derivante dal genoma dell'ospite pu\`o diventare la componente di DNA dei nuovi virus.
+				Durante il ciclo litico gli enzimi responsabili per l'impacchettamento del DNA virale nella testa del fago impacchettano anche DNA dell'ospite.
+				Queste particelle vengono rilasciate durante la lisi della cellula.
+				Le particelle trasducenti non creano una normale infezione virale e vengono dette pertanto difettive.
+				Questo avviene in quanto i geni batterici hanno sostituito alcuni geni virali indispensabili.
+				Il lisato, formato da particelle e virioni normali viene usato per infettare una popolazione di cellule riceventi.
+				Una parte di esse entrano in contatto con le particelle traducenti e acquisiscono il DNA del precedente batterio ospite.
+				Il DNA di queste particelle non pu\`o replicarsi ma pu\`o subire una ricombinazione genetica con il DNA del nuovo ospite.
+
+				\subparagraph{Trasduzione specializzata}
+				Si intende per trasduzione specializzata un processo in cui il DNA di una specifica regione cromosomica dell'ospite viene integrato con il genoma del virus.
+				Permette un trasferimento efficiente e garantisce a una piccola regione del cromosoma batterico di venire trasdotta indipendentemente dal resto.
+    
+				\subparagraph{Esempio - trasduzione dei geni del galattosio}
+				La trasduzione dei geni del galattosio a opera del fago $\lambda$ di E. coli \`e un esempio di trasduzione specializzata.
+				La regione in cui $\lambda$ si integra nel cromosoma \`e adiacente ai geni che controllano gli enzimi coinvolti nella catabolisi del galattosio.
+				Durante la fase di induzione il DNA del profago viene escisso come un'unit\`a e si riproduce.
+				In casi rari il genoma fagico viene escisso in modo non corretto e alcuni geni del cromosoma batterico sono erroneamente escissi insieme al DNA fagico.
+				Questa particella \emph{$\lambda$ dgal} \`e difettiva a causa della perdita dei geni fagici e non pu\`o generare fagi maturi in un'infezione successive.
+				Cellule coinfettate da \emph{$\lambda$ dgal} e da un fago helper ($\lambda$ non difettivo) si ottiene un lisato con alcune particelle \emph{dgal} e un gran numero di virioni normali.
+				Se una coltura batterica auxotrofa per galattosio \emph{$Gal^-$} viene infettata con il lisato misto si possono selezionare i batteri trasducenti \emph{$Gal^+$}.
+				Inducendo i doppi lisogeni con \emph{$\lambda$ dgal} e fago helper si ottiene un lisato ricco di fagi \emph{dgal} in modo da trasdurre con alta efficienza.
+
+		\subsubsection{Coniugazione}
+		La coniugazione è il principale meccanismo di trasferimento dei plasmidi da cellulla a cellula. 
+		Questa funzione viene codificata dagli stessi plasmidi. 
+		Si tratta di un processo replicativo alla fine del quale entrambe le cellule conterranno una copia del plasmide. 
+		La trasmissibilità mediante coniugazione viene controllata da una serie di geni localizzati nella regione \textit{tra} del plasmide. 
+		Alcuni plasmidi hanno la capacità di trasferirsi tra organismi molto diversi fra loro: tra gram-negativi e gram-positivi, tra batteri e cellule vegetali, tra batteri e funghi.
+
+			\paragraph{I plasmidi}
+			I plasmidi sono degli elementi genetici, solitamente di forma circolare, in grado di replicarsi indipendentemente dal cromosoma dell'ospite.
+			Contengono geni non essenziali, ma che in certe condizioni possono diventare utili alla vita dell'ospite. 
+			La loro dimensione varia da $1Kb$ a $1 Mb$ e sono presenti da $1$ ad oltre $100$ copie in una cellula ospite. 
+			Sono conosciuti migliaia di tipi differenti e sono presenti oltre $300$ tipi in \textit{E. coli}. 
+			Gli enzimi che vengono coinvolti nella replicazione dei plasmidi sono gli stessi utilizzati per la replicazione del genoma della cellula ospite.
+
+				\subparagraph{Incompatibilit\`a}
+				Due plasmidi incompatibili non possono essere mantenuti assieme nella cellula ospite in quanto competono l'un l'altro per l'inizio della replicazione. 
+				Si possono formare gruppi di incompatibilit\`a: plasmidi appartenenti a un gruppo condividono un meccanismo comune di regolazione della replicazione e sono correlati.
+				Una coltura batterica pu\`o contenere diversi tipi di plasmidi se questi non sono geneticamente correlati: appartengono a diversi gruppi di incompatibilit\`a.
+
+				\subparagraph{Plasmidi episomi}
+				I plasmidi episomi sono in grado di integrarsi nel cromosoma.
+				Quando lo fanno la loro replicazione procede sotto il controllo del cromosoma stesso.
+
+				\subparagraph{Curing}
+				Si dice curing la perdita di un plasmide da parte di una cellula.
+				Pu\`o avvenire spontaneamente in popolazioni in cui non vi \`e pressione selettiva per il mantenimento del plasmide.
+
+			\paragraph{Dimostrazione della coniugazione batterica}
+			Per dimostrare che avviene coniugazione batterica eue ceppi con doppia o tripla auxotrofia vengono mescolati. 
+			Se avviene crescita su terreno minimo questo indica eventi di ricombinazione tra i $2$ cromosomi batterici.
+			Questo esperimento non dà alcuna informazione sulla direzione del trasferimento del materiale genetico.
+
+				\subparagraph{Esperimento del tubo a $\mathbf{U}$}
+				L'esperimento del tubo a $U$ dimostra che la ricombinazione genetica nel processo di coniugazione avviene per contatto diretto tra cellule batteriche.
+				Si prende un tubo di coltura e a una sua estremit\`a viene collegata una pompa per far circolare il terreno di coltura liquido.
+				Nel mezzo si pone un filtro di vetro poroso che consente il passaggio dei nutriente ma non delle cellule batteriche.
+				Entrambe le popolazioni possiedono due auxotrofie opposte.
+				Se avvenisse coniugazione queste verrebbero trasformate in prototrofie.
+				Piastrando poi le due colonie su terreno minimo non si osserva nessuna crescita in quanto il filtro ha impedito il contatto diretto e la ricombinazione delle popolazioni.
+
+			\paragraph{Plasmide \emph{F} (fertility) di \textit{E. coli}}
+			Il plasmide \emph{F} di E. coli \`e formato da $99159 bp$.
+			\begin{multicols}{2}
+				\begin{itemize}
+    					\item Una regione contiene geni coinvolti nella replicazione del plasmide.
+    					\item La regione \emph{tra} contiene geni coinvolti nel trasferimento coniugativo come quelli per la sintesi del pilo $IV$.
+					\item La regione \emph{oriT} è l'origine del trasferimento durante la coniugazione. 
+    					\item Due regioni trasponibili (mobili) consentono l'integrazione del plasmide nel cromosoma batterico. 
+				\end{itemize}
+			\end{multicols}
+
+			\paragraph{Coniugazione tra una cellula \emph{$F^{+}$} e una \emph{$F^{-}$}}
+			
+				\subparagraph{Processo di coniugazione}\mbox{}\\
+				\begin{multicols}{2}
+					\begin{enumerate}
+    						\item Si crea la struttura coniugativa; 
+    						\item Il pilo si depolimerizza portando le due strutture in contatto.
+						\item Un filamento del DNA del fattore \emph{F} viene tagliato da una endonucleasi e si muove attraverso il ponte coniugativo.
+    						\item Il DNA complementare viene sintetizzato su entrambi i singoli filamenti.
+    						\item Si completa il movimento attraverso il ponte di coniugazione e la sintesi del DNA.
+    						\item La ligasi circolarizza la molecola di DNA. 
+						\item I batteri coniugati si separano. 
+					\end{enumerate}
+				\end{multicols}
+				In questo modo il batterio exconiugante ha acquisito un plasmide e quello donatore non l'ha perso.
+
+				\subparagraph{Replicazione a ciclo rotante}
+				La replicazione a ciclo rotante \`e una replicazione asimmetrica e procede in una sola direzione: solo una delle eliche parentali viene replicata.
+				L'endonucleasi taglia il plasmide a \emph{oriT}.
+				Dopo un giro completo il filamento comincia il processo di trasferimento durante cui avviene la replicazione di un filamento del plasmide.
+				In corrispondenza del poro coniugativo si trova un enzima bifunzionale \emph{rilassosoma} o \emph{Tra1}.
+				Questo enzima \`e codificato dalla cellula donatrice e ha attivit\`a nucleasica ed elicasica.
+				La sintesi del nuovo filamento avviene in maniera continua nella cellula donatrice e in maniera discontinua nella cellula ricevente.
+
+				\subparagraph{Replicazione e trasferimento del plasmide}\mbox{}\\
+				\begin{multicols}{2}
+					\begin{itemize}
+    						\item L'enzima \emph{Tra1} taglia il DNA in \emph{oriT} e porta a un rilassamento della molecola stessa (srotolamento). 
+						\item L'estremità $5'$ del filamento che deve essere trasferito o external strand si lega covalentemente all'aminoacido tirosina dell'enzima. 
+							Il primo tratto del filamento codifica per le proteine \emph{SSB} che proteggono il singolo filamento di DNA trasferito dall'azione delle nucleasi. 
+    						\item Una volta avvenuto il legame dell'enzima al poro coniugativo inizia la replicazione del retained strand, filamento stampo che non viene trasferito.
+						\item Si sintetizza il DNA donatore mediante il meccanismo a ciclo rotante.
+						\item Il filamento di DNA viene spinto nel batterio ricevente dove viene convertito in DNA a doppio filamento.
+					\end{itemize}
+				\end{multicols}
+				La cellula ricevente presenta sulla superficie delle proteine che riconoscono il sito di attacco. 
+
+			\paragraph{Formazione di ceppi \emph{Hfr} e mobilizzazione del cromosoma}
+			Il plasmide F è un episoma e quindi può integrarsi nel cromosoma dell'ospite e trasferire il cromosoma alla cellula ricevente. 
+			Le cellule che possiedono questo plasmide non integrato si indicano \emph{$F^{+}$}, mentre quelle che hanno il plasmide integrato si indicano \emph{Hfr} (High frequency of recombination). 
+			Entrambe agiscono come donatori ma non sono in grado di acquisire stabilmente una seconda copia del plasmide F o di plasmidi ad esso correlati.
+
+				\subparagraph{Effetti del plasmide \emph{F} nella cellula}
+				Il plasmide \emph{F} nella cellula:
+				\begin{multicols}{2}
+					\begin{itemize}
+    						\item Conferisce la capacit\`a di sintetizzare il pilo; 
+    						\item Mobilizza il DNA cromosomico per il suo trasferimento in un'altra cellula quando integrato.
+    						\item Altera i recettori di superficie, in modo che la cellula non sia più in grado di comportarsi come un ricevente nella coniugazione. 
+					\end{itemize}
+				\end{multicols}
+
+				\subparagraph{Coniugazione di cellule \emph{Hfr}}
+				Le cellule \emph{Hfr} trasferiscono una porzione del loro DNA e del plasmide \emph{F} ad una cellula ricevente.
+				La cellula ricevente viene ricombinata ricombinata ma rimane \emph{$F^{-}$} in quanto il plasmide non viene passato completamente.
+				La struttura rimane instabile fino a che viene integrata nel genoma.
+
+				\subparagraph{Integrazione del plasmide F}
+				L'inserzione può avvenire in varie regioni del cromosoma in corrispondenza di siti specifici \emph{IS} (insertion sequence) che mostrano omologia con la sequenza del plasmide. 
+				Una volta che il plasmide è stato integrato, non è più in grado di controllare la propria replicazione ma rimane capace di sintetizzare il \emph{pilus}. 
+       				Il processo di coniugazione rimane analogo rispetto al \emph{F} non integrato, con l'eccezione che vengono trasferiti anche geni cromosomali.
+
+				\subparagraph{Uso dei ceppi \emph{Hfr} negli incroci genetici}
+				Durante la coniugazione sia le cellule del donatore sia quelle del ricevente sono vitali. 
+				Si devono pertanto selezionare i ricombinanti desiderati in modo che possano crescere senza che i ceppi parentali formino colonie. 
+				Normalmente si utilizza:
+				\begin{multicols}{2}
+					\begin{itemize}
+    						\item Un ricevente resistente a un antibiotico ma auxotrofo per qualche sostanza.
+    						\item Un donatore sensibile all'antibiotico ma prototrfo per la stessa sostanza.
+					\end{itemize}
+				\end{multicols}
+				Per esempio si ha:
+				\begin{multicols}{2}
+					\begin{itemize}
+    						\item Donatore \emph{Hfr} sensibile alla streptomicina e prototrofo per il lattosio.
+    						\item Ricevente \emph{$F^{-}$} resistente alla streptomicina e auxotrofo per il lattosio.
+    						\item Un terreno selettivo con streptomicina e privo di lattosio.
+					\end{itemize}
+				\end{multicols}
+				Le colonie che crescono nel terreno sono quelle in cui \`e avvenuta coniugazione.
+				
+				\subparagraph{Processo di coniugazione tra \emph{Hfr} e \emph{$\mathbf{F^-}$}}\mbox{}\\
+				\begin{multicols}{2}
+					\begin{enumerate}
+						\item Il fattore \emph{F} viene integrato nel cromosoma batterico e la cellula diventa una cellula \emph{Hfr}; 
+						\item Avviene la coniugazione tra una cellula \emph{Hfr} e una \emph{$F^{-}$}. 
+						\item Il fattore F viene tagliato da un enzima creando l'origine di trasferimento del cromosoma; 
+    						\item Inizia il trasferimento del cromosoma attraverso il ponte di coniugazione; 
+    						\item Inizia la replicazione su entrambi i frammenti mentre continua il trasferimento del cromosoma. 
+							\emph{F} si trova alla fine del cromosoma adiacente all'origine.
+					\end{enumerate}
+				\end{multicols}
+				Tipicamente la coniugazione si interrompe prima del trasferimento completo del cromosoma: solo alcuni geni sono trasferiti e vengono ricombinati.
+
+				\subparagraph{Coniugazione interrotta}
+				L'ordine in cui i geni sono presenti sul cromosoma donatore può essere determinato dalla cinetica di trasferimento dei geni individuali. 
+				Le due cellule possono essere separate per agitazione a un dato tempo per controllare i ricombinanti sul terreno selettivo.
+				I geni più vicini all'origine di trasferimento (\emph{oriT}) sono quelli che entrano per primi nelle cellule riceventi e sono quindi presenti in una percentuale più alta dei ricombinanti rispetto ai geni che poi entreranno. 
+
+				\subparagraph{Trasferimenti di geni cromosomali al plasmide \emph{F}}
+				I plasmidi \emph{F} integrati possono occasionalmente separarsi dal cromosoma incorporando geni cromosomici.
+				In questo caso vengono detti plasmidi \emph{$F'$}. 
+				Contengono stabilmente dei geni cromosomali normalmente espressi che possono essere trasmessi ad altre cellule. 
+				Trasferendo un plasmide \emph{$F'$} in una cellula ricevente si possono creare delle cellule diploidi che possono contenere due copie dello stesso gene. 
+				La coniugazione con \emph{$F'$} deriva da un'escissione scorretta del fattore \emph{F} nel cromosoma ospite. 
+				Alcuni geni dell'ospite vengono prelevati da \emph{F} e possono essere trasferiti ad un'altra cellula mediante la coniugazione. 
+				Alle volte l'escissione avviene in modo impreciso e il plasmide \emph{F} porterà con se una sequenza adiacente del cromosoma batterico. 
+				Si ottiene un plasmide \emph{$F'$} portatore del marcatore \emph{$lac^{+}$}. 
+				Se \emph{$F'lac^{+}$} viene trasferito per coniugazione in una cellula \emph{$lac^{-}$}, si ottiene un diploide parziale (merodiploide) \emph{$lac^{+}/lac^{-}$}.
+				Questo processo viene anche detto di complementazione.
+
+				\subparagraph{Formazione di un fattore \emph{$\mathbf{F'}$} e coniugazione con un ceppo \emph{$F^-$}}\mbox{}\\
+				\begin{multicols}{2}
+					\begin{enumerate}
+    						\item Dopo l'escissione illegittima \emph{F} può acquisire una porzione di cromosoma batterico e diventare \emph{$F'$}.
+						\item La cellula portatrice di \emph{$F'$} può coniugare e trasferire il plasmide a una cellula \emph{$F^-$}.
+						\item Si forma la coppia coniugativa.
+    						\item Il fattore \emph{$F'$} replica mentre il filamento viene trasferito.
+    						\item La cellula \emph{$F'$} ricevente diventa parzialmente diploide ed è chiamata merozigote. 
+					\end{enumerate}
+				\end{multicols}
 \section{I trasposoni e la trasposizione}
-Alcuni geni o gruppi di geni hanno la capacità di muoversi da una posizione ad un'altra nel genoma e sono detti elementi trasponibili o trasposoni. Contengono dei geni che codificano una trasposasi e brevi ripetizioni terminali invertite (IR) alle estremità del loro DNA. La trasposasi riconosce le proprie sequenze IR nel genoma, taglia il DNA del sito bersaglio ed inserisce il trasposone o una sua copia. 
-\\Le sequenze di inserzione (IS) sono i tipi più semplici di elementi trasponibili e non trasportano informazioni geniche oltre a quelle necessaria per muoversi in nuovi siti. 
-\\I trasposoni complessi contengono uno o più geni non coinvolti nel meccanismo di trasposizione stesso, come ad esempio geni di antibiotico-resistenza.
-\\La trasposizione è un evento di ricombinazione che non avviene tra sequenze omologhe e non richiedel'uso del sistema di ricombinazione della cellula. 
-\\Questo meccanismo non avviene random e richiede il riconoscimento di una specifica sequenza di basi. La ricombinazione mediata dai trasposoni viene detta ricombinazione sito specifica (site spefic-recombination).  
-\\Per prima cosa la trasposasi riconosce, taglia e lega il DNA durante il processo di trasposizione. Poi una breve sequenza di basi del DNA bersaglio viene duplicata nel sito di integrazione. Questo avviene perchè vengono creati dei tagli sfalsati di DNA a singolo filamento. Il trasposone si lega alle estremità a singolo filamento e il conseguente riparo delle sequenze genererà una duplicazione. Si ha la formazione di sequenze ripeture dirette (direct repeats, DR) che fiancheggiano i trasposoni. 
-\\La duplicazione delle sequenze del bersaglio avviene grazie al fatto che il taglio che compie la trasposasi sul DNA bersaglio è asimmetrico:
-\begin{itemize}
-    \item I due filamenti saranno sfalsati;
-    \item La trasposasi inserisce la sequenza del trasposone; 
-    \item Altri enzimi colmano i buchi. In questo modo sintetizzano un nuovo filamento per creare una giunzione a livello della catena di nucleotidi (ligasi). Le sequenze che si trovano sulle estremità risultando una copia. 
-\end{itemize}
-Sono conosciuti due meccanismi di trasposizione. Entrambi i tipi di trasposizione cominciano nello stesso modo: avviene il riconoscimento da parte della trasposasi dei punti IR, il taglio e l'inserzione del trasposone all'interno del DNA bersaglio. Poi si differenziano:
-\begin{enumerate}
-    \item \textbf{Conservativo} $\xrightarrow{}$ l'elemento viene escisso da un sito del cromosoma e reinserito in un secondo sito. In questo caso il numero di copie resta invariato. Poi vengono fatti altri tagli prima che avvenga la replicazione o la riparazione del DNA. In questo modo il trasposone viene espulso completamente dal DNA donatore. La riparazione porta alla duplicazione delle sequenze target e al completamento della trasposizione. Quindi la trasposasi agisce come dimero o tetramero e l'operazione di taglio e di riunione avvengono in contemporanea sul trasposone o il sito bersaglio.
-    \item \textbf{Replicativo} $\xrightarrow{}$ una nuova copia del trasposone viene prodotta e inserita in un nuovo sito. La replicazione avviene senza il taglio completo dei trasposoni dal sito donatore. Questo forma una struttura ibrida intermedia, la struttura co-integrata, dove le due molecole si fondono per un breve periodo. La replicazione del riparo, con DNA polimearsi e ligasi, avviene mentre l'elemento mobile è ancora attaccato sia al sito originale sia al bersaglio. Questo porta, grazie alla resolvasi, alla scomposizione delle strutture separate, ciascuna provvista di una copia dell'elemento trasponenete. 
-\end{enumerate}
-\subsection{Esperimento di trasposizione}
-Vengono prese in esame due cellule batteriche: F\ap{+} e F\ap{-}. Si vuole dimostrare la mobilità di un trasposone Tn3 dal suo sito donatore sul plasmide X a quello ricevente sul plasmide F. 
-\\Il ceppo F\ap{+} è:
-\begin{itemize}
-    \item resistente all'ampicillina che è codificata da Tn3;
-    \item resistente alla kanamicina che è codificata da un gene sul plasmide F; 
-    \item il fattore F viene modificato per impedirne l'inserimento nel cromosoma.
-\end{itemize}
-Il ceppo F\ap{-} presenta:
-\begin{itemize}
-    \item una mutazione polA1 che impedisce al plasmide di replicarsi; 
-    \item resistenza a Nal che è l'acido nalidixico.
-\end{itemize}
-Se il trasposone salta da X a F si forma una struttura F-Tn3 che è teoricamente trasferibile per coniugazione al bettrio F. Dopo l'incrocio i batteri vengono selezionati per piastramento su terreni che presentano i tre antibiotici. Nal serve per selezionare il ricevente, mentre gli altri due per verificare il corretto trasferimento di informazioni geniche. 
-\\Il cointegrato, lo stadio intermedio di questo processo, è formato da due plasmidi F e X e due coppie di Tn3. In questo stadio si prevede la risoluzione del cointegrato in due plasmidi F e X ognuno portatore di Tn3. Si parla quindi di trasposizione replicativa che si svolge in due fasi principali:
-\begin{itemize}
-    \item Produzione del cointegrato; 
-    \item Risoluzione di questa struttura.
-\end{itemize}
-\subsection{Mutagenesi con elementi trasponibili}
-Se il sito di inserzione per un elemento trasponibile è all'interno di un gene l'inserzione del trasposone porterà all'attivazione (disruption) del gene considerato. Si ha una variazione del ceppo e questa mutagenesi viene indotta con elementi trasponibili. 
-\subsubsection{Random Mutagenesis Protocol}
-I batteri che contengono il trasposone possono essere selezionati attraverso l'isolamento di colonie su un terreno ricco contenente antibiotico kanamicina. Questo tipo di approccio viene utilizzato, per esempio, per identificare i geni essenziali di un certo batterio. 
-\\Nella prima piastra viene utilizzato il DAP per permettere la crescita del batterio donatore (\textit{E. coli}). In questo modo sia il donatore sia il ricevente possono crescere. 
-\\Nella seconda piastra viene eliminato il DAP per isolare il batterio ricevente. Infatti, senza DAP, l'\textit{E. coli} donatore non riesce a vivere. Dopo viene aggiunto l'antibiotico per selezionare il nuovo batterio che avrebbe dovuto ricevere la resistenza dell'antibiotico.  
-\section{Genetica batterica e clonaggio genico}
-Il clonaggio ha lo scopo di isolare una grande quantità di geni specifici in forma pura. La strategia è quella di spostare il gene o la regione di interesse da un genoma grande e complesso a uno piccolo e più semplice. 
-\\Le finalità sono:
-\begin{itemize}
-    \item Isolare un gene specifico e replicarlo, definire la struttura del gene clonato;
-    \item Definire la modalità di espressione (spaziale, temporale, induzione ambientale); 
-    \item Espreimere il gene in altri organismi per studiarne la funzione;
-    \item Produrre una grande quantità della proteina codificata.
-\end{itemize}
-Per fare tutto questo vengono utilizzati degli enzimi di restrizione. Questi sono degli enzimi specifici che hanno la funzione di riconoscere determinate sequenze nel DNA. Sono sempre delle sequenze palindromiche, stessa sequenza sui filamenti di DNA, anche se di lunghezza variabile. 
-\\Se il taglio viene fatto diritto e simmetrico, le parti vengono chiamate blunt ends (es. AIuI e HaeIII); mentre se viene fatto in modo asimmetrico, sono dette sticky ends (es. BamHI, HindIII e EcoRI).
-\\Le fasi principali del clonaggio sono:
-\begin{enumerate}
-    \item Isolamento e frammentazione del DNA originario, anche da specie diverse da quelle batteriche, con enzimi di restrizione che viene poi usato per la restrizione; 
-    \item Giunzione dei frammenti ad un vettore di clonaggio, derivato da un plasmide o da un virus; 
-    \item Introduzione, mantenimento e moltiplicazione del DNA clonato nell'organismo ospite. Rendo i batteri competenti, cioè con l'abilità di acquisire DNA dall'ambiente, e li forzo a esprimere il gene. 
-\end{enumerate}
-\subsection{I plasmidi come vettori di clonaggio}
-Questi plasmidi presentano determinate caratteristiche:
-\begin{itemize}
-    \item \textbf{Dimensione ridotta} $\xrightarrow{}$ facilita l'isolamento e la manipolazione del DNA; 
-    \item \textbf{Origine di replicazione} $\xrightarrow{}$ replicazione indipendente del DNA batterico; 
-    \item \textbf{Numero elevato di copie} $\xrightarrow{}$ facilita l'amplificazione del DNA;
-    \item \textbf{Presenza di marcatori selezioabili} $\xrightarrow{}$ facilitano il riconoscimento e la selezione dei cloni. 
-\end{itemize}
-Per garantire la loro integrità, i plasmidi che vengono utilizzati per il clonaggio genico sono modificai in modo da prevenire il loro trasferimento coniugativo e per questo motivo sono F\ap{-}. La loro inserzione nelle cellule avviene per trasformazione. 
-\subsubsection{Vettori plasmidici di prima generazione}
-L'inserimento di DNA provoca la disattivazione del gene di resistenza alla tetraciclina. Si ha una selezione indiretta dei plasmidi con DNA esogeno.
-\\Si ipotizza di avere un batterio con due resistenze agli antibiotici, tra cui la tetramicina. L'inserimento di DNA provoca la disattivazione del gene. L'enzima riconosce una sequenza interna al gene e inserisce lì il frammento, così facendo il batterio diventa sensibile alla tetraciclina. 
-\\Il DNA viene tagliato con gli stessi enzimi che poi vengono utilizzati per il taglio del plasmide perchè così facendo le estremità del gene e del plasmide divengono complementari così da poter ricostruire l'integrità del plasmide. 
-\\Se non si riesce a inserire nulla nel plasmide e si aggiunge la ligasi per chiudere la struttura, quello che si ottiene è un plasmide vuoto (senza modifiche). Per distinguerli dagli altri devo usare la tecnica di replica planting, quindi li sottopongo a entrambi gli antibiotici, in modo da eliminare una popolazione di batteri, quella in cui c'è stato l'inserimento nel gene, e poi ad uno solo.
-\\Se confronto le due piastre riesco a selezionare i primi che sono stati utilizzati. 
-\subsubsection{Vettori plasmidici di seconda generazione}
-Questo metodo richiede meno tempo rispetto a quello visto in precedenza. 
-\\Con l'inserzioe del DNA da clonare viene inattivato il gene lacZ che codifica la beta-galattosidasi, che esegue la scissione del galattosio. 
-\\L'X-Gal viene aggiunto al terreno di coltura. Questo è un omologo del galattosio che prende un colore blu intenso quando viene scisso. Le colonie blu hanno quindi un gene lacZ funzionale dato che non contengono nessun insert. 
-\\Se la $\beta$-galattosidasi non funziona X-Gal non viene scisso e non diventa blu; mentre se il gene è stato inserito in mezzo al sito della $\beta$-galattosidasi la colonia diventa bianca. 
-\\Alcuni siti di restrizione possono essere riconosciutu da più enzimi e questo aumenta la probabilità e la facilità di apertura di questo sito. Vengono dette regioni polilinker. 
-\\Un gene che viene selezionato per essere analizzato non deve avere sequenze iterne riconosciute dall'enzima di restrizione usato perchè altrimenti ci si troverebbe davanti ad un gene non funzionante. 
-\subsection{Il batteriofago lambda come vettore di clonaggio}
-Il fago lambda può essere usato come vettore di clonaggio. La regione tra i geni J e N del genoma virale non è essenziale e può essere sostituita con un DNA esogeno. 
-\\Queste regioni permettono l'entrata del batterio nel ciclo litogenico. Si possono utilizzare come luoghi per inserire i geni d'interesse se si vuole che il batterio abbia solamente il ciclo litico. 
-\\Con questa tecnica è possibile creare frammenti anche piuttosto grandi.
-\subsubsection{Fasi di cloanggio con il vettore lambda}
-\begin{enumerate}
-    \item Isolamento del DNA del fago e digestione con un enzima di restrizione; 
-    \item Ligazione dei due frammenti di lambda ai frammenti del DNA esogeno. Vengono selezionati i frammeti di DNA esogeno della lunghezza appropriata, circa 20 kb); 
-    \item Impacchettamento del DNA per agggiunta di estratti cellulari contenenti le proteine della testa e della coda con formazione spontanea di particelle fagiche (incapsulamento); 
-    \item Infezione di \textit{E. coli} con sospesione di fagi che contengono il gene preso coe riferimento. Si piastra il tutto e creano dei buchi trasparenti el tappeto batterico. Si procede con l'isolamento dei cloni fagici tramite analisi delle placche formatesi su una coltura del ceppo ospite; 
-    \item Analisi dei fagi ricombinanti. 
-\end{enumerate}
-\subsection{La mutagenesi sito-diretta cosente di causare mutazioni all'interno di uno specifico gene}
-La mutagenesi sito-diretta viene utilizzata per studiare l'azione di proteine che contengno specifiche sostituzioni aminoacidiche. Il vettore contenente il DNA mutato viene inserito in un ceppo batterico mutante incapace di produrre la proteina in questione. 
-\\Per prima cosa si ha l'introduzione del gene d'interesse in un vettore a singolo filamento. Il frammento di DNA modificato (oligonucleotide sintetico) si può legare al vettore per complementarietà e viene esteso attraverso la DNA polimerasi. Poi seguono le fasi di cloanggio e selezione. 
-\subsection{Mutagenesi a cassetta e inattivazione genica}
-\begin{enumerate}
-    \item Un plasmide contenente il gene X viene tagliato con l'enzima di restrizione EcoR1 per introdurre una cassetta di resistenza alla kanamicina; 
-    \item Dopo la ligazione abbiamo un plasmide che contiene la cassetta di kanamicina come mutazione di inserzione nel gene X. Il plasmide viene linearizzato con un altro enzima di restrizione BamH1; 
-    \item Vengono trasformate le cellule batteriche che contengono una versione wildtype del gene X; 
-    \item Dopo la ricombinazione di possono selezionare i batteri mutanti (gene X inattivato) su terreno contenente kanamicina.
-\end{enumerate}
+	
+Alcuni geni o gruppi di geni hanno la capacità di muoversi da una posizione ad un'altra nel genoma e sono detti elementi trasponibili o trasposoni. 
+
+	\subsection{Introduzione}
+	I trasposoni contengono i geni che codificano una trasposasi e brevi ripetizioni terminali invertite \emph{IR} alle estremità del loro DNA. 
+	La trasposasi riconosce le proprie sequenze \emph{IR} nel genoma, taglia il DNA del sito bersaglio ed inserisce il trasposone o una sua copia. 
+	Le sequenze di inserzione \emph{IS}  sono i tipi più semplici di elementi trasponibili e non trasportano informazioni geniche oltre a quelle necessaria per muoversi in nuovi siti.
+	I trasposoni complessi contengono uno o più geni non coinvolti nel meccanismo di trasposizione stesso, come ad esempio geni di antibiotico-resistenza.
+
+	\subsection{Trasposizione}
+	La trasposizione è un evento di ricombinazione che avviene tra sequenze non omologhe.
+	Non richiede l'uso del sistema di ricombinazione della cellula. 
+	Richiede il riconoscimento di una specifica sequenza di basi e viene pertanto detta ricombinazione sito specifica.
+	
+		\subsubsection{Meccanismo di trasposizione}
+		La trasposasi riconosce, taglia e lega il DNA durante il processo di trasposizione. 
+		Una breve sequenza di basi del DNA bersaglio viene duplicata nel sito di integrazione. 
+
+		\subsubsection{Duplicazione delle sequenze bersaglio}
+		La duplicazione avviene in quanto il taglio della trasposasi \`e asimmetrico e crea filamenti sfalsati.
+		Dopo l'inserimento da parte della trasposasi enzimi coinvolti nella riparazione del DNA riempiono i buchi, sintetizzando una giunzione a livello della catena
+
+
+	\subsection{Tipologie di meccanismi di trasposizione}
+	Sono conosciuti due meccanismi di trasposizione.
+	Entrambi iniziano allo stesso modo: la trasposasi riconosce i punti \emph{IR}, taglia e inserisce il trasposone all'interno del DNA bersaglio.
+
+		\subsubsection{Meccanismo conservativo}
+		Nel meccanismo conservativo l'elemento viene escisso da un sito del cromosoma e reinserito in un secondo.
+		Il numero di trasposoni rimane invariato.
+		Vengono creati dei tagli in modo da espellere il trasposone dal DNA donatore e la riparazione duplica le sequenze target e completa l'evento.
+		La trasposasi agisce come dimero o tetramero e l'operaizone di taglio e riunione avvengono in contemporanea sul trasposone e sul sito bersaglio.
+
+		\subsubsection{Meccanismo replicativo}
+		Nel meccanismo replicativo viene prodotta e inserita in un nuovo sito una nuova copia del trasposone.
+		La replicazione avviene senza il taglio completo dei trasposoni dal sito donatore.
+		Si forma un co-integrato intermedio, dove le due molecole si fondono per un breve periodo.
+		La replicazione del trasposone attraverso DNA polimerasi avviene mentre l'elemento mobile \`e ancora attaccato al sito originale e a quello bersaglio.
+		Una resolvasi scompone il co-integrato in due strutture separate, ognuna con una coppia del trasposone.
+
+		
+	\subsection{Verifica di un evento di trasposizione}
+	Si considerano due cellule batteriche: \emph{$F^+$} e \emph{$F^-$}. 
+	Si vuole dimostrare la mobilità di un trasposone \emph{Tn3} dal suo sito donatore sul plasmide \emph{X} a quello ricevente sul plasmide \emph{F}.
+
+		\subsubsection{Ceppo \emph{$\mathbf{F^+}$}}
+		Il ceppo \emph{$F^+$} possiede:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Resistenza all'ampicillina codificata da \emph{Tn3} sul plasmide \emph{X}.
+				\item Resistenza alla kanamicina codificata da un gene sul plasmide \emph{F}.
+			\end{itemize}
+		\end{multicols}
+		Inoltre il fattore \emph{F} viene modificato in modo che non si integri nel cromosoma.
+
+		\subsubsection{Ceppo \emph{$\mathbf{F^-}$}}
+		Il ceppo F\ap{-} presenta:
+		\begin{multicols}{2}
+			\begin{itemize}
+    				\item Mutazione \emph{polA1} che impedisce al plasmide di replicarsi; 
+    				\item Resistenza a \emph{Nal} (acido nalidixico).
+			\end{itemize}
+		\end{multicols}
+
+		\subsubsection{Movimento del trasposone}
+		Se il trasposone salta da \emph{X} a \emph{F} si forma una struttura \emph{F-Tn3} trasferibile per coniugazione al batterio \emph{F}. 
+		Dopo l'incrocio i batteri vengono selezionati per piastramento su terreni che presentano i tre antibiotici. 
+		\emph{Nal} serve per selezionare il ricevente, mentre gli altri due per verificare il corretto trasferimento di informazioni geniche. 
+
+		\subsubsection{Cointegrato}
+		Il cointegrato, lo stadio intermedio di questo processo, è formato da due plasmidi \emph{F} e \emph{X} e due coppie di \emph{Tn3}.
+		In questo stadio si prevede la risoluzione del cointegrato in due plasmidi \emph{F} e \emph{X} ognuno portatore di \emph{Tn3}.
+		Si parla quindi di trasposizione replicativa che si svolge in due fasi principali:
+		\begin{multicols}{2}
+			\begin{itemize}
+    				\item Produzione del cointegrato; 
+    				\item Risoluzione del cointegrato.
+			\end{itemize}
+		\end{multicols}
+		
+	\subsection{Mutagenesi con elementi trasponibili}
+	Se il sito di inserzione per un elemento trasponibile è all'interno di un gene l'inserzione del trasposone porterà alla disattivazione (disruption) del gene considerato. 
+	Si ha una variazione del ceppo e questa mutagenesi viene indotta con elementi trasponibili. 
+
+		\subsubsection{Random Mutagenesis Protocol}
+		I batteri che contengono il trasposone possono essere selezionati attraverso l'isolamento di colonie su un terreno ricco contenente antibiotico kanamicina. 
+		Questo tipo di approccio viene utilizzato per identificare i geni essenziali di un certo batterio. 
+		Nella prima piastra viene utilizzato il \emph{DAP} per permettere la crescita del batterio donatore (\textit{E. coli}). 
+		In questo modo sia il donatore sia il ricevente possono crescere. 
+		Nella seconda piastra viene eliminato il \emph{DAP} per isolare il batterio ricevente in quanto E. coli non \`e in grado di crescere senza \emph{DAP}.
+		Viene infine aggiunto l'antibiotico per selezionare il nuovo batterio che avrebbe dovuto ricevere la resistenza per esso.
+
+	\subsection{Integroni}
+	Gli integroni sono elementi genetici mobili di DNA con la capacit\`a di catturare geni di varia origine e farli esprimere.
+	Sovraesprimono un dato gene.
+	Contengono gli elementi di ricombinazione sito-specifica e sono in grado di riconoscere e catturare cassette geniche e trasferirle orizzontalmente.
+	Si possono trovare in trasposoni, plasmidi o cromosoma batterico.
+	Non vengono inseriti casualmente ma contengono un gene che codifica un integrai, richiesta nella ricombinazione sito specifica e una sequenza \emph{attI} che determina il sito di inserzione.
+	Il gene catturato si trova in cassette geniche insieme a un promotore.
+ 
+\section{Clonaggio genico}
+Il clonaggio ha lo scopo di isolare una grande quantità di geni specifici in forma pura. 
+La strategia è quella di spostare il gene o la regione di interesse da un genoma grande e complesso a uno piccolo e più semplice. 
+
+	\subsection{Scopi del clonaggio genico}
+	\begin{multicols}{2}
+		\begin{itemize}
+   			\item Isolare un gene specifico e replicarlo, definire la struttura del gene clonato;
+    			\item Definire la modalità di espressione (spaziale, temporale, induzione ambientale); 
+    			\item Esprimere il gene in altri organismi per studiarne la funzione;
+    			\item Produrre una grande quantità della proteina codificata.
+		\end{itemize}
+	\end{multicols}
+
+	\subsection{Enzimi di restrizione}
+	Gli enzimi di restrizione sono enzimi specifici che riconoscono sequenze palindromiche sul DNA e le tagliano, permettendo l'isolamento di un gene specifico.
+	Il taglio pu\`o essere simmetrico con formazione di blunt ends come avviene per \emph{AIuI}, \emph{HaeIII} o asimmetrico con formazione di sticky ends come avviene per \emph{BamHI}, \emph{HindIII} e \emph{EcoRI}.
+
+	\subsection{Fasi del clonaggio genico}
+	\begin{multicols}{2}
+		\begin{enumerate}
+    			\item Isolamento e frammentazione del DNA originario, anche da specie diverse da quelle batteriche, con enzimi di restrizione che viene poi usato per la restrizione; 
+    			\item Giunzione dei frammenti ad un vettore di clonaggio, derivato da un plasmide o da un virus; 
+    			\item Introduzione, mantenimento e moltiplicazione del DNA clonato nell'organismo ospite. 
+		\end{enumerate}
+	\end{multicols}
+	I batteri ospite sono resi competenti e vengono indotti ad esprimere il gene.
+
+	\subsection{I plasmidi come vettori di clonaggio}
+
+		\subsubsection{Caratteristiche fondamentali dei plasmidi}
+		\begin{multicols}{2}
+			\begin{itemize}
+    				\item Dimensione ridotta: facilita l'isolamento e la manipolazione del DNA.
+    				\item Origine di replicazione: permette una replicazione indipendente del DNA batterico.
+    				\item Numero elevato di copie: facilita l'amplificazione del DNA;
+    				\item Presenza di marcatori selezionabili: facilitano il riconoscimento e la selezione dei cloni. 
+			\end{itemize}
+		\end{multicols}
+		I plasmidi utilizzati sono modificati in modo da prevenire il trasferimento coniugativo e sono \emph{$F^-$} in modo da mantenere la loro integrit\`a.
+		L'inserzione avviene per trasformazione.
+		
+		\subsubsection{Vettori plasmidici di prima generazione}
+		Nei vettori plasmidici di prima generazione l'inserimento di DNA provoca la disattivazione del gene di resistenza alla tetraciclina. 
+		Si ha una selezione pertanto indiretta dei plasmidi con DNA esogeno.
+		Si ipotizza di avere un batterio con due resistenze agli antibiotici, tra cui la tetramicina. 
+		L'inserimento di DNA provoca la disattivazione del gene di resistenza per la tetramicina, rendendo il batterio sensibile ad essa all'inserimento del plasmide.
+		Il DNA viene tagliato con gli stessi enzimi che poi vengono utilizzati per il taglio del plasmide in modo che le estremità del gene e del plasmide siano complementari mantenendo l'integrità del plasmide. 
+		Se non si riesce a inserire nulla nel plasmide, si aggiunge la ligasi per chiudere la struttura, quello che si ottiene è un plasmide vuoto (senza modifiche). 
+		Per distinguere i plasmidi modificati dagli altri devo usare la tecnica di replica planting, quindi li sottopongo a entrambi gli antibiotici, in modo da eliminare una popolazione di batteri, quella in cui c'è stato l'inserimento nel gene, e poi ad uno solo.
+		Se confronto le due piastre riesco a selezionare i primi che sono stati utilizzati. 
+
+		\subsubsection{Vettori plasmidici di seconda generazione}
+		I vettori plasmidici di seconda generazione richiedono meno tempo rispetto a quello visto in precedenza. 
+		Con l'inserzione del DNA da clonare viene inattivato il gene \emph{lacZ} che codifica la \emph{$\beta$-galattosidasi}, che esegue la scissione del galattosio. 
+		L'\emph{X-Gal}, un omologo del galattosio che produce un colore blu intenso quando viene scisso viene aggiunto al terreno di coltura. 
+		Le colonie blu hanno quindi un gene \emph{lacZ} funzionale e non contengono un plasmide clonato.
+		Se la $\beta$-galattosidasi non funziona \emph{X-Gal} non viene scisso e non diventa blu.
+		Se il gene è stato inserito in mezzo al sito della $\beta$-galattosidasi la colonia diventa bianca. 
+
+	\subsection{Regioni polilinker}
+	Le regioni polilinker sono siti di restrizione riconosciuti da diversi enzimi e pi\`u facili da aprire.
+	Si nota come un gene che viene selezionato non deve contenere sequenze interne riconosciute dall'enzima di restrizione altrimenti verrebbe tagliato.
+
+	\subsection{Il batteriofago $\mathbf{\lambda}$ come vettore di clonaggio}
+	Il fago lambda può essere usato come vettore di clonaggio. 
+	La regione tra i geni $J$ e $N$ del genoma virale non è essenziale e può essere sostituita con un DNA esogeno. 
+	Le regioni non essenziali permettono l'entrata del batterio nel ciclo lisogenico.
+	Si possono usare come luoghi per inserire geni d'interesse rendendo $\lambda$ capace di compiere solo il ciclo litico.
+	Con questa tecnica è possibile fare clonaggio di frammenti anche piuttosto grandi.
+
+	
+		\subsubsection{Fasi di cloanggio con il vettore lambda}
+		\begin{multicols}{2}
+			\begin{enumerate}
+    				\item Isolamento del DNA del fago e digestione con un enzima di restrizione; 
+    				\item Ligazione dei due frammenti di lambda ai frammenti del DNA esogeno. 
+					Vengono selezionati  frammenti di DNA esogeno della lunghezza appropriata, circa 20 kb); 
+    				\item Impacchettamento del DNA per aggiunta di estratti cellulari contenenti le proteine della testa e della coda con formazione spontanea di particelle fagiche (incapsulamento); 
+    				\item Infezione di \textit{E. coli} con sospensione di fagi che contengono il gene preso come riferimento. 
+				\item Si piastra il tutto e creano dei buchi trasparenti nel tappeto batterico. 
+				\item Si procede con l'isolamento dei cloni fagici tramite analisi delle placche formatesi su una coltura del ceppo ospite; 
+    				\item Analisi dei fagi ricombinanti. 
+
+			\end{enumerate}
+		\end{multicols}
+
+	\subsection{La mutagenesi sito-diretta}
+	La mutagenesi sito-diretta consente di causare mutazioni all'interno di uno specifico gene.
+	Viene utilizzata per studiare l'azione di proteine che contengono specifiche sostituzioni aminoacidiche. 
+	Il vettore contenente il DNA mutato viene inserito in un ceppo batterico mutante incapace di produrre la proteina in questione. 
+	Viene introdotto il gene di interesse in un vettore a singolo filamento.
+	Un frammento di DNA sintetico con le mutazioni (oligonucleotide sintetico) si può legare al vettore per complementarietà e viene esteso attraverso la DNA polimerasi. 
+	Poi seguono le fasi di clonaggio e selezione. 
+	
+	\subsection{Mutagenesi a cassetta e inattivazione genica}
+	\begin{enumerate}
+		\item Un plasmide contenente il gene $X$ viene tagliato con l'enzima di restrizione \emph{EcoR1} per introdurre una cassetta di resistenza alla kanamicina.
+	    	\item Dopo la ligazione abbiamo un plasmide che contiene la cassetta di kanamicina come mutazione di inserzione nel gene X. 
+			Il plasmide viene linearizzato con un altro enzima di restrizione \emph{BamH1}; 
+	    	\item Vengono trasformate le cellule batteriche che contengono una versione wild type del gene $X$.
+			Avviene ricombinazione omologa tra il gene $X$ del vettore e quello wild type disattivandolo.
+	    	\item Dopo la ricombinazione di possono selezionare i batteri mutanti (gene $X$ inattivato) su terreno contenente kanamicina.
+	\end{enumerate}

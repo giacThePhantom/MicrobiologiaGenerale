@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  11 DEC 2020 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  12 DEC 2020 13:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1186,15 +1186,44 @@ Capitolo 7.
 
 ] [73] [74] [75] [76] [77] [78]) (./Chapters/08_Virologia.tex [79]
 Capitolo 8.
+
+Underfull \hbox (badness 6047) in paragraph at lines 20--21
+[]\T1/cmr/m/n/10 Un nu-cleo-cap-si-de com-po-sto da aci-do
+ []
+
 [80
 
-] [81] [82] [83] [84] [85] [86] [87]
-Underfull \hbox (badness 10000) in paragraph at lines 207--213
+] [81] [82]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[88] [89] [90] [91] [92]) (./Chapters/09_RegolazioneMetabolica.tex [93]
-[94]
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+[]\T1/cmr/m/n/10 Immediate-Early (Im-me-dia-ta pre-co-ce):
+ []
+
+[85] [86] [87] [88] [89]
+Underfull \hbox (badness 5050) in paragraph at lines 502--503
+[]\T1/cmr/m/n/10 Lettura in sen-so an-ti-o-ra-rio (Left T)
+ []
+
+[90] [91] [92] [93]) (./Chapters/09_RegolazioneMetabolica.tex [94]
 Capitolo 9.
 [95
 
@@ -1318,10 +1347,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 26520 strings out of 492615
- 474800 string characters out of 6131390
- 561972 words of memory out of 5000000
- 29070 multiletter control sequences out of 15000+600000
+ 26576 strings out of 492615
+ 476057 string characters out of 6131390
+ 561978 words of memory out of 5000000
+ 29068 multiletter control sequences out of 15000+600000
  557618 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,13n,63p,816b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1348,10 +1377,10 @@ uper/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/font
 s/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-su
 per/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (131 pages, 756111 bytes).
+Output written on ./build/Principal.pdf (131 pages, 757605 bytes).
 PDF statistics:
- 2929 PDF objects out of 2984 (max. 8388607)
- 2742 compressed objects within 28 object streams
- 1091 named destinations out of 1200 (max. 500000)
- 2105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2995 PDF objects out of 3580 (max. 8388607)
+ 2807 compressed objects within 29 object streams
+ 1149 named destinations out of 1200 (max. 500000)
+ 2097 words of extra memory for PDF output out of 10000 (max. 10000000)
 

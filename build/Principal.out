@@ -218,48 +218,53 @@
 \BOOKMARK [2][-]{subsection.9.4.4}{Sistema per la sintesi di triptofano}{section.9.4}% 218
 \BOOKMARK [2][-]{subsection.9.4.5}{Trasduzione di segnale e sistemi di regolazione a due componenti}{section.9.4}% 219
 \BOOKMARK [0][-]{chapter.10}{Controllo della crescita microbica}{}% 220
-\BOOKMARK [1][-]{section.10.1}{Metodi fisici}{chapter.10}% 221
-\BOOKMARK [2][-]{subsection.10.1.1}{Caldo umido}{section.10.1}% 222
-\BOOKMARK [2][-]{subsection.10.1.2}{Trattamenti fisici alternativi}{section.10.1}% 223
-\BOOKMARK [1][-]{section.10.2}{Metodi chimici}{chapter.10}% 224
-\BOOKMARK [2][-]{subsection.10.2.1}{Controllo della crescita in vivo}{section.10.2}% 225
-\BOOKMARK [1][-]{section.10.3}{Misurazione dell'attivit\340 antimicrobica}{chapter.10}% 226
-\BOOKMARK [2][-]{subsection.10.3.1}{Test di Kirby-Bauer}{section.10.3}% 227
-\BOOKMARK [2][-]{subsection.10.3.2}{Test di Minimum Inhibitory Concentration \(MIC\)}{section.10.3}% 228
-\BOOKMARK [2][-]{subsection.10.3.3}{Etest}{section.10.3}% 229
-\BOOKMARK [2][-]{subsection.10.3.4}{Minimum bactericidal concentration \(MBC\)}{section.10.3}% 230
-\BOOKMARK [1][-]{section.10.4}{Meccanismi di azione degli antibiotici}{chapter.10}% 231
-\BOOKMARK [2][-]{subsection.10.4.1}{Inibizione della sintesi della parete cellulare}{section.10.4}% 232
-\BOOKMARK [2][-]{subsection.10.4.2}{Inibizione della sintesi proteica}{section.10.4}% 233
-\BOOKMARK [0][-]{chapter.11}{Laboratorio}{}% 234
-\BOOKMARK [1][-]{section.11.1}{Prima esperienza - preparazione del terreno di coltura sterile}{chapter.11}% 235
-\BOOKMARK [2][-]{subsection.11.1.1}{Introduzione}{section.11.1}% 236
-\BOOKMARK [2][-]{subsection.11.1.2}{Primo giorno}{section.11.1}% 237
-\BOOKMARK [1][-]{section.11.2}{Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico \(E. coli\)}{chapter.11}% 238
-\BOOKMARK [2][-]{subsection.11.2.1}{Introduzione}{section.11.2}% 239
-\BOOKMARK [2][-]{subsection.11.2.2}{Primo giorno}{section.11.2}% 240
-\BOOKMARK [1][-]{section.11.3}{Terza esperienza - Caratterizzazione dei batteri del cavo orale}{chapter.11}% 241
-\BOOKMARK [2][-]{subsection.11.3.1}{Introduzione}{section.11.3}% 242
-\BOOKMARK [2][-]{subsection.11.3.2}{Secondo giorno}{section.11.3}% 243
-\BOOKMARK [2][-]{subsection.11.3.3}{Procedimento}{section.11.3}% 244
-\BOOKMARK [1][-]{section.11.4}{Quarta esperienza - Conta standard su piastra}{chapter.11}% 245
-\BOOKMARK [2][-]{subsection.11.4.1}{Introduzione}{section.11.4}% 246
-\BOOKMARK [2][-]{subsection.11.4.2}{Secondo giorno}{section.11.4}% 247
-\BOOKMARK [1][-]{section.11.5}{Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{chapter.11}% 248
-\BOOKMARK [2][-]{subsection.11.5.1}{Introduzione}{section.11.5}% 249
-\BOOKMARK [2][-]{subsection.11.5.2}{Seconda giornata}{section.11.5}% 250
-\BOOKMARK [1][-]{section.11.6}{Sesta esperienza - test Kirby-Bauer}{chapter.11}% 251
-\BOOKMARK [2][-]{subsection.11.6.1}{Introduzione}{section.11.6}% 252
-\BOOKMARK [2][-]{subsection.11.6.2}{Secondo giorno}{section.11.6}% 253
-\BOOKMARK [1][-]{section.11.7}{Settima esperienza - test biochimico API 20E}{chapter.11}% 254
-\BOOKMARK [2][-]{subsection.11.7.1}{Introduzione}{section.11.7}% 255
-\BOOKMARK [2][-]{subsection.11.7.2}{Secondo giorno}{section.11.7}% 256
-\BOOKMARK [1][-]{section.11.8}{Ottava esperienza - Colorazione di Gram}{chapter.11}% 257
-\BOOKMARK [2][-]{subsection.11.8.1}{Introduzione}{section.11.8}% 258
-\BOOKMARK [2][-]{subsection.11.8.2}{Terzo giorno}{section.11.8}% 259
-\BOOKMARK [1][-]{section.11.9}{Nona esperienza - Trasformazione di batteri}{chapter.11}% 260
-\BOOKMARK [2][-]{subsection.11.9.1}{Introduzione}{section.11.9}% 261
-\BOOKMARK [2][-]{subsection.11.9.2}{Terzo giorno}{section.11.9}% 262
-\BOOKMARK [1][-]{section.11.10}{Decima esperienza - Osservazione della motilit\340 batterica di tipo ``swimming'' al microscopio ottico}{chapter.11}% 263
-\BOOKMARK [2][-]{subsection.11.10.1}{Introduzione}{section.11.10}% 264
-\BOOKMARK [2][-]{subsection.11.10.2}{Terza giornata}{section.11.10}% 265
+\BOOKMARK [1][-]{section.10.1}{Introduzione}{chapter.10}% 221
+\BOOKMARK [2][-]{subsection.10.1.1}{Metodi di controllo}{section.10.1}% 222
+\BOOKMARK [2][-]{subsection.10.1.2}{Categorizzazione di agenti o trattamenti antimicrobici in base al loro effetto sul batterio}{section.10.1}% 223
+\BOOKMARK [1][-]{section.10.2}{Metodi fisici}{chapter.10}% 224
+\BOOKMARK [2][-]{subsection.10.2.1}{Calore}{section.10.2}% 225
+\BOOKMARK [2][-]{subsection.10.2.2}{Trattamenti fisici alternativi}{section.10.2}% 226
+\BOOKMARK [1][-]{section.10.3}{Metodi chimici}{chapter.10}% 227
+\BOOKMARK [2][-]{subsection.10.3.1}{Controllo della crescita in vivo}{section.10.3}% 228
+\BOOKMARK [1][-]{section.10.4}{Misurazione dell'attivit\340 antimicrobica}{chapter.10}% 229
+\BOOKMARK [2][-]{subsection.10.4.1}{Test di Kirby-Bauer}{section.10.4}% 230
+\BOOKMARK [2][-]{subsection.10.4.2}{Test di Minimum Inhibitory Concentration MIC}{section.10.4}% 231
+\BOOKMARK [2][-]{subsection.10.4.3}{Etest}{section.10.4}% 232
+\BOOKMARK [2][-]{subsection.10.4.4}{Minimum bactericidal concentration \(MBC\)}{section.10.4}% 233
+\BOOKMARK [1][-]{section.10.5}{Meccanismi di azione degli antibiotici}{chapter.10}% 234
+\BOOKMARK [2][-]{subsection.10.5.1}{Tipologie di meccanismi di azione}{section.10.5}% 235
+\BOOKMARK [2][-]{subsection.10.5.2}{Classificazione degli antibiotici}{section.10.5}% 236
+\BOOKMARK [2][-]{subsection.10.5.3}{Inibizione della sintesi della parete cellulare}{section.10.5}% 237
+\BOOKMARK [2][-]{subsection.10.5.4}{Inibizione della sintesi proteica}{section.10.5}% 238
+\BOOKMARK [0][-]{chapter.11}{Laboratorio}{}% 239
+\BOOKMARK [1][-]{section.11.1}{Prima esperienza - preparazione del terreno di coltura sterile}{chapter.11}% 240
+\BOOKMARK [2][-]{subsection.11.1.1}{Introduzione}{section.11.1}% 241
+\BOOKMARK [2][-]{subsection.11.1.2}{Primo giorno}{section.11.1}% 242
+\BOOKMARK [1][-]{section.11.2}{Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico \(E. coli\)}{chapter.11}% 243
+\BOOKMARK [2][-]{subsection.11.2.1}{Introduzione}{section.11.2}% 244
+\BOOKMARK [2][-]{subsection.11.2.2}{Primo giorno}{section.11.2}% 245
+\BOOKMARK [1][-]{section.11.3}{Terza esperienza - Caratterizzazione dei batteri del cavo orale}{chapter.11}% 246
+\BOOKMARK [2][-]{subsection.11.3.1}{Introduzione}{section.11.3}% 247
+\BOOKMARK [2][-]{subsection.11.3.2}{Secondo giorno}{section.11.3}% 248
+\BOOKMARK [2][-]{subsection.11.3.3}{Procedimento}{section.11.3}% 249
+\BOOKMARK [1][-]{section.11.4}{Quarta esperienza - Conta standard su piastra}{chapter.11}% 250
+\BOOKMARK [2][-]{subsection.11.4.1}{Introduzione}{section.11.4}% 251
+\BOOKMARK [2][-]{subsection.11.4.2}{Secondo giorno}{section.11.4}% 252
+\BOOKMARK [1][-]{section.11.5}{Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{chapter.11}% 253
+\BOOKMARK [2][-]{subsection.11.5.1}{Introduzione}{section.11.5}% 254
+\BOOKMARK [2][-]{subsection.11.5.2}{Seconda giornata}{section.11.5}% 255
+\BOOKMARK [1][-]{section.11.6}{Sesta esperienza - test Kirby-Bauer}{chapter.11}% 256
+\BOOKMARK [2][-]{subsection.11.6.1}{Introduzione}{section.11.6}% 257
+\BOOKMARK [2][-]{subsection.11.6.2}{Secondo giorno}{section.11.6}% 258
+\BOOKMARK [1][-]{section.11.7}{Settima esperienza - test biochimico API 20E}{chapter.11}% 259
+\BOOKMARK [2][-]{subsection.11.7.1}{Introduzione}{section.11.7}% 260
+\BOOKMARK [2][-]{subsection.11.7.2}{Secondo giorno}{section.11.7}% 261
+\BOOKMARK [1][-]{section.11.8}{Ottava esperienza - Colorazione di Gram}{chapter.11}% 262
+\BOOKMARK [2][-]{subsection.11.8.1}{Introduzione}{section.11.8}% 263
+\BOOKMARK [2][-]{subsection.11.8.2}{Terzo giorno}{section.11.8}% 264
+\BOOKMARK [1][-]{section.11.9}{Nona esperienza - Trasformazione di batteri}{chapter.11}% 265
+\BOOKMARK [2][-]{subsection.11.9.1}{Introduzione}{section.11.9}% 266
+\BOOKMARK [2][-]{subsection.11.9.2}{Terzo giorno}{section.11.9}% 267
+\BOOKMARK [1][-]{section.11.10}{Decima esperienza - Osservazione della motilit\340 batterica di tipo ``swimming'' al microscopio ottico}{chapter.11}% 268
+\BOOKMARK [2][-]{subsection.11.10.1}{Introduzione}{section.11.10}% 269
+\BOOKMARK [2][-]{subsection.11.10.2}{Terza giornata}{section.11.10}% 270

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  12 DEC 2020 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  12 DEC 2020 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1054,12 +1054,12 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
 l.66 ...line {2.5.2}Fimbrie}{20}{subsection.2.5.2}
                                                   % [1
 
-] [2] [3] [4] [5])
+] [2] [3] [4] [5]
+[6])
 \tf@toc=\write4
 \openout4 = `Principal.toc'.
 
-
-(./Chapters/01_Introduzione.tex [6] [7]
+ (./Chapters/01_Introduzione.tex [7]
 Capitolo 1.
 [8
 
@@ -1244,12 +1244,60 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Capitolo 10.
 [102
 
-] [103] [104] [105] [106] [107]
+] [103]
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+[104] [105]
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--204
+
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 214--215
+[]\T1/cmr/m/n/10 Ritezione del far-ma-co: l'o-spi-te può
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 12.1638pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
+
+[107]
+Underfull \hbox (badness 5288) in paragraph at lines 286--287
+[]\T1/cmr/m/n/10 Inibizione del-la sin-te-si del-le pro-tei-ne:
+ []
+
+
+Overfull \vbox (4.13496pt too high) has occurred while \output is active []
+
 
 [108] [109]) (./Chapters/11_Laboratorio.tex [110]
 Capitolo 11.
@@ -1359,13 +1407,13 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 26612 strings out of 492615
- 476884 string characters out of 6131390
- 561981 words of memory out of 5000000
- 29071 multiletter control sequences out of 15000+600000
- 557618 words of font info for 80 fonts, out of 8000000 for 9000
+ 26651 strings out of 492615
+ 477958 string characters out of 6131390
+ 561984 words of memory out of 5000000
+ 29075 multiletter control sequences out of 15000+600000
+ 556837 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,13n,63p,816b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,14n,63p,816b,1027s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
@@ -1374,25 +1422,26 @@ public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 nts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfbi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfbi1440.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfbx0700.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (131 pages, 758670 bytes).
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fbi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfbi1440.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+bx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfr
+m0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti
+1000.pfb>
+Output written on ./build/Principal.pdf (131 pages, 764486 bytes).
 PDF statistics:
- 3046 PDF objects out of 3580 (max. 8388607)
- 2858 compressed objects within 29 object streams
- 1182 named destinations out of 1200 (max. 500000)
- 2121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3111 PDF objects out of 3580 (max. 8388607)
+ 2922 compressed objects within 30 object streams
+ 1218 named destinations out of 1440 (max. 500000)
+ 2161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

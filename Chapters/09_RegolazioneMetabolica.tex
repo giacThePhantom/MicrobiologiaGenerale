@@ -165,7 +165,7 @@ La maggior parte dei microrganismi possiede geni che codificano molte più prote
 				\end{itemize}
 			\end{multicols}
 			In carenza di aminoacidi un tRNA scarico può legarsi al ribosoma.
-			Questo attiva la proteina \emph{RelA} che idrolizza gruppi fosfato da \emph{GTP} e \emph{ATP} produgendo \emph{ppGpp} e \emph{pppGppp}.
+			Questo attiva la proteina \emph{RelA} che idrolizza gruppi fosfato da \emph{GTP} e \emph{ATP} producendo \emph{ppGpp} e \emph{pppGppp}.
 
 				\subparagraph{Effetto dei nucleotidi modificati}
 				\emph{ppGpp} e \emph{pppGppp} inibiscono la sintesi di rRNA e tRNA interferendo con la RNA polimerasi per l'inizio della trascrizione in corrispondenza dei geni corrispondenti e attiva operoni deputati alla sintesi degli amminoacidi mancanti integrando cofattori di trascrizione.
@@ -209,7 +209,7 @@ La maggior parte dei microrganismi possiede geni che codificano molte più prote
 				\subparagraph{Produzione di fattori di virulenza in Staphylococcus aureus}
 				Staphylococcus aureus produce fattori di virulenza in presenza di \emph{AHL}.
 
-	\subsection{Sistema per la sintesi di triptofano}
+	\subsection{Sistema per la sintesi di triptofano - attenuazione}
 	Il sistema per la sintesi di triptofano si basa sulla presenza di un peptide leader (L) a monte dell'operone deputato alla biosintesi di uno specifico aminoacido. 
 	Il peptide leader \`e ricco di triptofano.
 	Questo fenomeno avviene nei procarioti in quanto trascrizione e traduzione avvengono simultaneamente.
@@ -238,7 +238,17 @@ La maggior parte dei microrganismi possiede geni che codificano molte più prote
 			\paragraph{Fosfatasi}
 			Le fosfatasi sono enzimi che rimuovono il gruppo fosfato dalla proteina regolatrice.
 			Riportano pertanto il sistema allo stato di riposo.
+			
+		\subsubsection{Pressione osmotica}
+		Le porine \emph{OmpC} e \emph{OmpF} sono porine che permettono ai metaboliti di attraversare la membrana esterna dei Gram$-$.
+		La loro produzione \`e regolata da \emph{OmpR}.
+		Se la pressione osmotica \`e alta viene sintetizzato \emph{OmpC} in quanto ha un poro pi\`u stretto, altrimenti \emph{OmpF}/
 
+		\subsubsection{Assimilazione dell'azoto}
+		L'assimilazione dell'azoto coinvolge \emph{NR1} che attiva la RNA polimerasi su promotori che richiedono il fattore $\sigma^{54}$.
+
+		\subsubsection{Regolazione anaerobica di nitrati e nitriti}
+		La regolazione anaerobica di nitrati e nitriti coinvolge $2$ chinasi sensore e diversi regolatori.
 			
 		\subsubsection{Chemiotassi}
 		La chemiotassi \`e un esempio di sistema di regolazione a due componenti.
@@ -258,8 +268,28 @@ La maggior parte dei microrganismi possiede geni che codificano molte più prote
 			\paragraph{Repellenti}
 			I repellenti aumentano la frequenza di autofosforilazione permettendo al flagello di cambiare frequentemente la direzione della corsa per allontanarsi dalla sostanza.
 
-		\subsubsection{Il processo di adattamento}
-		Il processo di adattamento consente alla cellula di ripristinare il sistema di regolazione.
-		\emph{CherR} aggiunge gruppi metilici a \emph{MCP}, mentre \emph{CheB-P} li rimuove.
-		Il livello di metilazione di \emph{MCP} influenza la conformazione e controlla l'adattamento a un dato segnale: concentrazioni persistenti di una sostanza causano una riduzione della risposta.
-		Il fattore decisivo per questo tipo di regolazione \`e pertanto il cambiamento di concentrazione di attraente o repellente nel tempo.
+			\paragraph{Il processo di adattamento}
+			Il processo di adattamento consente alla cellula di ripristinare il sistema di regolazione.
+			\emph{CherR} aggiunge gruppi metilici a \emph{MCP}, mentre \emph{CheB-P} li rimuove.
+			Il livello di metilazione di \emph{MCP} influenza la conformazione e controlla l'adattamento a un dato segnale: concentrazioni persistenti di una sostanza causano una riduzione della risposta.
+			Il fattore decisivo per questo tipo di regolazione \`e pertanto il cambiamento di concentrazione di attraente o repellente nel tempo.
+
+	\subsection{La regolazione mediata da RNA e i riboswitches}
+	I \emph{sncRNA}, small non coding RNA sono lunghi tra i $40$ e i $400nt$ e non codificano proteine.
+	Regolano l'espressione genica e mostrano regioni di complementariet\`a con alcuni mRNA.
+
+		\subsubsection{RNA antisenso}
+		Gli sncRNA antisenso hanno una sequenza nucleotidica complementare a quella di alcuni mRNA.
+		Si legano ad esso mediante appaiamento delle basi bloccando la sua traduzione formando una doppia elica di RNA che viene rapidamente degradata da ribonucleasi.
+
+		\subsubsection{Riboswitches}
+		I riboswitches sono mRNA che contengono a monte delle regioni codificanti sequenze in grado di legare piccole molecola.
+		La molecola che si lega a un ribo-interruttore \`e quella sintetizzata dal mRNA che lo contiene.
+
+			\paragraph{Conformazioni}
+
+				\subparagraph{Assenza del metabolita}
+				In assenza del metabolita la sequenza di Shine-Dalgarno pu\`o legarsi e avviare la traduzione.
+
+				\subparagraph{Presenza del metabolita}
+				In presenza del metabolita il riboswitch assume una struttura secondaria rendendo inaccessibile la sequenza di Shine-Dalgarno e bloccando pertanto la traduzione.

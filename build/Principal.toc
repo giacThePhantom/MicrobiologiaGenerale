@@ -739,112 +739,135 @@
 \contentsline {section}{\numberline {10.7}Progettazione di nuovi farmaci}{114}{section.10.7}% 
 \contentsline {subsection}{\numberline {10.7.1}Progettazione computerizzata di farmaci virali}{114}{subsection.10.7.1}% 
 \contentsline {subsection}{\numberline {10.7.2}Chimica combinatoriale}{114}{subsection.10.7.2}% 
-\contentsline {chapter}{\numberline {11}Laboratorio}{115}{chapter.11}% 
-\contentsline {section}{\numberline {11.1}Prima esperienza - preparazione del terreno di coltura sterile}{115}{section.11.1}% 
-\contentsline {subsection}{\numberline {11.1.1}Introduzione}{115}{subsection.11.1.1}% 
-\contentsline {subsubsection}{\numberline {11.1.1.1}Categorie di terreni batterici}{115}{subsubsection.11.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.1.1.1.1}Determinazione in base allo stato fisico}{115}{paragraph.11.1.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.1.1.1.2}Determinazione in base alla quantit\`a di sostanze}{115}{paragraph.11.1.1.1.2}% 
-\contentsline {paragraph}{\numberline {11.1.1.1.3}Determinazione in base alla qualit\`a delle sostanze}{115}{paragraph.11.1.1.1.3}% 
-\contentsline {subsection}{\numberline {11.1.2}Primo giorno}{116}{subsection.11.1.2}% 
-\contentsline {subsubsection}{\numberline {11.1.2.1}Coltura liquida}{116}{subsubsection.11.1.2.1}% 
-\contentsline {subsubsection}{\numberline {11.1.2.2}Terreni preparati}{116}{subsubsection.11.1.2.2}% 
-\contentsline {section}{\numberline {11.2}Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico (E. coli)}{116}{section.11.2}% 
-\contentsline {subsection}{\numberline {11.2.1}Introduzione}{116}{subsection.11.2.1}% 
-\contentsline {subsubsection}{\numberline {11.2.1.1}Fattori che influenzano la crescita batterica}{116}{subsubsection.11.2.1.1}% 
-\contentsline {subsubsection}{\numberline {11.2.1.2}Quantificazione}{117}{subsubsection.11.2.1.2}% 
-\contentsline {paragraph}{\numberline {11.2.1.2.1}Fasi della crescita microbica}{117}{paragraph.11.2.1.2.1}% 
-\contentsline {subsection}{\numberline {11.2.2}Primo giorno}{117}{subsection.11.2.2}% 
-\contentsline {subsubsection}{\numberline {11.2.2.1}Micropipetta}{117}{subsubsection.11.2.2.1}% 
-\contentsline {paragraph}{\numberline {11.2.2.1.1}Tipologie}{117}{paragraph.11.2.2.1.1}% 
-\contentsline {paragraph}{\numberline {11.2.2.1.2}Utilizzo}{117}{paragraph.11.2.2.1.2}% 
-\contentsline {subsubsection}{\numberline {11.2.2.2}Tempo di generazione}{117}{subsubsection.11.2.2.2}% 
-\contentsline {subsubsection}{\numberline {11.2.2.3}Procedimento}{118}{subsubsection.11.2.2.3}% 
-\contentsline {subsubsection}{\numberline {11.2.2.4}Analisi dei dati}{118}{subsubsection.11.2.2.4}% 
-\contentsline {paragraph}{\numberline {11.2.2.4.1}Dati raccolti}{119}{paragraph.11.2.2.4.1}% 
-\contentsline {section}{\numberline {11.3}Terza esperienza - Caratterizzazione dei batteri del cavo orale}{119}{section.11.3}% 
-\contentsline {subsection}{\numberline {11.3.1}Introduzione}{119}{subsection.11.3.1}% 
-\contentsline {subsubsection}{\numberline {11.3.1.1}Piastra su agar-sangue}{119}{subsubsection.11.3.1.1}% 
-\contentsline {paragraph}{\numberline {11.3.1.1.1}Emolisi}{119}{paragraph.11.3.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.3.1.1.2}Semina sulla piastra}{119}{paragraph.11.3.1.1.2}% 
-\contentsline {subsubsection}{\numberline {11.3.1.2}Morfologia dei batteri del cavo orale}{119}{subsubsection.11.3.1.2}% 
-\contentsline {paragraph}{\numberline {11.3.1.2.1}Aspetto}{119}{paragraph.11.3.1.2.1}% 
-\contentsline {paragraph}{\numberline {11.3.1.2.2}Rilievo}{120}{paragraph.11.3.1.2.2}% 
-\contentsline {paragraph}{\numberline {11.3.1.2.3}Superficie}{120}{paragraph.11.3.1.2.3}% 
-\contentsline {paragraph}{\numberline {11.3.1.2.4}Margini}{120}{paragraph.11.3.1.2.4}% 
-\contentsline {paragraph}{\numberline {11.3.1.2.5}Struttura}{120}{paragraph.11.3.1.2.5}% 
-\contentsline {paragraph}{\numberline {11.3.1.2.6}Altri fattori}{120}{paragraph.11.3.1.2.6}% 
-\contentsline {subsection}{\numberline {11.3.2}Secondo giorno}{120}{subsection.11.3.2}% 
-\contentsline {subsubsection}{\numberline {11.3.2.1}Equilibrio plastico}{121}{subsubsection.11.3.2.1}% 
-\contentsline {subsubsection}{\numberline {11.3.2.2}Ecosistema orale}{121}{subsubsection.11.3.2.2}% 
-\contentsline {paragraph}{\numberline {11.3.2.2.1}Esempi}{121}{paragraph.11.3.2.2.1}% 
-\contentsline {subsection}{\numberline {11.3.3}Procedimento}{121}{subsection.11.3.3}% 
-\contentsline {section}{\numberline {11.4}Quarta esperienza - Conta standard su piastra}{122}{section.11.4}% 
-\contentsline {subsection}{\numberline {11.4.1}Introduzione}{122}{subsection.11.4.1}% 
-\contentsline {subsubsection}{\numberline {11.4.1.1}Conta microbica indiretta}{122}{subsubsection.11.4.1.1}% 
-\contentsline {subsubsection}{\numberline {11.4.1.2}Conta vitale}{122}{subsubsection.11.4.1.2}% 
-\contentsline {paragraph}{\numberline {11.4.1.2.1}Processo}{122}{paragraph.11.4.1.2.1}% 
-\contentsline {subsection}{\numberline {11.4.2}Secondo giorno}{122}{subsection.11.4.2}% 
-\contentsline {subsubsection}{\numberline {11.4.2.1}Metodi della conta batterica}{122}{subsubsection.11.4.2.1}% 
-\contentsline {paragraph}{\numberline {11.4.2.1.1}Conta diretta}{122}{paragraph.11.4.2.1.1}% 
-\contentsline {paragraph}{\numberline {11.4.2.1.2}Conta indiretta}{122}{paragraph.11.4.2.1.2}% 
-\contentsline {paragraph}{\numberline {11.4.2.1.3}Conta vitale}{122}{paragraph.11.4.2.1.3}% 
-\contentsline {subsubsection}{\numberline {11.4.2.2}Colonia}{122}{subsubsection.11.4.2.2}% 
-\contentsline {subsubsection}{\numberline {11.4.2.3}Procedimento}{123}{subsubsection.11.4.2.3}% 
-\contentsline {subsubsection}{\numberline {11.4.2.4}Analisi dei risultati}{123}{subsubsection.11.4.2.4}% 
-\contentsline {section}{\numberline {11.5}Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{124}{section.11.5}% 
-\contentsline {subsection}{\numberline {11.5.1}Introduzione}{124}{subsection.11.5.1}% 
-\contentsline {subsubsection}{\numberline {11.5.1.1}Distinguere i batteri in base alla richiesta di ossigeno}{124}{subsubsection.11.5.1.1}% 
-\contentsline {subsubsection}{\numberline {11.5.1.2}Batteri modello}{124}{subsubsection.11.5.1.2}% 
-\contentsline {subsubsection}{\numberline {11.5.1.3}Processo}{124}{subsubsection.11.5.1.3}% 
-\contentsline {subsection}{\numberline {11.5.2}Seconda giornata}{124}{subsection.11.5.2}% 
-\contentsline {subsubsection}{\numberline {11.5.2.1}Creazione di condizione di anaerobiosi}{125}{subsubsection.11.5.2.1}% 
-\contentsline {paragraph}{\numberline {11.5.2.1.1}Verificare l'assenza di ossigeno}{125}{paragraph.11.5.2.1.1}% 
-\contentsline {subsubsection}{\numberline {11.5.2.2}Procedimento}{125}{subsubsection.11.5.2.2}% 
-\contentsline {section}{\numberline {11.6}Sesta esperienza - test Kirby-Bauer}{125}{section.11.6}% 
-\contentsline {subsection}{\numberline {11.6.1}Introduzione}{125}{subsection.11.6.1}% 
-\contentsline {subsubsection}{\numberline {11.6.1.1}Test di Kirby-Bauer}{125}{subsubsection.11.6.1.1}% 
-\contentsline {paragraph}{\numberline {11.6.1.1.1}Procedimento}{126}{paragraph.11.6.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.6.1.1.2}lettura dei risultati}{126}{paragraph.11.6.1.1.2}% 
-\contentsline {subsection}{\numberline {11.6.2}Secondo giorno}{126}{subsection.11.6.2}% 
-\contentsline {subsubsection}{\numberline {11.6.2.1}Resistenza}{126}{subsubsection.11.6.2.1}% 
-\contentsline {paragraph}{\numberline {11.6.2.1.1}Sviluppo della resistenza}{126}{paragraph.11.6.2.1.1}% 
-\contentsline {paragraph}{\numberline {11.6.2.1.2}Superbatteri}{126}{paragraph.11.6.2.1.2}% 
-\contentsline {paragraph}{\numberline {11.6.2.1.3}Identificazione della resistenza}{126}{paragraph.11.6.2.1.3}% 
-\contentsline {subsubsection}{\numberline {11.6.2.2}Procedimento}{126}{subsubsection.11.6.2.2}% 
-\contentsline {subsubsection}{\numberline {11.6.2.3}Breakpoint \emph {EUCAST}}{127}{subsubsection.11.6.2.3}% 
-\contentsline {section}{\numberline {11.7}Settima esperienza - test biochimico \emph {API 20E}}{127}{section.11.7}% 
-\contentsline {subsection}{\numberline {11.7.1}Introduzione}{127}{subsection.11.7.1}% 
-\contentsline {subsubsection}{\numberline {11.7.1.1}Test \emph {API 20E}}{127}{subsubsection.11.7.1.1}% 
-\contentsline {paragraph}{\numberline {11.7.1.1.1}Processo}{127}{paragraph.11.7.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.7.1.1.2}Lettura dei risultati}{128}{paragraph.11.7.1.1.2}% 
-\contentsline {subparagraph}{\numberline {11.7.1.1.2.1}Lettura dei moduli}{128}{subparagraph.11.7.1.1.2.1}% 
-\contentsline {subsection}{\numberline {11.7.2}Secondo giorno}{128}{subsection.11.7.2}% 
-\contentsline {subsubsection}{\numberline {11.7.2.1}Caratteristiche individuate}{128}{subsubsection.11.7.2.1}% 
-\contentsline {subsubsection}{\numberline {11.7.2.2}Procedimento}{128}{subsubsection.11.7.2.2}% 
-\contentsline {section}{\numberline {11.8}Ottava esperienza - Colorazione di Gram}{130}{section.11.8}% 
-\contentsline {subsection}{\numberline {11.8.1}Introduzione}{130}{subsection.11.8.1}% 
-\contentsline {subsubsection}{\numberline {11.8.1.1}Procedimento}{130}{subsubsection.11.8.1.1}% 
-\contentsline {subsubsection}{\numberline {11.8.1.2}Identificare i Gram$\mathbf {+}$}{130}{subsubsection.11.8.1.2}% 
-\contentsline {subsubsection}{\numberline {11.8.1.3}Identificare i Gram$\mathbf {-}$}{130}{subsubsection.11.8.1.3}% 
-\contentsline {subsection}{\numberline {11.8.2}Terzo giorno}{130}{subsection.11.8.2}% 
-\contentsline {subsubsection}{\numberline {11.8.2.1}Procedimento}{130}{subsubsection.11.8.2.1}% 
-\contentsline {paragraph}{\numberline {11.8.2.1.1}Preparazione del vetrino}{130}{paragraph.11.8.2.1.1}% 
-\contentsline {paragraph}{\numberline {11.8.2.1.2}Fissazione del preparato}{131}{paragraph.11.8.2.1.2}% 
-\contentsline {paragraph}{\numberline {11.8.2.1.3}Colorazione del preparato}{131}{paragraph.11.8.2.1.3}% 
-\contentsline {section}{\numberline {11.9}Nona esperienza - Trasformazione di batteri}{132}{section.11.9}% 
-\contentsline {subsection}{\numberline {11.9.1}Introduzione}{132}{subsection.11.9.1}% 
-\contentsline {subsubsection}{\numberline {11.9.1.1}Trasformazione batterica}{132}{subsubsection.11.9.1.1}% 
-\contentsline {paragraph}{\numberline {11.9.1.1.1}Trasformazione chimica}{132}{paragraph.11.9.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.9.1.1.2}Trasformazione elettrica}{132}{paragraph.11.9.1.1.2}% 
-\contentsline {subsubsection}{\numberline {11.9.1.2}Plasmidi}{132}{subsubsection.11.9.1.2}% 
-\contentsline {subsubsection}{\numberline {11.9.1.3}Processo di trasformazione}{132}{subsubsection.11.9.1.3}% 
-\contentsline {subsection}{\numberline {11.9.2}Terzo giorno}{132}{subsection.11.9.2}% 
-\contentsline {subsubsection}{\numberline {11.9.2.1}Procedimento}{132}{subsubsection.11.9.2.1}% 
-\contentsline {section}{\numberline {11.10}Decima esperienza - Osservazione della motilit\`a batterica di tipo ``swimming'' al microscopio ottico}{133}{section.11.10}% 
-\contentsline {subsection}{\numberline {11.10.1}Introduzione}{133}{subsection.11.10.1}% 
-\contentsline {subsubsection}{\numberline {11.10.1.1}Flagelli}{134}{subsubsection.11.10.1.1}% 
-\contentsline {paragraph}{\numberline {11.10.1.1.1}Tipi di movimento}{134}{paragraph.11.10.1.1.1}% 
-\contentsline {paragraph}{\numberline {11.10.1.1.2}Distinzione in base a numero e posizione dei flagelli}{134}{paragraph.11.10.1.1.2}% 
-\contentsline {subsection}{\numberline {11.10.2}Terza giornata}{134}{subsection.11.10.2}% 
-\contentsline {subsubsection}{\numberline {11.10.2.1}Procedimento}{134}{subsubsection.11.10.2.1}% 
+\contentsline {chapter}{\numberline {11}Antibiotico resistenza}{115}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Introduzione}{115}{section.11.1}% 
+\contentsline {subsection}{\numberline {11.1.1}Esperimento della Harvard Medical School}{115}{subsection.11.1.1}% 
+\contentsline {subsection}{\numberline {11.1.2}Resistenza intrinseca}{115}{subsection.11.1.2}% 
+\contentsline {subsubsection}{\numberline {11.1.2.1}Assenza del bersaglio}{115}{subsubsection.11.1.2.1}% 
+\contentsline {subsubsection}{\numberline {11.1.2.2}Impermeabilit\`a all'antibiotico}{115}{subsubsection.11.1.2.2}% 
+\contentsline {subsubsection}{\numberline {11.1.2.3}Alterazione chimica dell'antibiotico}{115}{subsubsection.11.1.2.3}% 
+\contentsline {subsubsection}{\numberline {11.1.2.4}Modifica del bersaglio}{116}{subsubsection.11.1.2.4}% 
+\contentsline {subsubsection}{\numberline {11.1.2.5}Sviluppo di una via biochimica di resistenza}{116}{subsubsection.11.1.2.5}% 
+\contentsline {subsubsection}{\numberline {11.1.2.6}Trasporto dell'antibiotico}{116}{subsubsection.11.1.2.6}% 
+\contentsline {section}{\numberline {11.2}Sviluppo e diffusione della resistenza nelle popolazioni microbiche}{116}{section.11.2}% 
+\contentsline {subsection}{\numberline {11.2.1}Resistenza multipla e cross-resistenza}{116}{subsection.11.2.1}% 
+\contentsline {subsection}{\numberline {11.2.2}Ritardare la comparsa della resistenza}{116}{subsection.11.2.2}% 
+\contentsline {section}{\numberline {11.3}Metagenomica dell'antibiotico resistenza in batteri ambientali}{116}{section.11.3}% 
+\contentsline {subsection}{\numberline {11.3.1}Resistoma}{117}{subsection.11.3.1}% 
+\contentsline {subsection}{\numberline {11.3.2}Batteri nel suolo}{117}{subsection.11.3.2}% 
+\contentsline {subsection}{\numberline {11.3.3}Trasferimento genico dei determinanti della resistenza}{117}{subsection.11.3.3}% 
+\contentsline {subsection}{\numberline {11.3.4}Modello per l'evoluzione dell'antibiotico resistenza}{117}{subsection.11.3.4}% 
+\contentsline {section}{\numberline {11.4}Future terapie antivirali}{117}{section.11.4}% 
+\contentsline {subsection}{\numberline {11.4.1}Virulenza}{117}{subsection.11.4.1}% 
+\contentsline {subsection}{\numberline {11.4.2}Inibire la patogenesi}{117}{subsection.11.4.2}% 
+\contentsline {subsection}{\numberline {11.4.3}Elementi di patenogenesi}{118}{subsection.11.4.3}% 
+\contentsline {chapter}{\numberline {12}Patogenicit\`a batterica}{119}{chapter.12}% 
+\contentsline {chapter}{\numberline {13}Laboratorio}{120}{chapter.13}% 
+\contentsline {section}{\numberline {13.1}Prima esperienza - preparazione del terreno di coltura sterile}{120}{section.13.1}% 
+\contentsline {subsection}{\numberline {13.1.1}Introduzione}{120}{subsection.13.1.1}% 
+\contentsline {subsubsection}{\numberline {13.1.1.1}Categorie di terreni batterici}{120}{subsubsection.13.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.1.1.1.1}Determinazione in base allo stato fisico}{120}{paragraph.13.1.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.1.1.1.2}Determinazione in base alla quantit\`a di sostanze}{120}{paragraph.13.1.1.1.2}% 
+\contentsline {paragraph}{\numberline {13.1.1.1.3}Determinazione in base alla qualit\`a delle sostanze}{120}{paragraph.13.1.1.1.3}% 
+\contentsline {subsection}{\numberline {13.1.2}Primo giorno}{121}{subsection.13.1.2}% 
+\contentsline {subsubsection}{\numberline {13.1.2.1}Coltura liquida}{121}{subsubsection.13.1.2.1}% 
+\contentsline {subsubsection}{\numberline {13.1.2.2}Terreni preparati}{121}{subsubsection.13.1.2.2}% 
+\contentsline {section}{\numberline {13.2}Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico (E. coli)}{121}{section.13.2}% 
+\contentsline {subsection}{\numberline {13.2.1}Introduzione}{121}{subsection.13.2.1}% 
+\contentsline {subsubsection}{\numberline {13.2.1.1}Fattori che influenzano la crescita batterica}{121}{subsubsection.13.2.1.1}% 
+\contentsline {subsubsection}{\numberline {13.2.1.2}Quantificazione}{122}{subsubsection.13.2.1.2}% 
+\contentsline {paragraph}{\numberline {13.2.1.2.1}Fasi della crescita microbica}{122}{paragraph.13.2.1.2.1}% 
+\contentsline {subsection}{\numberline {13.2.2}Primo giorno}{122}{subsection.13.2.2}% 
+\contentsline {subsubsection}{\numberline {13.2.2.1}Micropipetta}{122}{subsubsection.13.2.2.1}% 
+\contentsline {paragraph}{\numberline {13.2.2.1.1}Tipologie}{122}{paragraph.13.2.2.1.1}% 
+\contentsline {paragraph}{\numberline {13.2.2.1.2}Utilizzo}{122}{paragraph.13.2.2.1.2}% 
+\contentsline {subsubsection}{\numberline {13.2.2.2}Tempo di generazione}{122}{subsubsection.13.2.2.2}% 
+\contentsline {subsubsection}{\numberline {13.2.2.3}Procedimento}{123}{subsubsection.13.2.2.3}% 
+\contentsline {subsubsection}{\numberline {13.2.2.4}Analisi dei dati}{123}{subsubsection.13.2.2.4}% 
+\contentsline {paragraph}{\numberline {13.2.2.4.1}Dati raccolti}{124}{paragraph.13.2.2.4.1}% 
+\contentsline {section}{\numberline {13.3}Terza esperienza - Caratterizzazione dei batteri del cavo orale}{124}{section.13.3}% 
+\contentsline {subsection}{\numberline {13.3.1}Introduzione}{124}{subsection.13.3.1}% 
+\contentsline {subsubsection}{\numberline {13.3.1.1}Piastra su agar-sangue}{124}{subsubsection.13.3.1.1}% 
+\contentsline {paragraph}{\numberline {13.3.1.1.1}Emolisi}{124}{paragraph.13.3.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.3.1.1.2}Semina sulla piastra}{124}{paragraph.13.3.1.1.2}% 
+\contentsline {subsubsection}{\numberline {13.3.1.2}Morfologia dei batteri del cavo orale}{124}{subsubsection.13.3.1.2}% 
+\contentsline {paragraph}{\numberline {13.3.1.2.1}Aspetto}{124}{paragraph.13.3.1.2.1}% 
+\contentsline {paragraph}{\numberline {13.3.1.2.2}Rilievo}{125}{paragraph.13.3.1.2.2}% 
+\contentsline {paragraph}{\numberline {13.3.1.2.3}Superficie}{125}{paragraph.13.3.1.2.3}% 
+\contentsline {paragraph}{\numberline {13.3.1.2.4}Margini}{125}{paragraph.13.3.1.2.4}% 
+\contentsline {paragraph}{\numberline {13.3.1.2.5}Struttura}{125}{paragraph.13.3.1.2.5}% 
+\contentsline {paragraph}{\numberline {13.3.1.2.6}Altri fattori}{125}{paragraph.13.3.1.2.6}% 
+\contentsline {subsection}{\numberline {13.3.2}Secondo giorno}{125}{subsection.13.3.2}% 
+\contentsline {subsubsection}{\numberline {13.3.2.1}Equilibrio plastico}{126}{subsubsection.13.3.2.1}% 
+\contentsline {subsubsection}{\numberline {13.3.2.2}Ecosistema orale}{126}{subsubsection.13.3.2.2}% 
+\contentsline {paragraph}{\numberline {13.3.2.2.1}Esempi}{126}{paragraph.13.3.2.2.1}% 
+\contentsline {subsection}{\numberline {13.3.3}Procedimento}{126}{subsection.13.3.3}% 
+\contentsline {section}{\numberline {13.4}Quarta esperienza - Conta standard su piastra}{127}{section.13.4}% 
+\contentsline {subsection}{\numberline {13.4.1}Introduzione}{127}{subsection.13.4.1}% 
+\contentsline {subsubsection}{\numberline {13.4.1.1}Conta microbica indiretta}{127}{subsubsection.13.4.1.1}% 
+\contentsline {subsubsection}{\numberline {13.4.1.2}Conta vitale}{127}{subsubsection.13.4.1.2}% 
+\contentsline {paragraph}{\numberline {13.4.1.2.1}Processo}{127}{paragraph.13.4.1.2.1}% 
+\contentsline {subsection}{\numberline {13.4.2}Secondo giorno}{127}{subsection.13.4.2}% 
+\contentsline {subsubsection}{\numberline {13.4.2.1}Metodi della conta batterica}{127}{subsubsection.13.4.2.1}% 
+\contentsline {paragraph}{\numberline {13.4.2.1.1}Conta diretta}{127}{paragraph.13.4.2.1.1}% 
+\contentsline {paragraph}{\numberline {13.4.2.1.2}Conta indiretta}{127}{paragraph.13.4.2.1.2}% 
+\contentsline {paragraph}{\numberline {13.4.2.1.3}Conta vitale}{127}{paragraph.13.4.2.1.3}% 
+\contentsline {subsubsection}{\numberline {13.4.2.2}Colonia}{127}{subsubsection.13.4.2.2}% 
+\contentsline {subsubsection}{\numberline {13.4.2.3}Procedimento}{128}{subsubsection.13.4.2.3}% 
+\contentsline {subsubsection}{\numberline {13.4.2.4}Analisi dei risultati}{128}{subsubsection.13.4.2.4}% 
+\contentsline {section}{\numberline {13.5}Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{129}{section.13.5}% 
+\contentsline {subsection}{\numberline {13.5.1}Introduzione}{129}{subsection.13.5.1}% 
+\contentsline {subsubsection}{\numberline {13.5.1.1}Distinguere i batteri in base alla richiesta di ossigeno}{129}{subsubsection.13.5.1.1}% 
+\contentsline {subsubsection}{\numberline {13.5.1.2}Batteri modello}{129}{subsubsection.13.5.1.2}% 
+\contentsline {subsubsection}{\numberline {13.5.1.3}Processo}{129}{subsubsection.13.5.1.3}% 
+\contentsline {subsection}{\numberline {13.5.2}Seconda giornata}{129}{subsection.13.5.2}% 
+\contentsline {subsubsection}{\numberline {13.5.2.1}Creazione di condizione di anaerobiosi}{130}{subsubsection.13.5.2.1}% 
+\contentsline {paragraph}{\numberline {13.5.2.1.1}Verificare l'assenza di ossigeno}{130}{paragraph.13.5.2.1.1}% 
+\contentsline {subsubsection}{\numberline {13.5.2.2}Procedimento}{130}{subsubsection.13.5.2.2}% 
+\contentsline {section}{\numberline {13.6}Sesta esperienza - test Kirby-Bauer}{130}{section.13.6}% 
+\contentsline {subsection}{\numberline {13.6.1}Introduzione}{130}{subsection.13.6.1}% 
+\contentsline {subsubsection}{\numberline {13.6.1.1}Test di Kirby-Bauer}{130}{subsubsection.13.6.1.1}% 
+\contentsline {paragraph}{\numberline {13.6.1.1.1}Procedimento}{131}{paragraph.13.6.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.6.1.1.2}lettura dei risultati}{131}{paragraph.13.6.1.1.2}% 
+\contentsline {subsection}{\numberline {13.6.2}Secondo giorno}{131}{subsection.13.6.2}% 
+\contentsline {subsubsection}{\numberline {13.6.2.1}Resistenza}{131}{subsubsection.13.6.2.1}% 
+\contentsline {paragraph}{\numberline {13.6.2.1.1}Sviluppo della resistenza}{131}{paragraph.13.6.2.1.1}% 
+\contentsline {paragraph}{\numberline {13.6.2.1.2}Superbatteri}{131}{paragraph.13.6.2.1.2}% 
+\contentsline {paragraph}{\numberline {13.6.2.1.3}Identificazione della resistenza}{131}{paragraph.13.6.2.1.3}% 
+\contentsline {subsubsection}{\numberline {13.6.2.2}Procedimento}{131}{subsubsection.13.6.2.2}% 
+\contentsline {subsubsection}{\numberline {13.6.2.3}Breakpoint \emph {EUCAST}}{132}{subsubsection.13.6.2.3}% 
+\contentsline {section}{\numberline {13.7}Settima esperienza - test biochimico \emph {API 20E}}{132}{section.13.7}% 
+\contentsline {subsection}{\numberline {13.7.1}Introduzione}{132}{subsection.13.7.1}% 
+\contentsline {subsubsection}{\numberline {13.7.1.1}Test \emph {API 20E}}{132}{subsubsection.13.7.1.1}% 
+\contentsline {paragraph}{\numberline {13.7.1.1.1}Processo}{132}{paragraph.13.7.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.7.1.1.2}Lettura dei risultati}{133}{paragraph.13.7.1.1.2}% 
+\contentsline {subparagraph}{\numberline {13.7.1.1.2.1}Lettura dei moduli}{133}{subparagraph.13.7.1.1.2.1}% 
+\contentsline {subsection}{\numberline {13.7.2}Secondo giorno}{133}{subsection.13.7.2}% 
+\contentsline {subsubsection}{\numberline {13.7.2.1}Caratteristiche individuate}{133}{subsubsection.13.7.2.1}% 
+\contentsline {subsubsection}{\numberline {13.7.2.2}Procedimento}{133}{subsubsection.13.7.2.2}% 
+\contentsline {section}{\numberline {13.8}Ottava esperienza - Colorazione di Gram}{135}{section.13.8}% 
+\contentsline {subsection}{\numberline {13.8.1}Introduzione}{135}{subsection.13.8.1}% 
+\contentsline {subsubsection}{\numberline {13.8.1.1}Procedimento}{135}{subsubsection.13.8.1.1}% 
+\contentsline {subsubsection}{\numberline {13.8.1.2}Identificare i Gram$\mathbf {+}$}{135}{subsubsection.13.8.1.2}% 
+\contentsline {subsubsection}{\numberline {13.8.1.3}Identificare i Gram$\mathbf {-}$}{135}{subsubsection.13.8.1.3}% 
+\contentsline {subsection}{\numberline {13.8.2}Terzo giorno}{135}{subsection.13.8.2}% 
+\contentsline {subsubsection}{\numberline {13.8.2.1}Procedimento}{135}{subsubsection.13.8.2.1}% 
+\contentsline {paragraph}{\numberline {13.8.2.1.1}Preparazione del vetrino}{135}{paragraph.13.8.2.1.1}% 
+\contentsline {paragraph}{\numberline {13.8.2.1.2}Fissazione del preparato}{136}{paragraph.13.8.2.1.2}% 
+\contentsline {paragraph}{\numberline {13.8.2.1.3}Colorazione del preparato}{136}{paragraph.13.8.2.1.3}% 
+\contentsline {section}{\numberline {13.9}Nona esperienza - Trasformazione di batteri}{137}{section.13.9}% 
+\contentsline {subsection}{\numberline {13.9.1}Introduzione}{137}{subsection.13.9.1}% 
+\contentsline {subsubsection}{\numberline {13.9.1.1}Trasformazione batterica}{137}{subsubsection.13.9.1.1}% 
+\contentsline {paragraph}{\numberline {13.9.1.1.1}Trasformazione chimica}{137}{paragraph.13.9.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.9.1.1.2}Trasformazione elettrica}{137}{paragraph.13.9.1.1.2}% 
+\contentsline {subsubsection}{\numberline {13.9.1.2}Plasmidi}{137}{subsubsection.13.9.1.2}% 
+\contentsline {subsubsection}{\numberline {13.9.1.3}Processo di trasformazione}{137}{subsubsection.13.9.1.3}% 
+\contentsline {subsection}{\numberline {13.9.2}Terzo giorno}{137}{subsection.13.9.2}% 
+\contentsline {subsubsection}{\numberline {13.9.2.1}Procedimento}{137}{subsubsection.13.9.2.1}% 
+\contentsline {section}{\numberline {13.10}Decima esperienza - Osservazione della motilit\`a batterica di tipo ``swimming'' al microscopio ottico}{138}{section.13.10}% 
+\contentsline {subsection}{\numberline {13.10.1}Introduzione}{138}{subsection.13.10.1}% 
+\contentsline {subsubsection}{\numberline {13.10.1.1}Flagelli}{139}{subsubsection.13.10.1.1}% 
+\contentsline {paragraph}{\numberline {13.10.1.1.1}Tipi di movimento}{139}{paragraph.13.10.1.1.1}% 
+\contentsline {paragraph}{\numberline {13.10.1.1.2}Distinzione in base a numero e posizione dei flagelli}{139}{paragraph.13.10.1.1.2}% 
+\contentsline {subsection}{\numberline {13.10.2}Terza giornata}{139}{subsection.13.10.2}% 
+\contentsline {subsubsection}{\numberline {13.10.2.1}Procedimento}{139}{subsubsection.13.10.2.1}% 

@@ -251,35 +251,52 @@
 \BOOKMARK [1][-]{section.10.7}{Progettazione di nuovi farmaci}{chapter.10}% 251
 \BOOKMARK [2][-]{subsection.10.7.1}{Progettazione computerizzata di farmaci virali}{section.10.7}% 252
 \BOOKMARK [2][-]{subsection.10.7.2}{Chimica combinatoriale}{section.10.7}% 253
-\BOOKMARK [0][-]{chapter.11}{Laboratorio}{}% 254
-\BOOKMARK [1][-]{section.11.1}{Prima esperienza - preparazione del terreno di coltura sterile}{chapter.11}% 255
-\BOOKMARK [2][-]{subsection.11.1.1}{Introduzione}{section.11.1}% 256
-\BOOKMARK [2][-]{subsection.11.1.2}{Primo giorno}{section.11.1}% 257
-\BOOKMARK [1][-]{section.11.2}{Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico \(E. coli\)}{chapter.11}% 258
-\BOOKMARK [2][-]{subsection.11.2.1}{Introduzione}{section.11.2}% 259
-\BOOKMARK [2][-]{subsection.11.2.2}{Primo giorno}{section.11.2}% 260
-\BOOKMARK [1][-]{section.11.3}{Terza esperienza - Caratterizzazione dei batteri del cavo orale}{chapter.11}% 261
-\BOOKMARK [2][-]{subsection.11.3.1}{Introduzione}{section.11.3}% 262
-\BOOKMARK [2][-]{subsection.11.3.2}{Secondo giorno}{section.11.3}% 263
-\BOOKMARK [2][-]{subsection.11.3.3}{Procedimento}{section.11.3}% 264
-\BOOKMARK [1][-]{section.11.4}{Quarta esperienza - Conta standard su piastra}{chapter.11}% 265
-\BOOKMARK [2][-]{subsection.11.4.1}{Introduzione}{section.11.4}% 266
-\BOOKMARK [2][-]{subsection.11.4.2}{Secondo giorno}{section.11.4}% 267
-\BOOKMARK [1][-]{section.11.5}{Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{chapter.11}% 268
-\BOOKMARK [2][-]{subsection.11.5.1}{Introduzione}{section.11.5}% 269
-\BOOKMARK [2][-]{subsection.11.5.2}{Seconda giornata}{section.11.5}% 270
-\BOOKMARK [1][-]{section.11.6}{Sesta esperienza - test Kirby-Bauer}{chapter.11}% 271
-\BOOKMARK [2][-]{subsection.11.6.1}{Introduzione}{section.11.6}% 272
-\BOOKMARK [2][-]{subsection.11.6.2}{Secondo giorno}{section.11.6}% 273
-\BOOKMARK [1][-]{section.11.7}{Settima esperienza - test biochimico API 20E}{chapter.11}% 274
-\BOOKMARK [2][-]{subsection.11.7.1}{Introduzione}{section.11.7}% 275
-\BOOKMARK [2][-]{subsection.11.7.2}{Secondo giorno}{section.11.7}% 276
-\BOOKMARK [1][-]{section.11.8}{Ottava esperienza - Colorazione di Gram}{chapter.11}% 277
-\BOOKMARK [2][-]{subsection.11.8.1}{Introduzione}{section.11.8}% 278
-\BOOKMARK [2][-]{subsection.11.8.2}{Terzo giorno}{section.11.8}% 279
-\BOOKMARK [1][-]{section.11.9}{Nona esperienza - Trasformazione di batteri}{chapter.11}% 280
-\BOOKMARK [2][-]{subsection.11.9.1}{Introduzione}{section.11.9}% 281
-\BOOKMARK [2][-]{subsection.11.9.2}{Terzo giorno}{section.11.9}% 282
-\BOOKMARK [1][-]{section.11.10}{Decima esperienza - Osservazione della motilit\340 batterica di tipo ``swimming'' al microscopio ottico}{chapter.11}% 283
-\BOOKMARK [2][-]{subsection.11.10.1}{Introduzione}{section.11.10}% 284
-\BOOKMARK [2][-]{subsection.11.10.2}{Terza giornata}{section.11.10}% 285
+\BOOKMARK [0][-]{chapter.11}{Antibiotico resistenza}{}% 254
+\BOOKMARK [1][-]{section.11.1}{Introduzione}{chapter.11}% 255
+\BOOKMARK [2][-]{subsection.11.1.1}{Esperimento della Harvard Medical School}{section.11.1}% 256
+\BOOKMARK [2][-]{subsection.11.1.2}{Resistenza intrinseca}{section.11.1}% 257
+\BOOKMARK [1][-]{section.11.2}{Sviluppo e diffusione della resistenza nelle popolazioni microbiche}{chapter.11}% 258
+\BOOKMARK [2][-]{subsection.11.2.1}{Resistenza multipla e cross-resistenza}{section.11.2}% 259
+\BOOKMARK [2][-]{subsection.11.2.2}{Ritardare la comparsa della resistenza}{section.11.2}% 260
+\BOOKMARK [1][-]{section.11.3}{Metagenomica dell'antibiotico resistenza in batteri ambientali}{chapter.11}% 261
+\BOOKMARK [2][-]{subsection.11.3.1}{Resistoma}{section.11.3}% 262
+\BOOKMARK [2][-]{subsection.11.3.2}{Batteri nel suolo}{section.11.3}% 263
+\BOOKMARK [2][-]{subsection.11.3.3}{Trasferimento genico dei determinanti della resistenza}{section.11.3}% 264
+\BOOKMARK [2][-]{subsection.11.3.4}{Modello per l'evoluzione dell'antibiotico resistenza}{section.11.3}% 265
+\BOOKMARK [1][-]{section.11.4}{Future terapie antivirali}{chapter.11}% 266
+\BOOKMARK [2][-]{subsection.11.4.1}{Virulenza}{section.11.4}% 267
+\BOOKMARK [2][-]{subsection.11.4.2}{Inibire la patogenesi}{section.11.4}% 268
+\BOOKMARK [2][-]{subsection.11.4.3}{Elementi di patenogenesi}{section.11.4}% 269
+\BOOKMARK [0][-]{chapter.12}{Patogenicit\340 batterica}{}% 270
+\BOOKMARK [0][-]{chapter.13}{Laboratorio}{}% 271
+\BOOKMARK [1][-]{section.13.1}{Prima esperienza - preparazione del terreno di coltura sterile}{chapter.13}% 272
+\BOOKMARK [2][-]{subsection.13.1.1}{Introduzione}{section.13.1}% 273
+\BOOKMARK [2][-]{subsection.13.1.2}{Primo giorno}{section.13.1}% 274
+\BOOKMARK [1][-]{section.13.2}{Seconda esperienza - Determinazione della curva di crescita di un ceppo batterico \(E. coli\)}{chapter.13}% 275
+\BOOKMARK [2][-]{subsection.13.2.1}{Introduzione}{section.13.2}% 276
+\BOOKMARK [2][-]{subsection.13.2.2}{Primo giorno}{section.13.2}% 277
+\BOOKMARK [1][-]{section.13.3}{Terza esperienza - Caratterizzazione dei batteri del cavo orale}{chapter.13}% 278
+\BOOKMARK [2][-]{subsection.13.3.1}{Introduzione}{section.13.3}% 279
+\BOOKMARK [2][-]{subsection.13.3.2}{Secondo giorno}{section.13.3}% 280
+\BOOKMARK [2][-]{subsection.13.3.3}{Procedimento}{section.13.3}% 281
+\BOOKMARK [1][-]{section.13.4}{Quarta esperienza - Conta standard su piastra}{chapter.13}% 282
+\BOOKMARK [2][-]{subsection.13.4.1}{Introduzione}{section.13.4}% 283
+\BOOKMARK [2][-]{subsection.13.4.2}{Secondo giorno}{section.13.4}% 284
+\BOOKMARK [1][-]{section.13.5}{Quinta esperienza - test di aerobiosi/anaerobiosi su terreno solido}{chapter.13}% 285
+\BOOKMARK [2][-]{subsection.13.5.1}{Introduzione}{section.13.5}% 286
+\BOOKMARK [2][-]{subsection.13.5.2}{Seconda giornata}{section.13.5}% 287
+\BOOKMARK [1][-]{section.13.6}{Sesta esperienza - test Kirby-Bauer}{chapter.13}% 288
+\BOOKMARK [2][-]{subsection.13.6.1}{Introduzione}{section.13.6}% 289
+\BOOKMARK [2][-]{subsection.13.6.2}{Secondo giorno}{section.13.6}% 290
+\BOOKMARK [1][-]{section.13.7}{Settima esperienza - test biochimico API 20E}{chapter.13}% 291
+\BOOKMARK [2][-]{subsection.13.7.1}{Introduzione}{section.13.7}% 292
+\BOOKMARK [2][-]{subsection.13.7.2}{Secondo giorno}{section.13.7}% 293
+\BOOKMARK [1][-]{section.13.8}{Ottava esperienza - Colorazione di Gram}{chapter.13}% 294
+\BOOKMARK [2][-]{subsection.13.8.1}{Introduzione}{section.13.8}% 295
+\BOOKMARK [2][-]{subsection.13.8.2}{Terzo giorno}{section.13.8}% 296
+\BOOKMARK [1][-]{section.13.9}{Nona esperienza - Trasformazione di batteri}{chapter.13}% 297
+\BOOKMARK [2][-]{subsection.13.9.1}{Introduzione}{section.13.9}% 298
+\BOOKMARK [2][-]{subsection.13.9.2}{Terzo giorno}{section.13.9}% 299
+\BOOKMARK [1][-]{section.13.10}{Decima esperienza - Osservazione della motilit\340 batterica di tipo ``swimming'' al microscopio ottico}{chapter.13}% 300
+\BOOKMARK [2][-]{subsection.13.10.1}{Introduzione}{section.13.10}% 301
+\BOOKMARK [2][-]{subsection.13.10.2}{Terza giornata}{section.13.10}% 302
